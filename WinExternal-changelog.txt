@@ -1,0 +1,246 @@
+### WinExternal
+
+WinExternal is a project that compiles several essential packages for Windows in an unattended and silent launcher
+
+WinExternal es un proyecto que recopila varios paquetes esenciales para Windows en un lanzador desatendido y silencioso
+
+### DOWNLOAD
+
+file:       WinExternal.exe (.zip)
+Version:    1.0 Beta
+SO:         Windows 7/8/10 x86 x64
+
+### HOW TO USE
+
+Disable your Antivirus, Antimalware, SmartScreen or any other security solution in your Operating System, close all windows and check the date and time of your PC is correct. Download WinExternal.exe (.zip), unzip it to your desktop, execute it with double click (accept privileged execution) and follow the instructions on the screen
+
+Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de seguridad en su Sistema Operativo, cierre todas las ventanas y verifique la fecha y hora de su PC sea la correcta. Descargue WinExternal.exe (.zip), descomprimirlo en el escritorio, ejecutarlo con doble clic (acepte la ejecución con privilegios) y siga las instrucciones en pantalla
+
+###  CONTENT
+
+- Adobe Flash Player ActiveX 32 (32.0.0.314) (IE)
+- Adobe Flash Player NPAPI 32 (32.0.0.314) (Firefox)
+- Adobe Shockwave Player 12.3 (12.3.5.205)
+- Oracle Java 8 Update 241 (8.0.2410.0)
+- Microsoft Silverlight 5.1.50918.0 (x86 x64)
+- Microsoft Visual Runtimes x86 (Legacy): Basic/C++ 2002 (7.0.9975.0), 2003 (7.10.6119.0)
+- Microsoft Visual C++ 2005 Redistributable (x86 x64) 8.0.50727.6229
+- Microsoft Visual C++ 2008 Redistributable (x86 x64) 9.30729.7523
+- Microsoft Visual C++ 2010 Redistributable (x86 x64) 10.0.40219.473
+- Microsoft Visual C++ 2012 Additional and Minimum Runtime (x86 x64) 11.0.61135.400
+- Microsoft Visual C++ 2013 Additional and Minimum Runtime (x86 x64) 12.0.40664.0
+- Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.24.28127.4
+- Microsoft Visual J# 2.0 Redistributable Package - SE (x86 x64)
+- Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 10.0.40219
+- Microsoft Visual Studio 2010 Tools for Office Runtime (x86/x64) 10.0.60833.0
+
+##### Only Windows 7
+
+- Microsoft NetFramework 4.8 (4.8.03761)
+- Microsoft XNA Framework Redistributable 4.0 Refresh (4.0.30901.0)
+- Microsoft Filter Pack 2.0 (KB2837594) (x86 x64)
+- Microsoft Directx 9c (Jun2010)
+
+##### Important
+
+- [Visual C++ 2015, 2017 and 2019 all share the same redistributable files](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+- [The .NET Framework 4.8 is included with Windows 10 (May 2019 Update and later versions)](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48) ([Sistemas operativos de cliente soportados - Supported client operating systems](https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements#supported-client-operating-systems))
+
+### CHANGELOG
+
+2020.01.14
+Update: Oracle Java 8 Update 241 (8.0.2410.0)
+Update: Adobe Flash Player ActiveX 32 (32.0.0.314) (IE)
+Update: Adobe Flash Player NPAPI 32 (32.0.0.314) (Firefox)
+
+2019.10.16
+Update: Oracle Java 8 Update 231 (8.0.2310.11)
+Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.24.28127.4
+
+2019.09.20
+Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.22.27821.0
+
+2019.07.17
+Update: Oracle Java 8 Update 221 (8.0.2210.11)
+
+2019.07.12
+Add: Microsoft XNA Framework Redistributable 4.0 Refresh (4.0.30901.0)
+Fixed: BUGS
+
+2019.07.09
+Update: Adobe Flash Player ActiveX 32 (32.0.0.223) (IE)
+Update: Adobe Flash Player NPAPI 32 (32.0.0.223) (Firefox)
+Fixed: BUGS
+
+2019.06.28
+Update: Visual C++ Redistributable Package
+Fixed: BUGS
+
+2019.06.21
+Update: Oracle Java 8 Update 212 (8.0.2120.10)
+Update: Microsoft NetFramework 4.8 (4.8.03761)
+Update: Microsoft Silverlight 5.1.50918.0
+Remove: MSXML 4.0 Service Pack 3 Parser (4.30.2117.0) (KB2758694) (Obsolete)
+Remove: Microsoft Core XML Services (MSXML) 6.0 (x86 x64) (Obsolete)
+Remove: Microsoft .NET Framework 4.7.2 (Obsolete)
+Fixed: BUGS
+
+2019.06.11
+Update: Adobe Flash Player ActiveX 32 (32.0.0.207) (IE)
+Update: Adobe Flash Player NPAPI 32 (32.0.0.207) (Firefox)
+
+2019.05.25
+Fixed: BUGS
+Add: version control
+
+2019.05.22
+Add: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.22.27706.1
+Fixed: BUGS
+
+2019.05.14
+Update: Adobe Flash Player ActiveX 32 (32.0.0.192) (IE)
+Update: Adobe Flash Player NPAPI 32 (32.0.0.192) (Firefox)
+Update: Microsoft Visual Basic/C++ Runtime (x86)
+Update: Microsoft Visual Basic/C++ Runtime (x86)
+Add: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.21.27619 (Microsoft Visual C++ 2015 and 2017 is included in this pack)
+Fixed: BUGS
+
+2019.04.16
+Update: Oracle Java 8 Update 211 (8.0.2110.12)
+
+2019.04.09
+Update: Adobe Flash Player ActiveX 32 (32.0.0.171) (IE)
+Update: Adobe Flash Player NPAPI 32 (32.0.0.171) (Firefox)
+
+2019.03.29
+Update: Adobe Shockwave Player 12.3 (12.3.5.205)
+
+2019.03.13
+Update: Adobe Flash Player ActiveX 32 (32.0.0.156) (IE)
+Update: Adobe Flash Player NPAPI 32 (32.0.0.156) (Firefox)
+
+2019.02.14
+Update: Adobe Flash Player ActiveX 32 (32.0.0.142) (IE)
+Update: Adobe Flash Player NPAPI 32 (32.0.0.142) (Firefox)
+
+2019.01.17
+Update: Oracle Java 8 Update 201 (8.0.2010.9)
+
+2019.01.09
+Update: Adobe Flash Player ActiveX 32 (32.0.0.114) (IE)
+Add: Adobe Flash Player NPAPI 32 (32.0.0.114) (Firefox)
+
+2018.12.07
+Update: Adobe Flash Player ActiveX 32 (32.0.0.101) (IE)
+Update: Adobe Flash Player NPAPI 32 (32.0.0.101) (Firefox)
+
+2018.11.22
+Update: Adobe Flash Player ActiveX 31 (31.0.0.153) (IE)
+Update: Adobe Flash Player NPAPI 31 (31.0.0.153) (Firefox)
+
+2018.10.19
+Update: Oracle Java 8 Update 191 (8.0.1910.12)
+
+2018.10.10
+Update: Adobe Flash Player ActiveX 31 (31.0.0.122) (IE)
+Update: Adobe Flash Player NPAPI 31 (31.0.0.122) (Firefox)
+
+2018.09.12
+Update: Adobe Flash Player ActiveX 31 (31.0.0.108) (IE)
+Update: Adobe Flash Player NPAPI 31 (31.0.0.108) (Firefox)
+
+2018.08.15
+Update: Adobe Flash Player ActiveX 30 (30.0.0.154) (IE)
+Update: Adobe Flash Player NPAPI 30 (30.0.0.154) (Firefox)
+
+2018.07.24
+Update: Microsoft NetFramework 4.7.2 (KB4054530)
+
+2018.07.23
+Update: Oracle Java 8 Update 181 (8.0.1810.13)
+
+2018.07.11
+Update: Adobe Flash Player ActiveX 30 (30.0.0.134) (IE)
+Update: Adobe Flash Player NPAPI 30 (30.0.0.134) (Firefox)
+
+2018.07.08
+Update: Adobe Shockwave Player 12.3 (12.3.4.204)
+
+2018.05.28
+Update: Adobe Shockwave Player 12.3 (12.3.3.203)
+
+2018.05.15
+Update: Adobe Flash Player ActiveX 29 (29.0.0.171)
+Update: Adobe Flash Player NPAPI 29 (29.0.0.171)
+
+2018.04.23
+Update: Java 8 Update 171 (8.0.1710.11)
+
+2018.03.16
+Update: Adobe Shockwave Player 12.3 (12.3.2.202)
+
+2018.03.05
+Add: MSXML 4.0 Service Pack 3 Parser (4.30.2117.0) (KB2758694)
+
+2018.02.23
+Fixed: BUGS
+
+2018.02.22
+Add: Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
+Update: Microsoft Visual C++ 2017 Additional and Minimum Runtime (x86 x64) 14.13.26020
+
+2018.01.25
+Update: Java 8 Update 162 (8.0.1620.12)
+Update: Microsoft .NET Framework 4.7.1 (4.7.02558)
+
+2018.01.18
+Update: Java 8 Update 161 (8.0.1610.12)
+
+2017.12.14
+Update: Adobe Flash Player ActiveX 28 (28.0.0.126)
+Update: Adobe Flash Player NPAPI 28 (28.0.0.126)
+
+2017.11.21
+Update: Adobe Shockwave Player 12.3 (12.3.1.201)
+Update: Visual C++ Runtime Installer v56
+
+2017.11.01
+Update: Java 8 Update 151 (8.0.1510.12)
+
+2017.08.31
+Fixed: BUGS
+
+2017.07.31
+Added: Microsoft Visual J# 2.0 Redistributable Package - SE
+Update: Adobe Flash Player ActiveX 26 (26.0.0.151)
+Update: Adobe Flash Player NPAPI 26 (26.0.0.151)
+Update: Java 8 Update 144 (8.0.1440.15)
+
+2017.06.31
+Added: Microsoft Directx 9c (Jun2010)
+Fixed: BUGS and Links
+
+2017.05.31
+Release day
+Added: Adobe Flash Player ActiveX
+Added: Adobe Flash Player NPAPI
+Added: Adobe Shockwave Player
+Added: Java 8
+Added: Microsoft Filter Pack 2.0
+Added: Microsoft NetFramework 4.6.2
+Added: Microsoft Silverlight
+Added: Visual C++ Runtime Installer v54
+
+### LICENCIAS / LICENCES
+---
+
+[![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
+
+[![CreativeCommons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[maravento.com](http://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+[Jpsoft](https://jpsoft.com/), [Indigo Rose](https://www.indigorose.com/autoplay-media-studio/), [SteelWerX](https://fstaal01.home.xs4all.nl/swreg-us.html), [Microsoft](https://www.microsoft.com/), [74cz](http://74.cz/es/make-sfx/index.php), [Resource Hacker](http://www.angusj.com/resourcehacker/), [HashGenerator](http://www.SecurityXploded.com), [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/), [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html), [vcredist](https://github.com/abbodi1406/vcredist)
+
+### EXENCION DE RESPONSABILIDAD/DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
