@@ -239,7 +239,7 @@ Added: Visual C++ Runtime Installer v54
 [![CreativeCommons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 [maravento.com](http://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-[Jpsoft](https://jpsoft.com/), [Indigo Rose](https://www.indigorose.com/autoplay-media-studio/), [SteelWerX](https://fstaal01.home.xs4all.nl/swreg-us.html), [Microsoft](https://www.microsoft.com/), [74cz](http://74.cz/es/make-sfx/index.php), [Resource Hacker](http://www.angusj.com/resourcehacker/), [HashGenerator](http://www.SecurityXploded.com), [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/), [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html), [vcredist](https://github.com/abbodi1406/vcredist)
+[WinZenity](https://github.com/maravento/winzenity), [Jpsoft](https://jpsoft.com/), [Indigo Rose](https://www.indigorose.com/autoplay-media-studio/), [SteelWerX](https://fstaal01.home.xs4all.nl/swreg-us.html), [Microsoft](https://www.microsoft.com/), [74cz](http://74.cz/es/make-sfx/index.php), [Resource Hacker](http://www.angusj.com/resourcehacker/), [HashGenerator](http://www.SecurityXploded.com), [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/), [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html), [vcredist](https://github.com/abbodi1406/vcredist)
 
 ### EXENCION DE RESPONSABILIDAD/DISCLAIMER
 

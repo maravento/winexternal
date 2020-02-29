@@ -11,7 +11,7 @@
 
 |File|Version|OS|Update|Size|
 | :---: | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://gitlab.com/maravento/binaries/raw/master/WinExternal.zip)|1.0|Windows 7/8/10 x86 x64|Oct 16/2019|460.2 MB|
+|[WinExternal.exe (.zip)](http://pc.cd/wBT7)|1.0|Windows 7/8/10 x86 x64|Oct 16/2019|460.2 MB|
 
 ### HOW TO USE
 ---
@@ -64,7 +64,7 @@ We thank all those who contributed to this project / Agradecemos a todos los que
 [![CreativeCommons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 [maravento.com](http://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-[Jpsoft](https://jpsoft.com/), [Indigo Rose](https://www.indigorose.com/autoplay-media-studio/), [SteelWerX](https://fstaal01.home.xs4all.nl/swreg-us.html), [Microsoft](https://www.microsoft.com/), [74cz](http://74.cz/es/make-sfx/index.php), [Resource Hacker](http://www.angusj.com/resourcehacker/), [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/), [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html), [vcredist](https://github.com/abbodi1406/vcredist)
+[WinZenity](https://github.com/maravento/winzenity), [Jpsoft](https://jpsoft.com/), [Indigo Rose](https://www.indigorose.com/autoplay-media-studio/), [SteelWerX](https://fstaal01.home.xs4all.nl/swreg-us.html), [Microsoft](https://www.microsoft.com/), [74cz](http://74.cz/es/make-sfx/index.php), [Resource Hacker](http://www.angusj.com/resourcehacker/), [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/), [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html), [vcredist](https://github.com/abbodi1406/vcredist)
 
 © 2020 [Maravento Studio](http://www.maravento.com)
 
