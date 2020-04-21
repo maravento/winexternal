@@ -4,14 +4,14 @@
 
 **WinExternal** es un proyecto que recopila varios paquetes esenciales para Windows en un lanzador desatendido y silencioso
 
-[![Image](https://2.bp.blogspot.com/-iZ_fW9WYLHM/XOV_tAfCZkI/AAAAAAAAHW8/B-RdtgeEwX08oizgP3VDG-_kdWb95ngaQCLcBGAs/s1600/winexternal.png)](http://www.maravento.com/p/winexternal.html)
+[![Image](https://2.bp.blogspot.com/-iZ_fW9WYLHM/XOV_tAfCZkI/AAAAAAAAHW8/B-RdtgeEwX08oizgP3VDG-_kdWb95ngaQCLcBGAs/s1600/winexternal.png)](https://www.maravento.com/p/winexternal.html)
 
 ### DATA SHEET
 ---
 
 |File|Version|OS|Update|Size|
 | :---: | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](http://pc.cd/wBT7)|1.0|Windows 7/8/10 x86 x64|Apr 17/2020|440 MB|
+|[WinExternal.exe (.zip)](http://pc.cd/wBT7)|1.0|Windows 7/8/10 x86 x64|Apr 21/2020|461,8 MB|
 
 ### HOW TO USE
 ---
@@ -27,24 +27,24 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - Adobe Flash Player NPAPI 32 (32.0.0.363) (Firefox)
 - Adobe Shockwave Player 12.3 (12.3.5.205)
 - Oracle Java 8 Update 251 (8.0.2510.0)
-- Microsoft Silverlight 5.1.50918.0 (x86 x64)
-- Microsoft Visual Runtimes x86 (Legacy): Basic/C++ 2002 (7.0.9975.0), 2003 (7.10.6119.0)
-- Microsoft Visual C++ 2005 Redistributable (x86 x64) 8.0.50727.6229
-- Microsoft Visual C++ 2008 Redistributable (x86 x64) 9.30729.7523
-- Microsoft Visual C++ 2010 Redistributable (x86 x64) 10.0.40219.473
-- Microsoft Visual C++ 2012 Additional and Minimum Runtime (x86 x64) 11.0.61135.400
-- Microsoft Visual C++ 2013 Additional and Minimum Runtime (x86 x64) 12.0.40664.0
-- Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.24.28127.4
-- Microsoft Visual J# 2.0 Redistributable Package - SE (x86 x64)
-- Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 10.0.40219
-- Microsoft Visual Studio 2010 Tools for Office Runtime (x86/x64) 10.0.60833.0
+- Microsoft Silverlight x86 x64 (5.1.50918.0)
+- Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
+- Microsoft Visual C++ 2005 Redistributable x86 x64 (8.0.50727.6229)
+- Microsoft Visual C++ 2008 Redistributable x86 x64 (9.30729.7523)
+- Microsoft Visual C++ 2010 Redistributable x86 x64 (10.0.40219.473)
+- Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
+- Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
+- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.24.28720)
+- Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
+- Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
+- Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
 
 ##### Only Windows 7
 
 - Microsoft NetFramework 4.8 (4.8.03761)
 - Microsoft XNA Framework Redistributable 4.0 Refresh (4.0.30901.0)
-- Microsoft Filter Pack 2.0 (KB2837594) (x86 x64)
-- Microsoft Directx 9c (Jun2010)
+- Microsoft Filter Pack 2.0 (KB2837594) x86 x64
+- Microsoft Directx 9c Jun2010
 
 ##### Important
 
@@ -62,11 +62,11 @@ We thank all those who contributed to this project / Agradecemos a todos los que
 [![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
 
 [![CreativeCommons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-[maravento.com](http://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
+[maravento.com](https://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 [WinZenity](https://github.com/maravento/winzenity), [Jpsoft](https://jpsoft.com/), [Indigo Rose](https://www.indigorose.com/autoplay-media-studio/), [SteelWerX](https://fstaal01.home.xs4all.nl/swreg-us.html), [Microsoft](https://www.microsoft.com/), [74cz](http://74.cz/es/make-sfx/index.php), [Resource Hacker](http://www.angusj.com/resourcehacker/), [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/), [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html), [vcredist](https://github.com/abbodi1406/vcredist)
 
-© 2020 [Maravento Studio](http://www.maravento.com)
+© 2020 [Maravento Studio](https://www.maravento.com)
 
 ### DISCLAIMER
 ---
