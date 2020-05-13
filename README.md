@@ -11,7 +11,7 @@
 
 |File|Version|OS|Update|Size|
 | :---: | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](http://pc.cd/wBT7)|1.0|Windows 7/8/10 x86 x64|Apr 21/2020|461,8 MB|
+|[WinExternal.exe (.zip)](http://pc.cd/wBT7)|1.0|Windows 7/8/10 x86 x64|May 12/2020|461,8 MB|
 
 ### HOW TO USE
 ---
@@ -23,8 +23,8 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 ### CONTENT
 ---
 
-- Adobe Flash Player ActiveX 32 (32.0.0.363) (IE)
-- Adobe Flash Player NPAPI 32 (32.0.0.363) (Firefox)
+- Adobe Flash Player ActiveX 32 (32.0.0.371) (IE)
+- Adobe Flash Player NPAPI 32 (32.0.0.371) (Firefox)
 - Adobe Shockwave Player 12.3 (12.3.5.205)
 - Oracle Java 8 Update 251 (8.0.2510.0)
 - Microsoft Silverlight x86 x64 (5.1.50918.0)
