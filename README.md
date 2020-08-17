@@ -26,8 +26,8 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ---
 
-- Adobe Flash Player ActiveX 32 (32.0.0.403) (IE)
-- Adobe Flash Player NPAPI 32 (32.0.0.403) (Firefox)
+- Adobe Flash Player ActiveX 32 (32.0.0.414) (IE)
+- Adobe Flash Player NPAPI 32 (32.0.0.414) (Firefox)
 - Adobe Shockwave Player 12.3 (12.3.5.205)
 - Oracle Java 8 Update 261 (8.0.2610.0)
 - Microsoft Silverlight x86 x64 (5.1.50918.0)
