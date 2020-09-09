@@ -40,8 +40,8 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ### Only for Windows 7
 
-- Adobe Flash Player ActiveX 32 (32.0.0.414) (IE)
-- Adobe Flash Player NPAPI 32 (32.0.0.414) (Firefox)
+- Adobe Flash Player ActiveX 32 (32.0.0.433) (IE)
+- Adobe Flash Player NPAPI 32 (32.0.0.433) (Firefox)
 - Adobe Shockwave Player 12.3 (12.3.5.205)
 - Microsoft Silverlight x86 x64 (5.1.50918.0)
 - Microsoft NetFramework 4.8 (4.8.03761)
