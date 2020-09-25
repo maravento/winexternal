@@ -10,7 +10,7 @@
 
 ---
 
-|File|OS|Size|
+|Download|OS|Size|
 | :---: | :---: | :---: |
 |[WinExternal.exe (.zip)](https://mega.nz/file/jQl1CCpK#bkBM1FADvx4QoPkcclzJ02-0L65C2WwsamvAtTHuBQ0)|Windows 7/8/10 x86 x64|472 MB|
 
