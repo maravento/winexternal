@@ -33,15 +33,15 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - Microsoft Visual C++ 2010 Redistributable x86 x64 (10.0.40219.473)
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
-- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.28.29213.0)
+- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.28.29301.0)
 - Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
 - Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
 
 ### Only for Windows 7
 
-- Adobe Flash Player ActiveX 32 (32.0.0.433) (IE)
-- Adobe Flash Player NPAPI 32 (32.0.0.433) (Firefox)
+- Adobe Flash Player ActiveX 32 (32.0.0.445) (IE)
+- Adobe Flash Player NPAPI 32 (32.0.0.445) (Firefox)
 - Adobe Shockwave Player 12.3 (12.3.5.205)
 - Microsoft Silverlight x86 x64 (5.1.50918.0)
 - Microsoft NetFramework 4.8 (4.8.03761)

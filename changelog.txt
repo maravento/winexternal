@@ -1,6 +1,11 @@
 ### WinExternal CHANGELOG
 
 2020.09.08
+Update: Adobe Flash Player ActiveX 32 (32.0.0.445) (IE)
+Update: Adobe Flash Player NPAPI 32 (32.0.0.445) (Firefox)
+Update: Visual C++ 2019 Redistributable - 14.28.29301.0
+
+2020.09.08
 Update: Adobe Flash Player ActiveX 32 (32.0.0.433) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.433) (Firefox)
 
