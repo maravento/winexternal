@@ -1,5 +1,8 @@
 ### WinExternal CHANGELOG
 
+2020.10.20
+Fixed: BUGS
+
 2020.09.08
 Update: Adobe Flash Player ActiveX 32 (32.0.0.445) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.445) (Firefox)
