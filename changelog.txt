@@ -1,5 +1,10 @@
 ### WinExternal CHANGELOG
 
+2020.11.17
+Discontinued: Adobe Flash Player ActiveX 32 (32.0.0.453) (IE)
+Discontinued: Adobe Flash Player NPAPI 32 (32.0.0.453) (Firefox)
+Discontinued: Adobe Shockwave Player 12.3 (12.3.5.205)
+
 2020.11.12
 Update: Adobe Flash Player ActiveX 32 (32.0.0.453) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.453) (Firefox)

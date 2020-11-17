@@ -12,7 +12,7 @@
 
 |Download|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/XRkAUZJA#16gmRPxshHy_P-jgj6ZPbyNr0GluqYglk-60TiV9Fqs)|Windows 7/8/10 x86 x64|472 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/PRNwWJqJ#7_x9eXCB559QhXxxrRHXlL-qNQcx39hJ4eMprYJ5ys0)|Windows 7/8/10 x86 x64|472 MB|
 
 ## HOW TO USE
 
@@ -40,9 +40,6 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ### Only for Windows 7
 
-- Adobe Flash Player ActiveX 32 (32.0.0.453) (IE)
-- Adobe Flash Player NPAPI 32 (32.0.0.453) (Firefox)
-- Adobe Shockwave Player 12.3 (12.3.5.205)
 - Microsoft Silverlight x86 x64 (5.1.50918.0)
 - Microsoft NetFramework 4.8 (4.8.03761)
 - Microsoft XNA Framework Redistributable 4.0 Refresh (4.0.30901.0)
@@ -53,6 +50,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 - [Visual C++ 2015, 2017 and 2019 all share the same redistributable files](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 - [The .NET Framework 4.8 is included with Windows (May 2019 Update and later versions)](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48) ([Sistemas operativos de cliente soportados - Supported client operating systems](https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements#supported-client-operating-systems))
+- Adobe Flash Player ActiveX 32 (32.0.0.453) (IE), Adobe Flash Player NPAPI 32 (32.0.0.453) (Firefox) and Adobe Shockwave Player 12.3 (12.3.5.205) are discontinued and were removed from WinExternal. For more information see [Adobe EOL](https://www.adobe.com/es/products/flashplayer/end-of-life.html#:~:text=As%20previously%20announced%20in%20July,(%E2%80%9CEOL%20Date%E2%80%9D).)
 
 ## CONTRIBUTIONS
 
