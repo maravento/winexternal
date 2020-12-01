@@ -10,9 +10,11 @@
 
 ---
 
-|Download|OS|Size|
+[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/fUdmibgK#HDBYq2LG2u3IXce8P_EIo62UTlyeH82ZVzhQzt0dO8o)
+
+|File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/PRNwWJqJ#7_x9eXCB559QhXxxrRHXlL-qNQcx39hJ4eMprYJ5ys0)|Windows 7/8/10 x86 x64|472 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|472 MB|
 
 ## HOW TO USE
 
@@ -69,7 +71,7 @@ We thank all those who contributed to this project / Agradecemos a todos los que
 
 [WinZenity](https://github.com/maravento/winzenity), [Jpsoft](https://jpsoft.com/), [Indigo Rose](https://www.indigorose.com/autoplay-media-studio/), [SteelWerX](https://fstaal01.home.xs4all.nl/swreg-us.html), [Microsoft](https://www.microsoft.com/), [74cz](http://74.cz/es/make-sfx/index.php), [Resource Hacker](http://www.angusj.com/resourcehacker/), [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/), [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html), [vcredist](https://github.com/abbodi1406/vcredist)
 
-© 2020 [Maravento Studio](https://www.maravento.com)
+© 2021 [Maravento Studio](https://www.maravento.com)
 
 ## DISCLAIMER
 
