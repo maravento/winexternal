@@ -4,8 +4,8 @@
 New: Visual C++ 2019 Redistributable - 14.28.29617.0
 
 2020.11.17
-Discontinued: Adobe Flash Player ActiveX 32 (32.0.0.453) (IE)
-Discontinued: Adobe Flash Player NPAPI 32 (32.0.0.453) (Firefox)
+Update and Discontinued: Adobe Flash Player ActiveX 32 (32.0.0.465) (IE)
+Update and Discontinued: Adobe Flash Player NPAPI 32 (32.0.0.465) (Firefox)
 Discontinued: Adobe Shockwave Player 12.3 (12.3.5.205)
 
 2020.11.12

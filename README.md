@@ -10,7 +10,7 @@
 
 ---
 
-[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/mBFBCY5J#Y9PRAr-YAUcVpSn4hvpJciqxij3piiMjYWUkdgvp2Hw)
+[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/vUMlWCSJ#PCFEtS42gg0KlRFHB1drS0NheMDKWSiTO_oqSJGjJg8)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
@@ -48,11 +48,13 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - Microsoft Filter Pack 2.0 (KB2837594) x86 x64
 - Microsoft Directx 9c Jun2010
 
-### Important
+## IMPORTANT
+
+---
 
 - [Visual C++ 2015, 2017 and 2019 all share the same redistributable files](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
-- [The .NET Framework 4.8 is included with Windows (May 2019 Update and later versions)](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48) ([Sistemas operativos de cliente soportados - Supported client operating systems](https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements#supported-client-operating-systems))
-- Adobe Flash Player ActiveX 32 (32.0.0.453) (IE), Adobe Flash Player NPAPI 32 (32.0.0.453) (Firefox) and Adobe Shockwave Player 12.3 (12.3.5.205) are discontinued and were removed from WinExternal. For more information see [Adobe EOL](https://www.adobe.com/es/products/flashplayer/end-of-life.html#:~:text=As%20previously%20announced%20in%20July,(%E2%80%9CEOL%20Date%E2%80%9D).)
+- [The .NET Framework 4.8 is included with Windows 10 May 2019 Update and later versions](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48). For more information read [Supported client operating systems](https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements#supported-client-operating-systems)
+- [Adobe Flash Player ActiveX 32 (32.0.0.465) for IE, Adobe Flash Player NPAPI 32 (32.0.0.465) for Firefox](https://helpx.adobe.com/es/flash-player/kb/installation-problems-flash-player-windows.html) and [Adobe Shockwave Player 12.3 (12.3.5.205)](https://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe) are discontinued and were removed from WinExternal. For more information read [Adobe EOL](https://www.adobe.com/es/products/flashplayer/end-of-life.html#:~:text=As%20previously%20announced%20in%20July,(%E2%80%9CEOL%20Date%E2%80%9D).)
 
 ## CONTRIBUTIONS
 
