@@ -1,11 +1,14 @@
 ### WinExternal CHANGELOG
 
+2021.03.02
+Update: Visual C++ 2019 Redistributable - 14.29.29917.0
+
 2021.01.20
 Update: Oracle Java 8 Update 281 (8.0.2810.9)
 Update: Visual C++ 2019 Redistributable - 14.28.29812.0
 
 2021.01.07
-New: Visual C++ 2019 Redistributable - 14.28.29617.0
+Update: Visual C++ 2019 Redistributable - 14.28.29617.0
 
 2020.11.17
 Update and Discontinued: Adobe Flash Player ActiveX 32 (32.0.0.465) (IE)
@@ -15,7 +18,7 @@ Discontinued: Adobe Shockwave Player 12.3 (12.3.5.205)
 2020.11.12
 Update: Adobe Flash Player ActiveX 32 (32.0.0.453) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.453) (Firefox)
-New: Visual C++ 2019 Redistributable - 14.28.29515.1
+Update: Visual C++ 2019 Redistributable - 14.28.29515.1
 
 2020.10.23
 Fixed: BUGS
@@ -26,7 +29,7 @@ Update: Oracle Java 8 Update 271 (8.0.2710.0)
 2020.09.08
 Update: Adobe Flash Player ActiveX 32 (32.0.0.445) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.445) (Firefox)
-New: Visual C++ 2019 Redistributable - 14.28.29301.0
+Update: Visual C++ 2019 Redistributable - 14.28.29301.0
 
 2020.09.08
 Update: Adobe Flash Player ActiveX 32 (32.0.0.433) (IE)
