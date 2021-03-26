@@ -1,5 +1,8 @@
 ### WinExternal CHANGELOG
 
+2021.03.26
+Update: Oracle Java 8 Update 291 (8.0.2910.0)
+
 2021.03.02
 Update: Visual C++ 2019 Redistributable - 14.29.29917.0
 
