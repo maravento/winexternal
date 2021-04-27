@@ -10,7 +10,7 @@
 
 ---
 
-[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/yV1AWSjA#qrgkBcl63yPBcZRcjJgEZM_pxfcuEghRfL5PpOuPBqY)
+[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/TYkXXIRY#L2fbyNvUZrlb24wCGkDCMWxv3PQhF07Hh22P8Pu2HrA)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
@@ -35,7 +35,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - Microsoft Visual C++ 2010 Redistributable x86 x64 (10.0.40219.473)
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
-- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30030.0)
+- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30031.0)
 - Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
 - Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
@@ -56,6 +56,16 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - [The .NET Framework 4.8 is included with Windows 10 May 2019 Update and later versions](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48). For more information read [Supported client operating systems](https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements#supported-client-operating-systems)
 - [Adobe Flash Player ActiveX 32 (32.0.0.465) for IE, Adobe Flash Player NPAPI 32 (32.0.0.465) for Firefox](https://helpx.adobe.com/es/flash-player/kb/installation-problems-flash-player-windows.html) and [Adobe Shockwave Player 12.3 (12.3.5.205)](https://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe) are discontinued and were removed from WinExternal. For more information read [Adobe EOL](https://www.adobe.com/es/products/flashplayer/end-of-life.html#:~:text=As%20previously%20announced%20in%20July,(%E2%80%9CEOL%20Date%E2%80%9D).)
 
+## TOOLS
+
+---
+
+- [WinZenity](https://github.com/maravento/winzenity)
+- [Resource Turner](http://www.restuner.com/)
+- [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/)
+- [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html)
+- [vcredist](https://github.com/abbodi1406/vcredist/releases)
+
 ## CONTRIBUTIONS
 
 ---
@@ -71,7 +81,7 @@ We thank all those who contributed to this project / Agradecemos a todos los que
 [![CreativeCommons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 [maravento.com](https://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-[WinZenity](https://github.com/maravento/winzenity), [Jpsoft](https://jpsoft.com/), [Indigo Rose](https://www.indigorose.com/autoplay-media-studio/), [SteelWerX](https://fstaal01.home.xs4all.nl/swreg-us.html), [Microsoft](https://www.microsoft.com/), [74cz](http://74.cz/es/make-sfx/index.php), [Resource Hacker](http://www.angusj.com/resourcehacker/), [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/), [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html), [vcredist](https://github.com/abbodi1406/vcredist/releases)
+[Oracle Java](https://www.java.com/en/download/manual.jsp), [Microsoft](https://www.microsoft.com/en-us/download) 
 
 © 2021 [Maravento Studio](https://www.maravento.com)
 
