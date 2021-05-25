@@ -56,7 +56,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - [The .NET Framework 4.8 is included with Windows 10 May 2019 Update and later versions](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48). For more information read [Supported client operating systems](https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements#supported-client-operating-systems)
 - [Adobe Flash Player ActiveX 32 (32.0.0.465) for IE, Adobe Flash Player NPAPI 32 (32.0.0.465) for Firefox](https://helpx.adobe.com/es/flash-player/kb/installation-problems-flash-player-windows.html) and [Adobe Shockwave Player 12.3 (12.3.5.205)](https://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe) are discontinued and were removed from WinExternal. For more information read [Adobe EOL](https://www.adobe.com/es/products/flashplayer/end-of-life.html#:~:text=As%20previously%20announced%20in%20July,(%E2%80%9CEOL%20Date%E2%80%9D).)
 
-## TOOLS
+## USED TOOLS
 
 ---
 
