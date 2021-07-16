@@ -10,11 +10,11 @@
 
 ---
 
-[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/3I1TRIKL#buyioDCOnKpYdK1UEttgGcdPwqCydG25u9jVSmCDk5o)
+[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/zUMjCAyZ#UqBEm2KWcwWUm_6LB2NeGR6Q0l1HTuG4CLET8oI1_VE)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|471,9 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|449 MB|
 
 ## HOW TO USE
 
@@ -36,6 +36,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
 - Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
+- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.30.30401.0)
 - Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
 - Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
@@ -60,11 +61,22 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ---
 
-- [WinZenity](https://github.com/maravento/winzenity)
+- [7zSFX Builder](https://gitlab.com/maravento/7zsfxbuilder)
+- [Microsoft DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+- [Microsoft Filter Pack](https://www.microsoft.com/en-us/download/details.aspx?id=50934)
+- [Microsoft NetFramework](https://dotnet.microsoft.com/download/dotnet-framework)
+- [Microsoft Silverlight](https://www.microsoft.com/silverlight/)
+- [Microsoft Visual C++](https://support.microsoft.com/es-es/topic/descargas-m%C3%A1s-recientes-compatibles-de-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0)
+- [Microsoft Visual J#](https://www.microsoft.com/es-co/download/details.aspx?id=4712)
+- [Microsoft Visual Studio 2010 Tools for Office](https://www.microsoft.com/es-es/download/details.aspx?id=48217)
+- [Microsoft Visual Studio](https://www.microsoft.com/en-us/Download/confirmation.aspx?id=6144)
+- [Microsoft XNA](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
+- [Oracle Java](https://www.java.com/en/download/manual.jsp)
 - [Resource Turner](http://www.restuner.com/)
-- [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/)
-- [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html)
 - [vcredist](https://github.com/abbodi1406/vcredist/releases)
+- [Win Icons](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html)
+- [WinZenity](https://github.com/maravento/winzenity)
+
 
 ## CONTRIBUTIONS
 
@@ -72,18 +84,22 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 We thank all those who contributed to this project / Agradecemos a todos los que han contribuido con este proyecto
 
+## DONATE
+
+---
+
+BTC: 3M84UKpz8AwwPADiYGQjT9spPKCvbqm4Bc
+
 ## LICENCES
 
 ---
 
 [![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
 
+© 2021 [Maravento Studio](http://www.maravento.com)
+
 [![CreativeCommons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-[maravento.com](https://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
-
-[Oracle Java](https://www.java.com/en/download/manual.jsp), [Microsoft](https://www.microsoft.com/en-us/download) 
-
-© 2021 [Maravento Studio](https://www.maravento.com)
+[maravento.com](http://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## DISCLAIMER
 
