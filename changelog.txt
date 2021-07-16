@@ -1,5 +1,8 @@
 ### WinExternal CHANGELOG
 
+2021.07.15
+New: Visual C++ 2022 Redistributable - 14.30.30401.0
+
 2021.06.26
 Update: Visual C++ 2019 Redistributable - 14.29.30130.2
 
@@ -17,7 +20,7 @@ Update: Oracle Java 8 Update 291 (8.0.2910.10)
 
 2021.04.05
 Update: Visual C++ 2019 Redistributable - 14.29.30030.0
-Added: detection support for Windows 10 ARM64 (only VC++ x86 will be processed)
+Added: Visual C++ detection support for Windows 10 ARM64 (only VC++ x86 will be processed)
 
 2021.03.26
 Update: Oracle Java 8 Update 291 (8.0.2910.0)
@@ -33,13 +36,17 @@ Update: Visual C++ 2019 Redistributable - 14.28.29812.0
 Update: Visual C++ 2019 Redistributable - 14.28.29617.0
 
 2020.11.17
-Update and Discontinued: Adobe Flash Player ActiveX 32 (32.0.0.465) (IE)
-Update and Discontinued: Adobe Flash Player NPAPI 32 (32.0.0.465) (Firefox)
-Discontinued: Adobe Shockwave Player 12.3 (12.3.5.205)
+Discontinued: Adobe Flash Player ActiveX 32 (IE) (Adobe EOL)
+Discontinued: Adobe Flash Player NPAPI 32 (Firefox) (Adobe EOL)
+Discontinued: Adobe Shockwave Player 12.3 (Adobe EOL)
+Adobe EOL https://www.adobe.com/es/products/flashplayer/end-of-life.html
+Note: Backup last version into:
+C:\WinExternal\flash
+C:\WinExternal\Shockwave
 
 2020.11.12
-Update: Adobe Flash Player ActiveX 32 (32.0.0.453) (IE)
-Update: Adobe Flash Player NPAPI 32 (32.0.0.453) (Firefox)
+Update: Adobe Flash Player ActiveX 32 (32.0.0.465) (IE)
+Update: Adobe Flash Player NPAPI 32 (32.0.0.465) (Firefox)
 Update: Visual C++ 2019 Redistributable - 14.28.29515.1
 
 2020.10.23
