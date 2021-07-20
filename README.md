@@ -61,7 +61,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ---
 
-- [7zSFX Builder](https://gitlab.com/maravento/7zsfxbuilder)
+- [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/)
 - [Microsoft DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - [Microsoft Filter Pack](https://www.microsoft.com/en-us/download/details.aspx?id=50934)
 - [Microsoft NetFramework](https://dotnet.microsoft.com/download/dotnet-framework)
