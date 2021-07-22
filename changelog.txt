@@ -1,5 +1,8 @@
 ### WinExternal CHANGELOG
 
+2021.07.22
+Update: Oracle Java 8 Update 301 (8.0.3010.9)
+
 2021.07.15
 New: Visual C++ 2022 Redistributable - 14.30.30401.0
 

