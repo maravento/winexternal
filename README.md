@@ -1,5 +1,9 @@
 # [WinExternal](https://www.maravento.com/p/winexternal.html)
 
+[![GPL v3+](https://img.shields.io/badge/License-GPL%20v3%2B-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![last commit](https://img.shields.io/github/last-commit/maravento/winexternal)](https://github.com/maravento/winexternal/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/maraventostudio.svg?style=social)](https://twitter.com/maraventostudio)
+
 **WinExternal** is a project that compiles several essential packages for Windows in an unattended and silent launcher
 
 **WinExternal** es un proyecto que recopila varios paquetes esenciales para Windows en un lanzador desatendido y silencioso
@@ -90,11 +94,9 @@ We thank all those who contributed to this project / Agradecemos a todos los que
 
 BTC: 3M84UKpz8AwwPADiYGQjT9spPKCvbqm4Bc
 
-## LICENCES
+## BUILD
 
 ---
-
-[![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
 
 © 2021 [Maravento Studio](http://www.maravento.com)
 
