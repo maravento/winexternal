@@ -1,5 +1,14 @@
 ### WinExternal CHANGELOG
 
+2021.08.22
+Update: Oracle Java 8 Update 311 (8.0.3110.11)
+
+2021.10.16
+Update: Visual C++ 2022 Redistributable - 14.30.30704.0
+
+2021.10.06
+Discontinued: Microsoft Silverlight 5.1.50918.0
+
 2021.09.16
 Update: Visual C++ 2022 Redistributable - 14.30.30528.0
 

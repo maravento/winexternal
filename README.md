@@ -14,11 +14,11 @@
 
 ---
 
-[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/DdlmgYLL#ZizJrBTPIiGni2c4qwr0TsBchI91yfVaPASG63BvP6o)
+[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/XZFRkQqL#FhviKVtDugQrmdTDnk9kPMaiwLn71xod4RGUkHxX6UQ)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|450 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|451,6 MB|
 
 ## HOW TO USE
 
@@ -32,7 +32,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ---
 
-- Oracle Java 8 Update 301 (8.0.3010.9)
+- Oracle Java 8 Update 311 (8.0.3110.11)
 - Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Microsoft Visual C++ 2005 Redistributable x86 x64 (8.0.50727.6229)
 - Microsoft Visual C++ 2008 Redistributable x86 x64 (9.30729.7523)
@@ -40,14 +40,13 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
 - Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
-- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.30.30528.0)
+- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.30.30704.0)
 - Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
 - Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
 
 ### Only for Windows 7
 
-- Microsoft Silverlight x86 x64 (5.1.50918.0)
 - Microsoft NetFramework 4.8 (4.8.03761)
 - Microsoft XNA Framework Redistributable 4.0 Refresh (4.0.30901.0)
 - Microsoft Filter Pack 2.0 (KB2837594) x86 x64
@@ -58,8 +57,17 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 ---
 
 - [Visual C++ 2015, 2017 and 2019 all share the same redistributable files](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
-- [The .NET Framework 4.8 is included with Windows 10 May 2019 Update and later versions](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48). For more information read [Supported client operating systems](https://docs.microsoft.com/en-us/dotnet/framework/get-started/system-requirements#supported-client-operating-systems)
-- [Adobe Flash Player ActiveX 32 (32.0.0.465) for IE, Adobe Flash Player NPAPI 32 (32.0.0.465) for Firefox](https://helpx.adobe.com/es/flash-player/kb/installation-problems-flash-player-windows.html) and [Adobe Shockwave Player 12.3 (12.3.5.205)](https://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe) are discontinued and were removed from WinExternal. For more information read [Adobe EOL](https://www.adobe.com/es/products/flashplayer/end-of-life.html#:~:text=As%20previously%20announced%20in%20July,(%E2%80%9CEOL%20Date%E2%80%9D).)
+- [The .NET Framework 4.8 is included with Windows 10 May 2019 Update and later versions](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
+
+## EOL / EOS
+
+---
+
+The following installers have been discontinued and no longer run on WinExternal:
+
+- [Adobe no longer supports Flash Player after December 31, 2020 (ActiveX v32.0.0.465 for IE, NPAPI v32.0.0.465 for Firefox)](https://www.adobe.com/la/products/flashplayer/end-of-life.html)
+- [Adobe has discontinued Shockwave Player from April 9, 2019 (v12.3.5.205)](https://helpx.adobe.com/enterprise/kb/eol-adobe-flash-shockwave-player.html) 
+- [Microsoft Silverlight: will reach the end of support on October 12, 2021 (v5.1.50918.0)](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
 
 ## USED TOOLS
 
@@ -69,7 +77,6 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - [Microsoft DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 - [Microsoft Filter Pack](https://www.microsoft.com/en-us/download/details.aspx?id=50934)
 - [Microsoft NetFramework](https://dotnet.microsoft.com/download/dotnet-framework)
-- [Microsoft Silverlight](https://www.microsoft.com/silverlight/)
 - [Microsoft Visual C++](https://support.microsoft.com/es-es/topic/descargas-m%C3%A1s-recientes-compatibles-de-visual-c-2647da03-1eea-4433-9aff-95f26a218cc0)
 - [Microsoft Visual J#](https://www.microsoft.com/es-co/download/details.aspx?id=4712)
 - [Microsoft Visual Studio 2010 Tools for Office](https://www.microsoft.com/es-es/download/details.aspx?id=48217)
