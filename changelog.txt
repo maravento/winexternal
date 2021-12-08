@@ -1,5 +1,8 @@
 ### WinExternal CHANGELOG
 
+2021.12.07
+Update: Visual C++ 2022 Redistributable - 14.31.30919.0
+
 2021.11.09
 Update: Visual C++ 2022 Redistributable - 14.31.30818.0
 
