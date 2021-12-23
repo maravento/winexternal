@@ -1,5 +1,13 @@
 ### WinExternal CHANGELOG
 
+2021.12.23
+Fix Bugs NET35
+
+2021.12.22
+New: Standalone Pack NetFramework 3.5 SP1 for Windows 10/11 (x64 21H2 or later)
+Add: NET35/alternative folder with a batch for install NetFramework 3.5SP1 offline on Windows 8.1/10/11 (ISO required)
+Fix Bugs and Links
+
 2021.12.07
 Update: Visual C++ 2022 Redistributable - 14.31.30919.0
 
