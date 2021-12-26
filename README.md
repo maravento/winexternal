@@ -12,11 +12,11 @@
 
 ---
 
-[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/rd1VUCjR#fpObQr0YyLb3llpIk3H8FIVVZ5AVgX9V8l6O5Ior888)
+[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/iIN1mKBZ#i6Pzy1w1hm6qzZCke1_Tio0VQXzxmN0IhuS0s_9dKrg)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10 x86 x64|556,6 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|556,7 MB|
 
 ## HOW TO USE
 
@@ -30,17 +30,13 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ---
 
-[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEhkKMADOn0wNzqFKo-SQeTca7nVXy2ElYA5aklS-8uAYnIncnzuO3jDLObF5NBE67t07yEKcGXI0mh9gif_VI91e-kapojD_Fn_T45lFVkleyHQEjvRSxykeYnnahfNw7TR-u5veHxwp0xzmZ9yXjYPba3HV2PvLKtWCw8ZdJBt2krpI29hBCb2m6Sb)](https://www.maravento.com/p/winexternal.html)
+[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEjDDYZIIz2CZG0tfu8iu92lo72cdUPNu8McbKeJrftldhu4d55nRK1cesUPZa9TWgob2WxZxLbye0BHUwJlTjJZqFVYt0X1984glCXHE5wvsKeriPjcsmy8zX4qwPrEBvdqdI1fkFlNF_lUWkmG37OzgzG6yyl6J4DBtrFRzkqCSlOMJX3Kv_4UYp7E)](https://www.maravento.com/p/winexternal.html)
 
-WinExternal contains two (2) options: **Install Pack** and **Standalone Pack**. Select the one you are going to work with / WinExternal contiene dos (2) opciones: **Paquete de Instalación** y **Paquete Independiente**. Seleccione con el que va a trabajar
+WinExternal contains standalone packages. Select the one of your preference / WinExternal contiene paquetes independientes. Seleccione el de su preferencia
 
-## INSTALL PACK
+### Visual C ++ Runtimes Pack
 
----
-
-[![Image](https://2.bp.blogspot.com/-iZ_fW9WYLHM/XOV_tAfCZkI/AAAAAAAAHW8/B-RdtgeEwX08oizgP3VDG-_kdWb95ngaQCLcBGAs/s1600/winexternal.png)](https://www.maravento.com/p/winexternal.html)
-
-### Install Pack Content
+[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEjvS2HBqWKfdYYTP6NBtxHcdoDW95_J4ddX8obAHb28NlEeaVPXD0VPQHgXwmuY1X7SaLEtfvKoADfS6u53BC2FW-m_ZlsQ3-Aj8U_ZIQxWo9eECNIRm6mX5GCZfaj0t78ZwjTt14BTHAV75uI_lRLhXpG46stoceHB4dt0cvd7Ct3A1H4Jv17pbPS0)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft Visual C++ 2005 Redistributable x86 x64 (8.0.50727.6229)
 - Microsoft Visual C++ 2008 Redistributable x86 x64 (9.30729.7523)
@@ -49,46 +45,53 @@ WinExternal contains two (2) options: **Install Pack** and **Standalone Pack**. 
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
 - Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
 - Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.31.30919.0)
-- Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
 - Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
-- Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
-- Oracle Java 8 Update 311 (8.0.3110.11)
 
-### Install Pack Content (Only for Windows 7)
+### Oracle Java 8 Pack
+
+[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEhfXLXe6cPuZK8_cU0U1imYZtL2YD6zV5r_yIfyd4QaiUrcsHBG190QTlPJVkJZUdFuM-NnnbSDJHlyYJKX_rmNbCPUsHxT8ep7KsyWj9GsBYb5lRO7a5WWc7CwSxzwlgb0qAB3CYVrUe-vtSn3Qt2K4kA0f6J4Cf3WAgvcWcfecnNheb49QLNpzXg4)](https://www.maravento.com/p/winexternal.html)
+
+- Oracle Java 8 Update 311 (8.0.3110.11) x86 x64
+
+### .NET Framework v3.5 SP1 Pack
+
+[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEioIlzooz8NLMUPNjz2bHxtkRxwDScZ0dYgapnh50FoJF4QlUBWtaOJmOozmD84oUuumIFZmU7JMc2ZZiWba7kGz--CL12ArmHGwZ3XgJvrtfpHV0f3ZpaPPeqKNoMiiog7bPgi9bOxSG4QHBCzqRkbAs3TNOnS7TYO6W0K3_UAAWfm9uCFhIA0MFis)](https://www.maravento.com/p/winexternal.html)
+
+- .NET Framework v3.5 SP1 Standalone Installation Package for Windows 10/11 (x64 21H2 or Later - ENG/ESP) / Paquete independiente de instalación de .NET Framework v3.5 SP1 para Windows 10/11 (x64 21H2 o Superior - ENG/ESP)
+
+#### Important About .NET Framework v3.5 SP1
+
+- Backward compatibility with previous versions of Windows 10/11 21H2 or Windows Server versions is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 21H2 o versiones Windows Server
+- Installation can fail for many reasons. In this case, unzip `WinExternal.exe` on your operating system drive (e.g.: `c:\`), go to `WinExternal\NET35\alternative` and run the `Install .NET Framework 3.5 via DISM.cmd` script with administrative privileges (ISO image required). For more information see `WinExternal\NET35\alternative\readme.txt` / La instalación puede fallar por muchas causas. En este caso descomprima `WinExternal.exe` en la unidad de su sistema operativo (ej: `c:\`), acceda a `WinExternal\NET35\alternative` y ejecute el script `Install .NET Framework 3.5 via DISM.cmd` con privilegios administrativos (requiere imagen ISO). Para mayor información consulte `WinExternal\NET35\alternative\readme.txt`
+
+### Legacy Pack (Win 7 only)
+
+[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEi6UOydqgrxL0FjdiuBe8R8U8YCM418r5B8daT-AWDPsHFbwjDU_YAD5yZF5_0uLIq5DUmYbaM0ys-ARPRtAeQARSL02EGWNfk7Bjefb7x7UE3JIlNkBa3hIOKYuKshK2BbAXoZciwl7DMyotBXheiIOR5CV29OQUlLdXZxjC3K9ZAjPAMN_XRsEaH6)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft Directx 9c Jun2010
 - Microsoft Filter Pack 2.0 (KB2837594) x86 x64
 - Microsoft NetFramework 4.8 (4.8.03761)
+- Microsoft Visual J# 2.0 Redistributable Package - SE x86 x64
+- Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
 - Microsoft XNA Framework Redistributable 4.0 Refresh (4.0.30901.0)
 
-### Important About Install Pack
-
-- [The .NET Framework v4.8 is included with Windows 10 May 2019 Update and later versions / .NET Framework v4.8 se incluye con la actualización de Windows 10 de mayo de 2019 y versiones posteriores](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
-- [Visual C++ 2015, 2017 and 2019 all share the same redistributable files / Visual C ++ 2015, 2017 y 2019 comparten los mismos archivos redistribuibles](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
-
-### EOL / EOS
-
-The following installers have been discontinued and no longer run on WinExternal Install Pack:
-
-- [Adobe Flash Player (ActiveX v32.0.0.465 for IE, NPAPI v32.0.0.465 for Firefox). Adobe no longer supports after December 31, 2020](https://www.adobe.com/la/products/flashplayer/end-of-life.html)
-- [Adobe Shockwave Player v12.3.5.205. Adobe has discontinued from April 9, 2019](https://helpx.adobe.com/enterprise/kb/eol-adobe-flash-shockwave-player.html)
-- [Microsoft Silverlight v5.1.50918.0. Will reach the end of support on October 12, 2021](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
-
-## STANDALONE PACK (.NET Framework v3.5 SP1)
+## IMPORTANT
 
 ---
 
-[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEiqyYyghPzku5GV6PpNPaF1C6S4GuAWOGnUf9r_WWRlfZVojoCtj_jiwjbwfGBoqU-r_cLXiGc8ujRHD043zEIMl80Yhz0AQvP5RjHElbt_0q7vc0ba4KmEZamTCL1CmY0UjW1uAZfJVps5sLK283o71-1iTf9f2HAe5Yg2Ets7PeIb6YzyRAbdk-jR=s16000)](https://www.maravento.com/p/winexternal.html)
+- [.NET Framework v4.8 is included as of Windows 10 May 2019 and later / .NET Framework v4.8 se incluye a partir de Windows 10 Mayo 2019 y posteriores](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
+- [Since Visual Studio 2015 share the same redistributable files / Desde Visual Studio 2015 comparten los mismos archivos redistribuibles](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
-### Standalone Pack Content
+## EOL / EOS
 
-- .NET Framework v3.5 SP1 Standalone Installation Package for Windows 10/11 (x64 21H2 or Later - ENG/ESP) / Paquete independiente de instalación de .NET Framework v3.5 SP1 para Windows 10/11 (x64 21H2 o Superior - ENG/ESP)
+---
 
-### Important About Standalone Pack
+The following installers no longer run on WinExternal: / Los siguientes instaladores ya no se ejecutan en WinExternal:
 
-- Backward compatibility with previous versions of Windows 10/11 21H2 or Windows Server versions is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 21H2 o versiones Windows Server
-- Installation can fail for many reasons. In this case, unzip `WinExternal.exe` on your operating system drive (e.g.: `c:\`), go to the `WinExternal\NET35` folder and run `dism.bat` with administrative privileges. If `dism.bat` fails, go to `WinExternal\NET35\alternative` and run the `Install .NET Framework 3.5 via DISM.cmd` script with administrative privileges (ISO image required). For more information see `WinExternal\NET35\alternative\readme.txt` / La instalación puede fallar por muchas causas. En este caso descomprima `WinExternal.exe` en la unidad de su sistema operativo (ej: `c:\`), acceda a la carpeta `WinExternal\NET35` y ejecute `dism.bat` con privilegios administrativos. Si `dism.bat` falla, acceda a `WinExternal\NET35\alternative` y ejecute el script `Install .NET Framework 3.5 via DISM.cmd` con privilegios administrativos (requiere imagen ISO). Para mayor información consulte `WinExternal\NET35\alternative\readme.txt`
+- [Adobe Flash Player (ActiveX for IE, NPAPI for Firefox) has discontinued from December 31, 2020](https://www.adobe.com/la/products/flashplayer/end-of-life.html)
+- [Adobe Shockwave Player has discontinued from April 9, 2019](https://helpx.adobe.com/enterprise/kb/eol-adobe-flash-shockwave-player.html)
+- [Microsoft Silverlight has discontinued from October 12, 2021](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
 
 ## USED TOOLS
 
@@ -125,8 +128,6 @@ BTC: 3M84UKpz8AwwPADiYGQjT9spPKCvbqm4Bc
 ## BUILD
 
 ---
-
-© [Maravento Studio](http://www.maravento.com)
 
 [![CreativeCommons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 [maravento.com](http://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).

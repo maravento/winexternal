@@ -1,5 +1,9 @@
 ### WinExternal CHANGELOG
 
+2021.12.27
+Fix: Bugs and Links
+New: all-in-one to standalone conversion
+
 2021.12.23
 New: Selector
 New: Standalone Pack NetFramework 3.5 SP1 for Windows 10/11 (x64 21H2 or later)
