@@ -1,8 +1,14 @@
 ### WinExternal CHANGELOG
 
 2021.12.27
+Discontinued: Microsoft Visual Studio 2010 F# 2.0 (10.0.40219)
+Discontinued: Microsoft Visual J# Version 2.0 Redistributable Package SE
+Retired: Microsoft Filter Pack 2.0 (KB2553501) x86 x64
 Fix: Bugs and Links
+
+2021.12.26
 New: all-in-one to standalone conversion
+Fix: Bugs and Links
 
 2021.12.23
 New: Selector
