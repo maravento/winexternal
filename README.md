@@ -12,11 +12,11 @@
 
 ---
 
-[![Image](https://1.bp.blogspot.com/-Y_vVfquMvAE/WsOHgH6kY1I/AAAAAAAAD6Q/PPbPjbEBHH4YJDrcU6tE0ENbhHMroAmRQCLcBGAs/s1600/quick-download.png)](https://mega.nz/file/OMtxHaLK#UT5SKRtlQLW_7RazplbKS2UgH1r9wxt8A-CSZ42qnoU)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/zQsSxDhA#1Xou-okga0EtLX8n6JulaV4u1sQBj0MIDRfvawXwdGE)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|539,3 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|539,6 MB|
 
 ## HOW TO USE
 
@@ -30,13 +30,13 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 ---
 
-[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEixRykD4zWajf6zGwijAcb-LludOu15VOsqc-ImteEE5F0iVMN4W9UXt2DFvCxGlBhvwhPE_Ifvpx3iViUBdDExBHLBSpY3DmXNB9z4blvDlytkY1KdH3u99oHLhQIrnjUAxz0y7md5-wwp1H_aZqqwHjFgxHtgSLhokeE-_99Mem_V1F0b9CYQmpE3)](https://www.maravento.com/p/winexternal.html)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-selector.png)](https://www.maravento.com/p/winexternal.html)
 
 WinExternal contains standalone packages. Select the one of your preference / WinExternal contiene paquetes independientes. Seleccione el de su preferencia
 
 ### Visual C ++ Runtimes Pack
 
-[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEjvS2HBqWKfdYYTP6NBtxHcdoDW95_J4ddX8obAHb28NlEeaVPXD0VPQHgXwmuY1X7SaLEtfvKoADfS6u53BC2FW-m_ZlsQ3-Aj8U_ZIQxWo9eECNIRm6mX5GCZfaj0t78ZwjTt14BTHAV75uI_lRLhXpG46stoceHB4dt0cvd7Ct3A1H4Jv17pbPS0)](https://www.maravento.com/p/winexternal.html)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-visualc.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft Visual C++ 2005 Redistributable x86 x64 (8.0.50727.6229)
 - Microsoft Visual C++ 2008 Redistributable x86 x64 (9.30729.7523)
@@ -44,19 +44,19 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
 - Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
-- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.31.30919.0)
+- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.31.31103.0)
 - Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
 
 ### Oracle Java 8 Pack
 
-[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEhfXLXe6cPuZK8_cU0U1imYZtL2YD6zV5r_yIfyd4QaiUrcsHBG190QTlPJVkJZUdFuM-NnnbSDJHlyYJKX_rmNbCPUsHxT8ep7KsyWj9GsBYb5lRO7a5WWc7CwSxzwlgb0qAB3CYVrUe-vtSn3Qt2K4kA0f6J4Cf3WAgvcWcfecnNheb49QLNpzXg4)](https://www.maravento.com/p/winexternal.html)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-oracle.png)](https://www.maravento.com/p/winexternal.html)
 
-- Oracle Java 8 Update 311 (8.0.3110.11) x86 x64
+- Oracle Java 8 Update 321 (8.0.3210.7) x86 x64
 
 ### .NET Framework v3.5 SP1 Pack
 
-[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEioIlzooz8NLMUPNjz2bHxtkRxwDScZ0dYgapnh50FoJF4QlUBWtaOJmOozmD84oUuumIFZmU7JMc2ZZiWba7kGz--CL12ArmHGwZ3XgJvrtfpHV0f3ZpaPPeqKNoMiiog7bPgi9bOxSG4QHBCzqRkbAs3TNOnS7TYO6W0K3_UAAWfm9uCFhIA0MFis)](https://www.maravento.com/p/winexternal.html)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net35.png)](https://www.maravento.com/p/winexternal.html)
 
 - .NET Framework v3.5 SP1 Standalone Installation Package for Windows 10/11 (x64 21H2 or Later - ENG/ESP) / Paquete independiente de instalación de .NET Framework v3.5 SP1 para Windows 10/11 (x64 21H2 o Superior - ENG/ESP)
 
@@ -67,7 +67,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 ### Legacy Pack (Win 7 only)
 
-[![Image](https://blogger.googleusercontent.com/img/a/AVvXsEgalHmwaD5DAiDZQWsIE4Txpq9nXBLXwnnh3h5qOmFjjrenZDQU5AhVXhWtAnCIs0C6oxXS6mdmrpM2TwpS2ZARjSWSa9gGqZHie-pRf_5tcg5fL0S5X8JzEz2EQmFVkLwe_aMJDVEBxoLEXrKfXOXQxIQ6fc8w4tNK4yDVXHl9IsKTdzbxKa2vPfV1)](https://www.maravento.com/p/winexternal.html)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-legacy.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft Directx 9c Jun2010
 - Microsoft NetFramework 4.8 (4.8.03761)
@@ -124,7 +124,7 @@ BTC: 3M84UKpz8AwwPADiYGQjT9spPKCvbqm4Bc
 
 ---
 
-[![CreativeCommons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![CreativeCommons](https://raw.githubusercontent.com/maravento/winexternal/master/img/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 [maravento.com](http://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## DISCLAIMER

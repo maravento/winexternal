@@ -1,5 +1,12 @@
 ### WinExternal CHANGELOG
 
+2022.02.09
+Update: Visual C++ 2022 Redistributable - 14.31.31103.0
+
+2022.01.20
+Update: Visual C++ 2022 Redistributable - 14.31.31005.0
+Update: Oracle Java 8 Update 321 (8.0.3210.7)
+
 2021.12.27
 Discontinued: Microsoft Visual Studio 2010 F# 2.0 (10.0.40219)
 Discontinued: Microsoft Visual J# Version 2.0 Redistributable Package SE
