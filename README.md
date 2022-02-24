@@ -12,7 +12,7 @@
 
 ---
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/zQsSxDhA#1Xou-okga0EtLX8n6JulaV4u1sQBj0MIDRfvawXwdGE)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/XYlDTQKC#rcyV_RVgEqsKr-zDMWLHp5_L74Lj5x2VQFRTKHTJJks)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
