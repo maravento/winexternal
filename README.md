@@ -12,7 +12,7 @@
 
 ---
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/XYlDTQKC#rcyV_RVgEqsKr-zDMWLHp5_L74Lj5x2VQFRTKHTJJks)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/yA8DmLoC#nmNcWZOR5-6uvIfBQ9V8EHmjs50GN0Ru3NMcmBVfoko)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
@@ -44,7 +44,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
 - Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
-- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.31.31103.0)
+- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.32.31302.0)
 - Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
 
