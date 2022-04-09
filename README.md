@@ -12,11 +12,11 @@
 
 ---
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/yA8DmLoC#nmNcWZOR5-6uvIfBQ9V8EHmjs50GN0Ru3NMcmBVfoko)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/3ds1hIRB#ZT9N26lvxOpY14pBwmtIWVxJ8EKEtbhJ9cvePnka5Dg)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|539,6 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|540,2 MB|
 
 ## HOW TO USE
 
@@ -58,11 +58,12 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net35.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Framework v3.5 SP1 Standalone Installation Package for Windows 10/11 (x64 21H2 or Later - ENG/ESP) / Paquete independiente de instalación de .NET Framework v3.5 SP1 para Windows 10/11 (x64 21H2 o Superior - ENG/ESP)
+- .NET Framework v3.5 SP1 Standalone Installation Package for Windows 10/11 (x64 21H2 or Later - EN/SP) / Paquete independiente de instalación de .NET Framework v3.5 SP1 para Windows 10/11 (x64 21H2 o Superior - EN/ES)
 
 #### Important About .NET Framework v3.5 SP1
 
 - Backward compatibility with previous versions of Windows 10/11 21H2 or Windows Server versions is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 21H2 o versiones Windows Server
+- Only OS English/Spanish / Solo SO Inglés/Español
 - Installation can fail for many reasons. In this case, unzip `WinExternal.exe` on your operating system drive (e.g.: `c:\`), go to `WinExternal\NET35\alternative` and run the `Install .NET Framework 3.5 via DISM.cmd` script with administrative privileges (ISO image required). For more information see `WinExternal\NET35\alternative\readme.txt` / La instalación puede fallar por muchas causas. En este caso descomprima `WinExternal.exe` en la unidad de su sistema operativo (ej: `c:\`), acceda a `WinExternal\NET35\alternative` y ejecute el script `Install .NET Framework 3.5 via DISM.cmd` con privilegios administrativos (requiere imagen ISO). Para mayor información consulte `WinExternal\NET35\alternative\readme.txt`
 
 ### Legacy Pack (Win 7 only)

@@ -1,5 +1,8 @@
 ### WinExternal CHANGELOG
 
+2022.04.09
+Fix: Bugs Standalone Pack NetFramework 3.5 SP1 for Windows 10/11 (x64 21H2 or later)
+
 2022.03.30
 Update: Visual C++ 2022 Redistributable - 14.32.31302.0
 
