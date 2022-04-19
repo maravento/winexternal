@@ -12,11 +12,11 @@
 
 ---
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/3ds1hIRB#ZT9N26lvxOpY14pBwmtIWVxJ8EKEtbhJ9cvePnka5Dg)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/Wc9DnSBJ#rMKOytNgwUTXCo4QThMLGaUns5geA974JygFjyWQpL0)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|540,2 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|645 MB|
 
 ## HOW TO USE
 
@@ -44,7 +44,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
 - Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
-- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.32.31302.0)
+- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.32.31326.0)
 - Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
 
@@ -65,6 +65,12 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Backward compatibility with previous versions of Windows 10/11 21H2 or Windows Server versions is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 21H2 o versiones Windows Server
 - Only OS English/Spanish / Solo SO Inglés/Español
 - Installation can fail for many reasons. In this case, unzip `WinExternal.exe` on your operating system drive (e.g.: `c:\`), go to `WinExternal\NET35\alternative` and run the `Install .NET Framework 3.5 via DISM.cmd` script with administrative privileges (ISO image required). For more information see `WinExternal\NET35\alternative\readme.txt` / La instalación puede fallar por muchas causas. En este caso descomprima `WinExternal.exe` en la unidad de su sistema operativo (ej: `c:\`), acceda a `WinExternal\NET35\alternative` y ejecute el script `Install .NET Framework 3.5 via DISM.cmd` con privilegios administrativos (requiere imagen ISO). Para mayor información consulte `WinExternal\NET35\alternative\readme.txt`
+
+### .NET 6.0 Desktop Runtime
+
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
+
+- .NET 6.0 Desktop Runtime (6.0.4) x86 x64 Run Desktop Apps
 
 ### Legacy Pack (Win 7 only)
 
@@ -102,6 +108,7 @@ The following installers no longer run on WinExternal: / Los siguientes instalad
 - [icon-icons](https://icon-icons.com/icon/dot-net-original-logo/146546)
 - [Microsoft DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 - [Microsoft NetFramework](https://dotnet.microsoft.com/download/dotnet-framework)
+- [Microsoft .NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime?cid=getdotnetcore)
 - [Microsoft Visual C++](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
 - [Oracle Java 8](https://www.java.com/en/download/manual.jsp)
