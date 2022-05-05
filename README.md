@@ -12,11 +12,11 @@
 
 ---
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/Wc9DnSBJ#rMKOytNgwUTXCo4QThMLGaUns5geA974JygFjyWQpL0)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/vItniYgJ#PRoiC997IlYcYeYPNRxjFdK_yKzWAYpgjVkqtmGQv7k)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|645 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|646.7 MB|
 
 ## HOW TO USE
 
@@ -52,7 +52,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-oracle.png)](https://www.maravento.com/p/winexternal.html)
 
-- Oracle Java 8 Update 321 (8.0.3210.7) x86 x64
+- Oracle Java 8 Update 333 (8.0.3330.2) x86 x64
 
 ### .NET Framework v3.5 SP1 Pack
 
