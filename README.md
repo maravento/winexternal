@@ -12,7 +12,7 @@
 
 ---
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/vItniYgJ#PRoiC997IlYcYeYPNRxjFdK_yKzWAYpgjVkqtmGQv7k)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/aVlw0TSZ#HxVQ9zQvqg13-HfgGv3rmsvfK3jOXflh3-bILThG6Xo)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
@@ -70,7 +70,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET 6.0 Desktop Runtime (6.0.4) x86 x64 Run Desktop Apps
+- .NET 6.0 Desktop Runtime (6.0.5) x86 x64 Run Desktop Apps
 
 ### Legacy Pack (Win 7 only)
 

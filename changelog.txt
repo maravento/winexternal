@@ -1,5 +1,8 @@
 ### WinExternal CHANGELOG
 
+2022.06.01
+Update: .NET 6.0 Desktop Runtime (6.0.5) x86 x64
+
 2021.05.05
 Update: Oracle Java 8 Update 333 (8.0.3330.2)
 
