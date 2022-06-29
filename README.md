@@ -12,11 +12,11 @@
 
 ---
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/aVlw0TSZ#HxVQ9zQvqg13-HfgGv3rmsvfK3jOXflh3-bILThG6Xo)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/yVthEAQS#7vlCOChQFNOMFpVhOlhlO2yD-4MifBIg8GvtJ3PUjiU)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|646.7 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|883.6 MB|
 
 ## HOW TO USE
 
@@ -44,7 +44,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Microsoft Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
 - Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
-- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.32.31326.0)
+- Microsoft Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.32.31332.0)
 - Microsoft Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
 
@@ -70,7 +70,13 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET 6.0 Desktop Runtime (6.0.5) x86 x64 Run Desktop Apps
+- .NET 6.0 Desktop Runtime (6.0.6) x86 x64 Run Desktop Apps
+
+### WebView2 Runtime
+
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
+
+- WebView2 Runtime Installer X86 X64 - 103.0.1264.37
 
 ### Legacy Pack (Win 7 only)
 
@@ -107,8 +113,9 @@ The following installers no longer run on WinExternal: / Los siguientes instalad
 - [iconarchive](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html)
 - [icon-icons](https://icon-icons.com/icon/dot-net-original-logo/146546)
 - [Microsoft DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
-- [Microsoft NetFramework](https://dotnet.microsoft.com/download/dotnet-framework)
+- [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
 - [Microsoft .NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime?cid=getdotnetcore)
+- [Microsoft NetFramework](https://dotnet.microsoft.com/download/dotnet-framework)
 - [Microsoft Visual C++](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
 - [Oracle Java 8](https://www.java.com/en/download/manual.jsp)
