@@ -1,5 +1,9 @@
 ### WinExternal CHANGELOG
 
+2022.07.16
+Update: Microsoft Edge WebView2 Runtime Installer X86 X64 - 103.0.1264.62
+Update: .NET 6.0 Desktop Runtime (6.0.7.31442) x86 x64 Run Desktop Apps
+
 2022.07.07
 Update: Microsoft Edge WebView2 Runtime Installer X86 X64 - 103.0.1264.49
 
