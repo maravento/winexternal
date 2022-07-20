@@ -1,5 +1,8 @@
 ### WinExternal CHANGELOG
 
+2022.07.20
+Update: Oracle Java 8 Update 341 (8.0.3410.10) x86 x64
+
 2022.07.16
 Update: Microsoft Edge WebView2 Runtime Installer X86 X64 - 103.0.1264.62
 Update: .NET 6.0 Desktop Runtime (6.0.7.31442) x86 x64 Run Desktop Apps
@@ -8,7 +11,7 @@ Update: .NET 6.0 Desktop Runtime (6.0.7.31442) x86 x64 Run Desktop Apps
 Update: Microsoft Edge WebView2 Runtime Installer X86 X64 - 103.0.1264.49
 
 2022.06.28
-New: WebView2 Runtime Installer X86 X64 - 103.0.1264.37
+New: Microsoft Edge WebView2 Runtime Installer X86 X64 - 103.0.1264.37
 Update: .NET 6.0 Desktop Runtime (6.0.6) x86 x64 Run Desktop Apps
 Update: Visual C++ 2022 Redistributable - 14.32.31332.0
 
@@ -16,10 +19,10 @@ Update: Visual C++ 2022 Redistributable - 14.32.31332.0
 Update: .NET 6.0 Desktop Runtime (6.0.5) x86 x64
 
 2021.05.05
-Update: Oracle Java 8 Update 333 (8.0.3330.2)
+Update: Oracle Java 8 Update 333 (8.0.3330.2) x86 x64
 
 2021.04.26
-Update: Oracle Java 8 Update 331 (8.0.3310.9)
+Update: Oracle Java 8 Update 331 (8.0.3310.9) x86 x64
 
 2022.04.19
 New: .NET 6.0 Desktop Runtime (6.0.4) x86 x64
@@ -39,7 +42,7 @@ Update: Visual C++ 2022 Redistributable - 14.31.31103.0
 
 2022.01.20
 Update: Visual C++ 2022 Redistributable - 14.31.31005.0
-Update: Oracle Java 8 Update 321 (8.0.3210.7)
+Update: Oracle Java 8 Update 321 (8.0.3210.7) x86 x64
 
 2021.12.27
 Discontinued: Microsoft Visual Studio 2010 F# 2.0 (10.0.40219)
@@ -63,7 +66,7 @@ Update: Visual C++ 2022 Redistributable - 14.31.30919.0
 Update: Visual C++ 2022 Redistributable - 14.31.30818.0
 
 2021.08.22
-Update: Oracle Java 8 Update 311 (8.0.3110.11)
+Update: Oracle Java 8 Update 311 (8.0.3110.11) x86 x64
 
 2021.10.16
 Update: Visual C++ 2022 Redistributable - 14.30.30704.0
@@ -78,7 +81,7 @@ Update: Visual C++ 2022 Redistributable - 14.30.30528.0
 Update: Visual C++ 2022 Redistributable - 14.30.30423.0
 
 2021.07.22
-Update: Oracle Java 8 Update 301 (8.0.3010.9)
+Update: Oracle Java 8 Update 301 (8.0.3010.9) x86 x64
 
 2021.07.15
 New: Visual C++ 2022 Redistributable - 14.30.30401.0
@@ -96,20 +99,20 @@ Update: Visual C++ 2019 Redistributable - 14.29.30129.1
 Update: Visual C++ 2019 Redistributable - 14.29.30031.0
 
 2021.04.22
-Update: Oracle Java 8 Update 291 (8.0.2910.10)
+Update: Oracle Java 8 Update 291 (8.0.2910.10) x86 x64
 
 2021.04.05
 Update: Visual C++ 2019 Redistributable - 14.29.30030.0
 Added: Visual C++ detection support for Windows 10 ARM64 (only VC++ x86 will be processed)
 
 2021.03.26
-Update: Oracle Java 8 Update 291 (8.0.2910.0)
+Update: Oracle Java 8 Update 291 (8.0.2910.0) x86 x64
 
 2021.03.02
 Update: Visual C++ 2019 Redistributable - 14.29.29917.0
 
 2021.01.20
-Update: Oracle Java 8 Update 281 (8.0.2810.9)
+Update: Oracle Java 8 Update 281 (8.0.2810.9) x86 x64
 Update: Visual C++ 2019 Redistributable - 14.28.29812.0
 
 2021.01.07
@@ -119,10 +122,6 @@ Update: Visual C++ 2019 Redistributable - 14.28.29617.0
 Discontinued: Adobe Flash Player ActiveX 32 (IE) (Adobe EOL)
 Discontinued: Adobe Flash Player NPAPI 32 (Firefox) (Adobe EOL)
 Discontinued: Adobe Shockwave Player 12.3 (Adobe EOL)
-Adobe EOL https://www.adobe.com/es/products/flashplayer/end-of-life.html
-Note: Backup last version into:
-C:\WinExternal\flash
-C:\WinExternal\Shockwave
 
 2020.11.12
 Update: Adobe Flash Player ActiveX 32 (32.0.0.465) (IE)
@@ -133,7 +132,7 @@ Update: Visual C++ 2019 Redistributable - 14.28.29515.1
 Fixed: BUGS
 
 2020.10.20
-Update: Oracle Java 8 Update 271 (8.0.2710.0)
+Update: Oracle Java 8 Update 271 (8.0.2710.0) x86 x64
 
 2020.09.08
 Update: Adobe Flash Player ActiveX 32 (32.0.0.445) (IE)
@@ -153,7 +152,7 @@ Update: Adobe Flash Player ActiveX 32 (32.0.0.414) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.414) (Firefox)
 
 2020.07.15
-Update: Oracle Java 8 Update 261 (8.0.2610.0)
+Update: Oracle Java 8 Update 261 (8.0.2610.0) x86 x64
 Update: Adobe Flash Player ActiveX 32 (32.0.0.403) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.403) (Firefox)
 Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.27.29016.0)
@@ -167,24 +166,24 @@ Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.24.
 Fixed: BUGS
 
 2020.04.17
-Update: Oracle Java 8 Update 251 (8.0.2510.0)
+Update: Oracle Java 8 Update 251 (8.0.2510.0) x86 x64
 Update: Adobe Flash Player ActiveX 32 (32.0.0.363) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.363) (Firefox)
 
 2020.01.14
-Update: Oracle Java 8 Update 241 (8.0.2410.0)
+Update: Oracle Java 8 Update 241 (8.0.2410.0) x86 x64
 Update: Adobe Flash Player ActiveX 32 (32.0.0.314) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.314) (Firefox)
 
 2019.10.16
-Update: Oracle Java 8 Update 231 (8.0.2310.11)
+Update: Oracle Java 8 Update 231 (8.0.2310.11) x86 x64
 Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.24.28127.4
 
 2019.09.20
 Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.22.27821.0
 
 2019.07.17
-Update: Oracle Java 8 Update 221 (8.0.2210.11)
+Update: Oracle Java 8 Update 221 (8.0.2210.11) x86 x64
 
 2019.07.12
 Add: Microsoft XNA Framework Redistributable 4.0 Refresh (4.0.30901.0)
@@ -200,7 +199,7 @@ Update: Visual C++ Redistributable Package
 Fixed: BUGS
 
 2019.06.21
-Update: Oracle Java 8 Update 212 (8.0.2120.10)
+Update: Oracle Java 8 Update 212 (8.0.2120.10) x86 x64
 Update: Microsoft NetFramework 4.8 (4.8.03761)
 Update: Microsoft Silverlight 5.1.50918.0
 Remove: MSXML 4.0 Service Pack 3 Parser (4.30.2117.0) (KB2758694) (Obsolete)
@@ -229,7 +228,7 @@ Add: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.21.27
 Fixed: BUGS
 
 2019.04.16
-Update: Oracle Java 8 Update 211 (8.0.2110.12)
+Update: Oracle Java 8 Update 211 (8.0.2110.12) x86 x64
 
 2019.04.09
 Update: Adobe Flash Player ActiveX 32 (32.0.0.171) (IE)
@@ -247,7 +246,7 @@ Update: Adobe Flash Player ActiveX 32 (32.0.0.142) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.142) (Firefox)
 
 2019.01.17
-Update: Oracle Java 8 Update 201 (8.0.2010.9)
+Update: Oracle Java 8 Update 201 (8.0.2010.9) x86 x64
 
 2019.01.09
 Update: Adobe Flash Player ActiveX 32 (32.0.0.114) (IE)
@@ -262,7 +261,7 @@ Update: Adobe Flash Player ActiveX 31 (31.0.0.153) (IE)
 Update: Adobe Flash Player NPAPI 31 (31.0.0.153) (Firefox)
 
 2018.10.19
-Update: Oracle Java 8 Update 191 (8.0.1910.12)
+Update: Oracle Java 8 Update 191 (8.0.1910.12) x86 x64
 
 2018.10.10
 Update: Adobe Flash Player ActiveX 31 (31.0.0.122) (IE)
@@ -280,7 +279,7 @@ Update: Adobe Flash Player NPAPI 30 (30.0.0.154) (Firefox)
 Update: Microsoft NetFramework 4.7.2 (KB4054530)
 
 2018.07.23
-Update: Oracle Java 8 Update 181 (8.0.1810.13)
+Update: Oracle Java 8 Update 181 (8.0.1810.13) x86 x64
 
 2018.07.11
 Update: Adobe Flash Player ActiveX 30 (30.0.0.134) (IE)
