@@ -1,5 +1,9 @@
 ### WinExternal CHANGELOG
 
+2022.08.19
+Update: Microsoft Edge WebView2 Runtime Installer X86 X64 - 104.0.1263.54
+Update: .NET 6.0 Desktop Runtime (6.0.8.31518) x86 x64 Run Desktop Apps
+
 2022.07.20
 Update: Oracle Java 8 Update 341 (8.0.3410.10) x86 x64
 
