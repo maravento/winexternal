@@ -1,64 +1,72 @@
-### WinExternal CHANGELOG
+# WinExternal Changelog
+
+2022.08.30
+Update: WebView2 Runtime Installer x86 x64 (104.0.1263.70)
+Update: Legacy Pack for Windows 7
+Fixed: Bugs
+
+2022.08.27
+Fixed: Bugs
 
 2022.08.24
-New: Microsoft NetFramework 4.8.1 for Win 10/11
-Update: Microsoft Edge WebView2 Runtime Installer X86 X64 - 104.0.1293.63
-Remove: Oracle Java 8 Update 341 (8.0.3410.10) x86 x64
+New: NetFramework 4.8.1 for Win 10/11 (4.8.9037.6)
+Update: WebView2 Runtime Installer x86 x64 (104.0.1293.63) 
+Remove: Oracle Java 8 Update 341 x86 x64 (8.0.3410.10)
 Upgrade: Menu
 Fix: Bugs
 
 2022.08.19
-Update: Microsoft Edge WebView2 Runtime Installer X86 X64 - 104.0.1263.54
-Update: .NET 6.0 Desktop Runtime (6.0.8.31518) x86 x64 Run Desktop Apps
+Update:  WebView2 Runtime Installer x86 x64 (104.0.1263.54)
+Update: .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps (6.0.8.31518)
 
 2022.07.20
-Update: Oracle Java 8 Update 341 (8.0.3410.10) x86 x64
+Update: Oracle Java 8 Update 341 x86 x64 (8.0.3410.10)
 
 2022.07.16
-Update: Microsoft Edge WebView2 Runtime Installer X86 X64 - 103.0.1264.62
-Update: .NET 6.0 Desktop Runtime (6.0.7.31442) x86 x64 Run Desktop Apps
+Update:  WebView2 Runtime Installer x86 x64 (103.0.1264.62)
+Update: .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps (6.0.7.31442)
 
 2022.07.07
-Update: Microsoft Edge WebView2 Runtime Installer X86 X64 - 103.0.1264.49
+Update:  WebView2 Runtime Installer x86 x64 (103.0.1264.49)
 
 2022.06.28
-New: Microsoft Edge WebView2 Runtime Installer X86 X64 - 103.0.1264.37
-Update: .NET 6.0 Desktop Runtime (6.0.6) x86 x64 Run Desktop Apps
-Update: Visual C++ 2022 Redistributable - 14.32.31332.0
+New:  WebView2 Runtime Installer x86 x64 (103.0.1264.37)
+Update: .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps (6.0.6)
+Update: Visual C++ 2022 Redistributable (14.32.31332.0
 
 2022.06.01
-Update: .NET 6.0 Desktop Runtime (6.0.5) x86 x64
+Update: .NET 6.0 Desktop Runtime x86 x64 (6.0.5)
 
 2021.05.05
-Update: Oracle Java 8 Update 333 (8.0.3330.2) x86 x64
+Update: Oracle Java 8 Update 333 x86 x64 (8.0.3330.2)
 
 2021.04.26
-Update: Oracle Java 8 Update 331 (8.0.3310.9) x86 x64
+Update: Oracle Java 8 Update 331 x86 x64 (8.0.3310.9)
 
 2022.04.19
-New: .NET 6.0 Desktop Runtime (6.0.4) x86 x64
-Update: Visual C++ 2022 Redistributable - 14.32.31326.0
+New: .NET 6.0 Desktop Runtime x86 x64 (6.0.4)
+Update: Visual C++ 2022 Redistributable (14.32.31326.0)
 
 2022.04.09
 Fix: Bugs Standalone Pack NetFramework 3.5 SP1 for Windows 10/11 (x64 21H2 or later)
 
 2022.03.30
-Update: Visual C++ 2022 Redistributable - 14.32.31302.0
+Update: Visual C++ 2022 Redistributable (14.32.31302.0)
 
 2022.02.24
 Fix: Bugs
 
 2022.02.09
-Update: Visual C++ 2022 Redistributable - 14.31.31103.0
+Update: Visual C++ 2022 Redistributable (14.31.31103.0)
 
 2022.01.20
-Update: Visual C++ 2022 Redistributable - 14.31.31005.0
-Update: Oracle Java 8 Update 321 (8.0.3210.7) x86 x64
+Update: Visual C++ 2022 Redistributable (14.31.31005.0)
+Update: Oracle Java 8 Update 321 x86 x64 (8.0.3210.7)
 
 2021.12.27
-Discontinued: Microsoft Visual Studio 2010 F# 2.0 (10.0.40219)
-Discontinued: Microsoft Visual J# Version 2.0 Redistributable Package SE
-Retired: Microsoft Filter Pack 2.0 (KB2553501) x86 x64
+Discontinued: Visual Studio 2010 F# 2.0 (10.0.40219)
+Discontinued: Visual J# Version 2.0 Redistributable Package SE
+Discontinued: Filter Pack 2.0 (KB2553501) x86 x64
 Fix: Bugs and Links
 
 2021.12.26
@@ -71,63 +79,63 @@ New: Standalone Pack NetFramework 3.5 SP1 for Windows 10/11 (x64 21H2 or later)
 Fix: Bugs and Links
 
 2021.12.07
-Update: Visual C++ 2022 Redistributable - 14.31.30919.0
+Update: Visual C++ 2022 Redistributable (14.31.30919.0)
 
 2021.11.09
-Update: Visual C++ 2022 Redistributable - 14.31.30818.0
+Update: Visual C++ 2022 Redistributable (14.31.30818.0)
 
 2021.08.22
-Update: Oracle Java 8 Update 311 (8.0.3110.11) x86 x64
+Update: Oracle Java 8 Update 311 x86 x64 (8.0.3110.11)
 
 2021.10.16
-Update: Visual C++ 2022 Redistributable - 14.30.30704.0
+Update: Visual C++ 2022 Redistributable (14.30.30704.0)
 
 2021.10.06
-Discontinued: Microsoft Silverlight 5.1.50918.0
+Discontinued: Silverlight (5.1.50918.0)
 
 2021.09.16
-Update: Visual C++ 2022 Redistributable - 14.30.30528.0
+Update: Visual C++ 2022 Redistributable (14.30.30528.0)
 
 2021.08.20
-Update: Visual C++ 2022 Redistributable - 14.30.30423.0
+Update: Visual C++ 2022 Redistributable (14.30.30423.0)
 
 2021.07.22
-Update: Oracle Java 8 Update 301 (8.0.3010.9) x86 x64
+Update: Oracle Java 8 Update 301 x86 x64 (8.0.3010.9)
 
 2021.07.15
-New: Visual C++ 2022 Redistributable - 14.30.30401.0
+New: Visual C++ 2022 Redistributable (14.30.30401.0)
 
 2021.06.26
-Update: Visual C++ 2019 Redistributable - 14.29.30130.2
+Update: Visual C++ 2019 Redistributable (14.29.30130.2)
 
 2021.06.02
-Update: Visual C++ 2019 Redistributable - 14.29.30129.3
+Update: Visual C++ 2019 Redistributable (14.29.30129.3)
 
 2021.05.24
-Update: Visual C++ 2019 Redistributable - 14.29.30129.1
+Update: Visual C++ 2019 Redistributable (14.29.30129.1)
 
 2021.04.27
-Update: Visual C++ 2019 Redistributable - 14.29.30031.0
+Update: Visual C++ 2019 Redistributable (14.29.30031.0)
 
 2021.04.22
-Update: Oracle Java 8 Update 291 (8.0.2910.10) x86 x64
+Update: Oracle Java 8 Update 291 x86 x64 (8.0.2910.10)
 
 2021.04.05
-Update: Visual C++ 2019 Redistributable - 14.29.30030.0
+Update: Visual C++ 2019 Redistributable (14.29.30030.0)
 Added: Visual C++ detection support for Windows 10 ARM64 (only VC++ x86 will be processed)
 
 2021.03.26
-Update: Oracle Java 8 Update 291 (8.0.2910.0) x86 x64
+Update: Oracle Java 8 Update 291 x86 x64 (8.0.2910.0)
 
 2021.03.02
-Update: Visual C++ 2019 Redistributable - 14.29.29917.0
+Update: Visual C++ 2019 Redistributable (14.29.29917.0)
 
 2021.01.20
-Update: Oracle Java 8 Update 281 (8.0.2810.9) x86 x64
-Update: Visual C++ 2019 Redistributable - 14.28.29812.0
+Update: Oracle Java 8 Update 281 x86 x64 (8.0.2810.9)
+Update: Visual C++ 2019 Redistributable (14.28.29812.0)
 
 2021.01.07
-Update: Visual C++ 2019 Redistributable - 14.28.29617.0
+Update: Visual C++ 2019 Redistributable (14.28.29617.0)
 
 2020.11.17
 Discontinued: Adobe Flash Player ActiveX 32 (IE) (Adobe EOL)
@@ -137,25 +145,25 @@ Discontinued: Adobe Shockwave Player 12.3 (Adobe EOL)
 2020.11.12
 Update: Adobe Flash Player ActiveX 32 (32.0.0.465) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.465) (Firefox)
-Update: Visual C++ 2019 Redistributable - 14.28.29515.1
+Update: Visual C++ 2019 Redistributable (14.28.29515.1)
 
 2020.10.23
 Fixed: BUGS
 
 2020.10.20
-Update: Oracle Java 8 Update 271 (8.0.2710.0) x86 x64
+Update: Oracle Java 8 Update 271 x86 x64 (8.0.2710.0)
 
 2020.09.08
 Update: Adobe Flash Player ActiveX 32 (32.0.0.445) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.445) (Firefox)
-Update: Visual C++ 2019 Redistributable - 14.28.29301.0
+Update: Visual C++ 2019 Redistributable (14.28.29301.0)
 
 2020.09.08
 Update: Adobe Flash Player ActiveX 32 (32.0.0.433) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.433) (Firefox)
 
 2020.09.07
-Update: Visual C++ 2019 Redistributable - 14.28.29213.0
+Update: Visual C++ 2019 Redistributable (14.28.29213.0)
 Fixed: BUGS (Adobe parts and MS Silverlight only w7)
 
 2020.08.17
@@ -166,18 +174,18 @@ Update: Adobe Flash Player NPAPI 32 (32.0.0.414) (Firefox)
 Update: Oracle Java 8 Update 261 (8.0.2610.0) x86 x64
 Update: Adobe Flash Player ActiveX 32 (32.0.0.403) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.403) (Firefox)
-Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.27.29016.0)
+Update: Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.27.29016.0)
 
 2020.05.12
 Update: Adobe Flash Player ActiveX 32 (32.0.0.371) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.371) (Firefox)
 
 2020.04.21
-Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.24.28720)
+Update: Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.24.28720)
 Fixed: BUGS
 
 2020.04.17
-Update: Oracle Java 8 Update 251 (8.0.2510.0) x86 x64
+Update: Oracle Java 8 Update 251 x86 x64 (8.0.2510.0)
 Update: Adobe Flash Player ActiveX 32 (32.0.0.363) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.363) (Firefox)
 
@@ -187,17 +195,17 @@ Update: Adobe Flash Player ActiveX 32 (32.0.0.314) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.314) (Firefox)
 
 2019.10.16
-Update: Oracle Java 8 Update 231 (8.0.2310.11) x86 x64
-Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.24.28127.4
+Update: Oracle Java 8 Update 231 x86 x64 (8.0.2310.11)
+Update: Visual C++ 2019 Additional and Minimum Runtime (x86 x64) (14.24.28127.4)
 
 2019.09.20
-Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.22.27821.0
+Update: Visual C++ 2019 Additional and Minimum Runtime (x86 x64) (14.22.27821.0)
 
 2019.07.17
-Update: Oracle Java 8 Update 221 (8.0.2210.11) x86 x64
+Update: Oracle Java 8 Update 221 x86 x64 (8.0.2210.11)
 
 2019.07.12
-Add: Microsoft XNA Framework Redistributable 4.0 Refresh (4.0.30901.0)
+Add: XNA Framework Redistributable 4.0 Refresh (4.0.30901.0)
 Fixed: BUGS
 
 2019.07.09
@@ -211,11 +219,11 @@ Fixed: BUGS
 
 2019.06.21
 Update: Oracle Java 8 Update 212 (8.0.2120.10) x86 x64
-Update: Microsoft NetFramework 4.8 (4.8.03761)
-Update: Microsoft Silverlight 5.1.50918.0
+Update: NetFramework 4.8 (4.8.03761)
+Update: Silverlight 5.1.50918.0
 Remove: MSXML 4.0 Service Pack 3 Parser (4.30.2117.0) (KB2758694) (Obsolete)
-Remove: Microsoft Core XML Services (MSXML) 6.0 (x86 x64) (Obsolete)
-Remove: Microsoft .NET Framework 4.7.2 (Obsolete)
+Remove: Core XML Services (MSXML) 6.0 (x86 x64) (Obsolete)
+Remove: .NET Framework 4.7.2 (Obsolete)
 Fixed: BUGS
 
 2019.06.11
@@ -227,15 +235,15 @@ Fixed: BUGS
 Add: version control
 
 2019.05.22
-Add: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.22.27706.1
+Add: Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.22.27706.1
 Fixed: BUGS
 
 2019.05.14
 Update: Adobe Flash Player ActiveX 32 (32.0.0.192) (IE)
 Update: Adobe Flash Player NPAPI 32 (32.0.0.192) (Firefox)
-Update: Microsoft Visual Basic/C++ Runtime (x86)
-Update: Microsoft Visual Basic/C++ Runtime (x86)
-Add: Microsoft Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.21.27619 (Microsoft Visual C++ 2015 and 2017 is included in this pack)
+Update: Visual Basic/C++ Runtime (x86)
+Update: Visual Basic/C++ Runtime (x86)
+Add: Visual C++ 2019 Additional and Minimum Runtime (x86 x64) 14.21.27619 (Visual C++ 2015 and 2017 is included in this pack)
 Fixed: BUGS
 
 2019.04.16
@@ -287,7 +295,7 @@ Update: Adobe Flash Player ActiveX 30 (30.0.0.154) (IE)
 Update: Adobe Flash Player NPAPI 30 (30.0.0.154) (Firefox)
 
 2018.07.24
-Update: Microsoft NetFramework 4.7.2 (KB4054530)
+Update: NetFramework 4.7.2 (KB4054530)
 
 2018.07.23
 Update: Oracle Java 8 Update 181 (8.0.1810.13) x86 x64
@@ -319,12 +327,12 @@ Add: MSXML 4.0 Service Pack 3 Parser (4.30.2117.0) (KB2758694)
 Fixed: BUGS
 
 2018.02.22
-Add: Microsoft Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
-Update: Microsoft Visual C++ 2017 Additional and Minimum Runtime (x86 x64) 14.13.26020
+Add: Visual Studio 2010 F# Runtime 2.0 SP1 (10.0.40219)
+Update: Visual C++ 2017 Additional and Minimum Runtime (x86 x64) 14.13.26020
 
 2018.01.25
 Update: Java 8 Update 162 (8.0.1620.12)
-Update: Microsoft .NET Framework 4.7.1 (4.7.02558)
+Update: .NET Framework 4.7.1 (4.7.02558)
 
 2018.01.18
 Update: Java 8 Update 161 (8.0.1610.12)
@@ -344,13 +352,13 @@ Update: Java 8 Update 151 (8.0.1510.12)
 Fixed: BUGS
 
 2017.07.31
-Added: Microsoft Visual J# 2.0 Redistributable Package - SE
+Added: Visual J# 2.0 Redistributable Package (SE
 Update: Adobe Flash Player ActiveX 26 (26.0.0.151)
 Update: Adobe Flash Player NPAPI 26 (26.0.0.151)
 Update: Java 8 Update 144 (8.0.1440.15)
 
 2017.06.31
-Added: Microsoft Directx 9c (Jun2010)
+Added: Directx 9c (Jun2010)
 Fixed: BUGS and Links
 
 2017.05.31
@@ -359,7 +367,7 @@ Added: Adobe Flash Player ActiveX
 Added: Adobe Flash Player NPAPI
 Added: Adobe Shockwave Player
 Added: Java 8
-Added: Microsoft Filter Pack 2.0
-Added: Microsoft NetFramework 4.6.2
-Added: Microsoft Silverlight
+Added: Filter Pack 2.0
+Added: NetFramework 4.6.2
+Added: Silverlight
 Added: Visual C++ Runtime Installer v54
