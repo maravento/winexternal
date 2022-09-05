@@ -1,5 +1,8 @@
 # WinExternal Changelog
 
+2022.09.05
+Update: WebView2 Runtime Installer x86 x64 (105.0.1343.27)
+
 2022.08.30
 Update: WebView2 Runtime Installer x86 x64 (104.0.1263.70)
 Update: Legacy Pack for Windows 7
