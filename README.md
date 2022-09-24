@@ -12,11 +12,11 @@
 
 ---
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/yR0nzRKL#W2U8m-kfodIY9zZsrx_H5TTN4dFxheqf8uu0J1Vavco)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/zBFkXY5T#7pdxmyhswEIndMKLIChkEVbYufg6X8jvL5_q29enAJU)
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|812,4 MB|
+|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|812,5 MB|
 
 ## HOW TO USE
 
@@ -44,7 +44,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
 - Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
-- Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.32.31332.0)
+- Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.34.31823.3)
 - Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
 
@@ -76,13 +76,13 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps (6.0.8.31518)
+- .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps (6.0.9.31620)
 
 ### WebView2 Runtime
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
 
-- WebView2 Runtime Installer x86 x64 (105.0.1343.33)
+- WebView2 Runtime Installer x86 x64 (105.0.1343.50)
 
 ### Legacy Pack for Windows 7
 
