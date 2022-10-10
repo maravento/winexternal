@@ -12,11 +12,9 @@
 
 ---
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/download.png)](https://mega.nz/file/zRknXKiQ#wzqt2CueAjIgUa40Ee3HlgN1IeRA9d-rIF4SxXie84k)
-
-|File|OS|Size|
-| :---: | :---: | :---: |
-|WinExternal.exe (.zip)|Windows 7/8/10/11 x86 x64|814,6 MB|
+|File (mega)|File (pcloud)|OS|Size|
+| :---: | :---: | :---: | :---: |
+|[WinExternal.exe (.zip)](https://mega.nz/file/zRknXKiQ#wzqt2CueAjIgUa40Ee3HlgN1IeRA9d-rIF4SxXie84k)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=XZHRyjVZbV8sWTGJTQBHK5UgNqvMrYkNEFa7)|Windows 7/8/10/11 x86 x64|814,6 MB|
 
 ## HOW TO USE
 
