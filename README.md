@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/CNVzTbYb#shNqGaZCG4lXk1LxPI0I5u0JF9GH08mzrq3EzFEVF8s)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=XZHRyjVZbV8sWTGJTQBHK5UgNqvMrYkNEFa7)|Windows 7/8/10/11 x86 x64|814,6 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/TAFRAAqT#8LbQP6FwDNvDe1RMBhVTrjS8qYR18erP1Yqev83FVN0)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=XZHRyjVZbV8sWTGJTQBHK5UgNqvMrYkNEFa7)|Windows 7/8/10/11 x86 x64|814 MB|
 
 ## HOW TO USE
 
@@ -50,7 +50,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net35.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Framework v3.5 SP1 Standalone Installation Package for Windows 10/11 (x64 21H2 or Later - EN/SP) / Paquete independiente de instalación de .NET Framework v3.5 SP1 para Windows 10/11 (x64 21H2 o Superior - EN/ES)
+- .NET Framework v3.5 SP1 Standalone Installation Package for Windows 10/11 (x64 22H2 or Later - EN/SP) / Paquete independiente de instalación de .NET Framework v3.5 SP1 para Windows 10/11 (x64 22H2 o Superior - EN/ES)
 
 #### Important About .NET Framework Runtime v3.5 SP1
 
