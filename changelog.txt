@@ -1,5 +1,9 @@
 # WinExternal Changelog
 
+2022.10.31
+Update: Visual C++ 2022 Redistributable - 14.34.31931.0
+Update: WebView2 Runtime Installer x86 x64 (107.0.1418.26)
+
 2022.10.19
 Update: NetFramework 3.5 SP1 for Windows 10/11 x64 22H2 or later
 Update: WebView2 Runtime Installer x86 x64 (106.0.1370.47)
