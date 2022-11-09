@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/eEEUHI5A#AIl6DDqENtibsj3IF88yvNAaA-eefCHLe2VRs8Gue5s)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=XZHRyjVZbV8sWTGJTQBHK5UgNqvMrYkNEFa7)|Windows 7/8/10/11 x86 x64|820 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/OJsnUBBK#bNS-a9lQ7Z0VIRgm9JD8GGF5t9EMl3OhQnVHhS7CCDc)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=DE5)|Windows 7/8/10/11 x86 x64|648.1 MB|
 
 ## HOW TO USE
 
@@ -70,17 +70,17 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Backward compatibility with previous versions of Windows 10/11 20H2 is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 20H2
 - Only use this installer in case traditional methods fail (WSUS, SCCM or similar) / Solo use este instalador en caso de fallo en los métodos tradicionales (WSUS, SCCM o similar)
 
-### .NET 6.0 Desktop Runtime
+### .NET 7.0 Desktop Runtime
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET 6.0.10 Desktop Runtime x86 x64 Run Desktop Apps
+- .NET 7.0.0 Desktop Runtime x64 Run Desktop Apps
 
 ### WebView2 Runtime
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
 
-- WebView2 Runtime Installer x86 x64
+- WebView2 Runtime Installer x64
 
 ### Legacy Pack for Windows 7
 
