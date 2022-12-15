@@ -1,10 +1,14 @@
 # WinExternal Changelog
 
+2022.12.15
+Update: .NET 7.0.1 Desktop Runtime x86 x64 Run Desktop Apps - 7.0.1.31929
+Update: WebView2 Runtime Installer x64 - 108.0.1462.46
+
 2022.11.09
 Update: .NET 7.0 Desktop Runtime x86 x64 Run Desktop Apps - 7.0.0.31819
+Remove: .NET 7.0 Desktop Runtime x86
 Update: WebView2 Runtime Installer x64 - 107.0.1418.35
 Remove: WebView2 Runtime Installer x86
-Remove: .NET Desktop Runtime x86
 
 2022.10.31
 Update: Visual C++ 2022 Redistributable - 14.34.31931.0

@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/OJsnUBBK#bNS-a9lQ7Z0VIRgm9JD8GGF5t9EMl3OhQnVHhS7CCDc)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=DE5)|Windows 7/8/10/11 x86 x64|648.1 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/2EFRALQQ#GURHcaDYgs4vZCYiFd-FubNrgnIby-MY8VZqKj-GW6w)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|648.6 MB|
 
 ## HOW TO USE
 
@@ -74,7 +74,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET 7.0.0 Desktop Runtime x64 Run Desktop Apps
+- .NET 7.0.1 Desktop Runtime x64 Run Desktop Apps
 
 ### WebView2 Runtime
 
@@ -116,7 +116,7 @@ The following installers no longer run on WinExternal: / Los siguientes instalad
 - [icon-icons](https://icon-icons.com/icon/dot-net-original-logo/146546)
 - [Microsoft DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 - [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
-- [Microsoft .NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime?cid=getdotnetcore)
+- [Microsoft .NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime?cid=getdotnetcore)
 - [Microsoft NetFramework Runtime](https://dotnet.microsoft.com/download/dotnet-framework)
 - [Microsoft Visual C++ Runtime](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
