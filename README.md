@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/2EFRALQQ#GURHcaDYgs4vZCYiFd-FubNrgnIby-MY8VZqKj-GW6w)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|648.6 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/zJcRkTTL#VnZ818FnOiji_GWT6NU_hOZNgpgEBLNG89Fx4ClZhz0)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|703 MB|
 
 ## HOW TO USE
 
@@ -70,11 +70,18 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Backward compatibility with previous versions of Windows 10/11 20H2 is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 20H2
 - Only use this installer in case traditional methods fail (WSUS, SCCM or similar) / Solo use este instalador en caso de fallo en los métodos tradicionales (WSUS, SCCM o similar)
 
-### .NET 7.0 Desktop Runtime
+### .NET Desktop Runtime
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET 7.0.1 Desktop Runtime x64 Run Desktop Apps
+- .NET Desktop Runtime x64 v7.0.1 (Standard Term Support - STS)
+- .NET Desktop Runtime x64 v6.0.12 (Long Term Support - LTS)
+
+check with: / verifique con:
+
+```bash
+dotnet --info
+```
 
 ### WebView2 Runtime
 
@@ -116,7 +123,7 @@ The following installers no longer run on WinExternal: / Los siguientes instalad
 - [icon-icons](https://icon-icons.com/icon/dot-net-original-logo/146546)
 - [Microsoft DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 - [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
-- [Microsoft .NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime?cid=getdotnetcore)
+- [Microsoft .NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet)
 - [Microsoft NetFramework Runtime](https://dotnet.microsoft.com/download/dotnet-framework)
 - [Microsoft Visual C++ Runtime](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
