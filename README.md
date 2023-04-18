@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/7ccQzBCJ#ELGwiuJ_tiYUaUgoKWvoh5i_u-fR4KkgoRSmd7NamQM)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|706.4 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/TAFwCKYR#Ju1WOankhEDZSzfs8mxQ6Hflm59d48LSAT0yxqshkgk)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|707.8 MB|
 
 ## HOW TO USE
 
@@ -42,7 +42,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
 - Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
 - Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
-- Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.36.32502.0)
+- Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.36.32522.0)
 - Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
 - Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
 
@@ -74,8 +74,8 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Desktop Runtime x64 v7.0.4 (Standard Term Support - STS)
-- .NET Desktop Runtime x64 v6.0.15 (Long Term Support - LTS)
+- .NET Desktop Runtime x64 v7.0.5 (Standard Term Support - STS)
+- .NET Desktop Runtime x64 v6.0.16 (Long Term Support - LTS)
 
 check with: / verifique con:
 
@@ -87,7 +87,7 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
 
-- WebView2 Runtime Installer x64 v111.0.1661.44
+- WebView2 Runtime Installer x64 v112.0.1722.48
 
 ### Legacy Pack for Windows 7
 
