@@ -1,5 +1,9 @@
 # WinExternal Changelog
 
+2023.05.21
+Update: WebView2 Runtime Installer x64 - v113.0.1774.50
+Update: Visual C++ 2022 Redistributable - v14.36.32532.0
+
 2023.05.12
 Update: WebView2 Runtime Installer x64 - v113.0.1774.42
 Update: Visual C++ 2022 Redistributable - v14.36.32531.0
