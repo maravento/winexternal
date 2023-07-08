@@ -1,7 +1,7 @@
 # [WinExternal](https://www.maravento.com/p/winexternal.html)
 
-[![GPL v3+](https://img.shields.io/badge/License-GPL%20v3%2B-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![last commit](https://img.shields.io/github/last-commit/maravento/winexternal)](https://github.com/maravento/winexternal/)
+[![status-stable](https://img.shields.io/badge/status-stable-green.svg)](https://github.com/winexternal)
+[![last commit](https://img.shields.io/github/last-commit/maravento/winexternal)](https://github.com/maravento/winexternal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/maraventostudio.svg?style=social)](https://twitter.com/maraventostudio)
 
 **WinExternal** is a project that compiles several Microsoft offline installers for Windows, into one silent, unattended launcher.
@@ -143,12 +143,14 @@ We thank all those who contributed to this project / Agradecemos a todos los que
 
 BTC: 3M84UKpz8AwwPADiYGQjT9spPKCvbqm4Bc
 
-## BUILD
+## LICENCES
 
 ---
 
-[![CreativeCommons](https://raw.githubusercontent.com/maravento/winexternal/master/img/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-[maravento.com](http://www.maravento.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
+[![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+© 2023 [Maravento Studio](https://www.maravento.com)
 
 ## DISCLAIMER
 
