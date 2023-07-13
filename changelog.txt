@@ -1,5 +1,10 @@
 # WinExternal Changelog
 
+2023.07.13
+Update: WebView2 Runtime Installer x64 - v114.0.1823.79
+Update: .NET 7.0.9 Desktop Runtime x64 Run Desktop Apps
+Update: .NET 6.0.20 Desktop Runtime x64 Run Desktop Apps (LTS)
+
 2023.06.29
 Update: WebView2 Runtime Installer x64 - v114.0.1823.67
 Update: .NET 7.0.8 Desktop Runtime x64 Run Desktop Apps
