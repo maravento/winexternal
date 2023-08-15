@@ -1,57 +1,63 @@
 # WinExternal Changelog
 
+2023.08.09
+New: Visual Studio Tools for Office Runtime - 10.0.60910.0 (MSI 10.0.60915)
+Update: WebView2 Runtime Installer x64 - 115.0.1901.200
+Update: .NET 7.0.10 Desktop Runtime x64 Run Desktop Apps
+Update: .NET 6.0.21 Desktop Runtime x64 Run Desktop Apps (LTS)
+
 2023.07.13
-Update: WebView2 Runtime Installer x64 - v114.0.1823.79
+Update: WebView2 Runtime Installer x64 - 114.0.1823.79
 Update: .NET 7.0.9 Desktop Runtime x64 Run Desktop Apps
 Update: .NET 6.0.20 Desktop Runtime x64 Run Desktop Apps (LTS)
 
 2023.06.29
-Update: WebView2 Runtime Installer x64 - v114.0.1823.67
+Update: WebView2 Runtime Installer x64 - 114.0.1823.67
 Update: .NET 7.0.8 Desktop Runtime x64 Run Desktop Apps
 Update: .NET 6.0.19 Desktop Runtime x64 Run Desktop Apps (LTS)
 
 2023.06.19
-Update: WebView2 Runtime Installer x64 - v114.0.1823.55
+Update: WebView2 Runtime Installer x64 - 114.0.1823.55
 Update: .NET 7.0.7 Desktop Runtime x64 Run Desktop Apps
 Update: .NET 6.0.18 Desktop Runtime x64 Run Desktop Apps (LTS)
 
 2023.05.21
-Update: WebView2 Runtime Installer x64 - v113.0.1774.50
-Update: Visual C++ 2022 Redistributable - v14.36.32532.0
+Update: WebView2 Runtime Installer x64 - 113.0.1774.50
+Update: Visual C++ 2022 Redistributable - 14.36.32532.0
 
 2023.05.12
-Update: WebView2 Runtime Installer x64 - v113.0.1774.42
-Update: Visual C++ 2022 Redistributable - v14.36.32531.0
+Update: WebView2 Runtime Installer x64 - 113.0.1774.42
+Update: Visual C++ 2022 Redistributable - 14.36.32531.0
 
 2023.04.18
 Update: .NET 7.0.5 Desktop Runtime x64 Run Desktop Apps
 Update: .NET 6.0.16 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: WebView2 Runtime Installer x64 - v112.0.1722.48
-Update: Visual C++ 2022 Redistributable - v14.36.32522.0
+Update: WebView2 Runtime Installer x64 - 112.0.1722.48
+Update: Visual C++ 2022 Redistributable - 14.36.32522.0
 
 2023.03.17
 Update: .NET 7.0.4 Desktop Runtime x64 Run Desktop Apps
 Update: .NET 6.0.15 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: WebView2 Runtime Installer x64 - v111.0.1661.44
-Update: Visual C++ 2022 Redistributable - v14.36.32502.0
+Update: WebView2 Runtime Installer x64 - 111.0.1661.44
+Update: Visual C++ 2022 Redistributable - 14.36.32502.0
 Fixed: Bugs Visual C++
 
 2023.03.06
-Update: WebView2 Runtime Installer x64 - v110.0.1587.63
-Update: Visual C++ 2022 Redistributable - v14.36.32420.0
+Update: WebView2 Runtime Installer x64 - 110.0.1587.63
+Update: Visual C++ 2022 Redistributable - 14.36.32420.0
 
 2023.02.24
-Update: WebView2 Runtime Installer x64 - v110.0.1587.56
-Update: Visual C++ 2022 Redistributable - v14.36.32323.0
+Update: WebView2 Runtime Installer x64 - 110.0.1587.56
+Update: Visual C++ 2022 Redistributable - 14.36.32323.0
 
 2023.02.17
 Update: .NET 7.0.3 Desktop Runtime x64 Run Desktop Apps
 Update: .NET 6.0.14 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: WebView2 Runtime Installer x64 - v110.0.1587.49
+Update: WebView2 Runtime Installer x64 - 110.0.1587.49
 
 2023.02.01
-Update: WebView2 Runtime Installer x64 - v109.0.1518.70
-Update: Visual C++ 2022 Redistributable - v14.34.31938.0
+Update: WebView2 Runtime Installer x64 - 109.0.1518.70
+Update: Visual C++ 2022 Redistributable - 14.34.31938.0
 
 2023.01.17
 Update: .NET 7.0.2 Desktop Runtime x64 Run Desktop Apps
@@ -108,7 +114,7 @@ Fixed: Bugs
 
 2022.08.24
 New: NetFramework 4.8.1 for Win 10/11 - 4.8.9037.6
-Update: WebView2 Runtime Installer x86 x64 - 104.0.1293.63 
+Update: WebView2 Runtime Installer x86 x64 - 104.0.1293.63
 Remove: Oracle Java 8 Update 341 x86 x64 - 8.0.3410.10
 Upgrade: Menu
 Fix: Bugs

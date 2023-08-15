@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/fIFw2RZT#IO1dR3kiDGINFfmph4Xc3SVXr4PL7B9QdsbmD9lvSYM)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|713.1 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/jQVylT7D#O1C6HApTEbQwVoZ6wfdyuKV8qKGsaRQq0rNM_2VyaVM)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|715.9 MB|
 
 ## HOW TO USE
 
@@ -36,21 +36,20 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-visualc.png)](https://www.maravento.com/p/winexternal.html)
 
-- Visual C++ 2005 Redistributable x86 x64 (8.0.50727.6229)
-- Visual C++ 2008 Redistributable x86 x64 (9.30729.7523)
-- Visual C++ 2010 Redistributable x86 x64 (10.0.40219.473)
-- Visual C++ 2012 Additional and Minimum Runtime x86 x64 (11.0.61135.400)
-- Visual C++ 2013 Additional and Minimum Runtime x86 x64 (12.0.40664.0)
-- Visual C++ 2019 Additional and Minimum Runtime x86 x64 (14.29.30130.2)
-- Visual C++ 2022 Additional and Minimum Runtime x86 x64 (14.36.32532.0)
-- Visual Legacy Runtimes x86: Basic/C++ 2002 (7.0.9975.0) - 2003 (7.10.6119.0)
-- Visual Studio 2010 Tools for Office Runtime x86 x64 (10.0.60833.0)
+- Microsoft Visual Basic/C++ Runtime x86 - 1.1.0
+- Microsoft Visual C++ 2005 Redistributable x86 x64 - 8.0.61187
+- Microsoft Visual C++ 2008 Redistributable x86 x64 - 9.30729.7523
+- Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
+- Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
+- Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
+- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.38.32919
+- Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60910.0 (MSI 10.0.60915)
 
 ### .NET Framework Runtime v3.5 SP1
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net35.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Framework v3.5 SP1 Standalone Installation Package for Windows 10/11 (x64 22H2 or Later - EN/SP) / Paquete independiente de instalación de .NET Framework v3.5 SP1 para Windows 10/11 (x64 22H2 o Superior - EN/ES)
+- .NET Framework v3.5 SP1 Standalone Installation Package for Windows 10/11 x64 EN/SP 22H2 or Later
 
 #### Important About .NET Framework Runtime v3.5 SP1
 
@@ -62,7 +61,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net481.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Framework Runtime v4.8.1 Standalone Installation Package for Windows 10/11 (20H2 or Later - EN/SP) (4.8.9037.6) / Paquete independiente de instalación de .NET Framework Runtime v4.8.1 para Windows 10/11 (20H2 o Superior - EN/ES) (4.8.9037.6)
+- .NET Framework Runtime 4.8.1 Standalone Installation Package for Windows 10/11 EN/SP for 20H2 or Later - 4.8.9037.6
 
 #### Important About .NET Framework Runtime v4.8.1
 
@@ -74,8 +73,8 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Desktop Runtime x64 v7.0.9 (Standard Term Support - STS)
-- .NET Desktop Runtime x64 v6.0.20 (Long Term Support - LTS)
+- .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.10
+- .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.21
 
 check with: / verifique con:
 
@@ -87,15 +86,15 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
 
-- WebView2 Runtime Installer x64 v114.0.1823.79
+- WebView2 Runtime Installer x64 - 115.0.1901.200
 
 ### Legacy Pack for Windows 7
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-legacy.png)](https://www.maravento.com/p/winexternal.html)
 
-- Directx End-User Runtimes 9.29.1974.1 (June 2010)
-- .NetFramework Runtime v4.8 (4.8.4115.0 ENU / 4.8.3761.0 ESN)
-- XNA Framework Redistributable v4.0 Refresh (3.0.5419.0)
+- Directx End-User Runtimes - 9.29.1974.1 (June 2010)
+- .NetFramework Runtime v4.8 - 4.8.4115.0 ENU | 4.8.3761.0 ESN
+- XNA Framework Redistributable v4.0 Refresh - 3.0.5419.0
 
 ## IMPORTANT
 
@@ -129,7 +128,7 @@ The following installers no longer run on WinExternal: / Los siguientes instalad
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
 - [Resource Turner](http://www.restuner.com/)
 - [vcredist](https://github.com/abbodi1406/vcredist/releases)
-- [WinZenity](https://github.com/maravento/winzenity)
+- [WinZenity](https://github.com/maravento/vault/tree/master/winzenity)
 
 ## CONTRIBUTIONS
 
@@ -143,7 +142,7 @@ We thank all those who contributed to this project / Agradecemos a todos los que
 
 BTC: 3M84UKpz8AwwPADiYGQjT9spPKCvbqm4Bc
 
-## LICENCES
+## LICENSES
 
 ---
 
