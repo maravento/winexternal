@@ -130,6 +130,12 @@ The following installers no longer run on WinExternal: / Los siguientes instalad
 - [vcredist](https://github.com/abbodi1406/vcredist/releases)
 - [WinZenity](https://github.com/maravento/vault/tree/master/winzenity)
 
+## STARGAZERS
+
+---
+
+[![Stargazers repo roster for @maravento/winexternal](https://reporoster.com/stars/maravento/winexternal)](https://github.com/maravento/winexternal/stargazers)
+
 ## CONTRIBUTIONS
 
 ---
