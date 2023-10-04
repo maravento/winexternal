@@ -1,5 +1,9 @@
 # WinExternal Changelog
 
+2023-10.04
+Update: Visual C++ 2022 Redistributable - 14.38.33126
+Update: WebView2 Runtime Installer x64 - 117.0.2045.47
+
 2023.09.16
 Update: WebView2 Runtime Installer x64 - 117.0.2045.31
 Update: .NET 7.0.11 Desktop Runtime x64 Run Desktop Apps
