@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/nRNBXILK#r9XfVTMq2nKcgNtnoqmi0iI8Jlv9fL_nO3VHM28dpbU)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|721.8 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/6IMSiDpK#CNMJm0XAjsPHFZg3lQKKYP2gfGWCoSjDuGBlpPtz6Vw)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|727.5 MB|
 
 ## HOW TO USE
 
@@ -73,8 +73,8 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.12
-- .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.23
+- .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.13
+- .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.24
 
 check with: / verifique con:
 
@@ -86,7 +86,7 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
 
-- WebView2 Runtime Installer x64 - 117.0.2045.60
+- WebView2 Runtime Installer x64 - 118.0.2088.61
 
 ### Legacy Pack for Windows 7
 
