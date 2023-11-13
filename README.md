@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/6IMSiDpK#CNMJm0XAjsPHFZg3lQKKYP2gfGWCoSjDuGBlpPtz6Vw)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|727.5 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/7AskAQzR#nEd5Npza_3Tmu12y_0Aqr6ukZbQaGPS-uk18r26xxBQ)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|739 MB|
 
 ## HOW TO USE
 
@@ -42,7 +42,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
 - Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
-- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.38.33126
+- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.38.33130
 - Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60910.0 (MSI 10.0.60915)
 
 ### .NET Framework Runtime v3.5 SP1
@@ -86,7 +86,7 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
 
-- WebView2 Runtime Installer x64 - 118.0.2088.61
+- WebView2 Runtime Installer x64 - 119.0.2151.58
 
 ### Legacy Pack for Windows 7
 
@@ -134,7 +134,7 @@ The following installers no longer run on WinExternal: / Los siguientes instalad
 
 ---
 
-[![Stargazers repo roster for @maravento/winexternal](https://reporoster.com/stars/maravento/winexternal)](https://github.com/maravento/winexternal/stargazers)
+[![Stargazers](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=maravento&repo=winexternal)]((https://github.com/maravento/winexternal/stargazers))
 
 ## CONTRIBUTIONS
 
@@ -142,7 +142,7 @@ The following installers no longer run on WinExternal: / Los siguientes instalad
 
 We thank all those who contributed to this project / Agradecemos a todos los que han contribuido con este proyecto
 
-## DONATE
+## SPONSOR THIS PROJECT
 
 ---
 
