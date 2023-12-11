@@ -1,5 +1,8 @@
 # WinExternal Changelog
 
+Update: WebView2 Runtime Installer x64 - 120.0.2210.61
+New: Microsoft Visual Studio Tools for Applications 2019 - 16.0.31110
+
 2023-11.17
 Update: WebView2 Runtime Installer x64 - 119.0.2151.72
 New: .NET 8.0.0 Desktop Runtime x64 Run Desktop Apps (LTS)

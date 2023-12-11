@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/2JNiTDDK#rdCUKnHDCevLjgME0MNm7sZJt3_Tr3V0hLujBjqR964)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|794 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/vJ0DABiA#JWlHqzkTDAx3eNFXVFqnHtrUsblxvh3chTrxou3lNWw)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|800,2 MB|
 
 ## HOW TO USE
 
@@ -44,6 +44,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
 - Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.38.33130
 - Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60910.0 (MSI 10.0.60915)
+- Microsoft Visual Studio Tools for Applications 2019 - 16.0.31110
 
 ### .NET Framework Runtime v3.5 SP1
 
@@ -87,7 +88,7 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
 
-- WebView2 Runtime Installer x64 - 119.0.2151.72
+- WebView2 Runtime Installer x64 - 120.0.2210.61
 
 ### Legacy Pack for Windows 7
 
@@ -126,6 +127,7 @@ The following installers no longer run on WinExternal: / Los siguientes instalad
 - [Microsoft .NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet)
 - [Microsoft NetFramework Runtime](https://dotnet.microsoft.com/download/dotnet-framework)
 - [Microsoft Visual C++ Runtime](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+- [Microsoft Visual Studio Tools for Application 2019](https://www.microsoft.com/es-es/download/details.aspx?id=58317)
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
 - [Resource Turner](http://www.restuner.com/)
 - [vcredist](https://github.com/abbodi1406/vcredist/releases)
