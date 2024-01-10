@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/vJ0DABiA#JWlHqzkTDAx3eNFXVFqnHtrUsblxvh3chTrxou3lNWw)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|800,2 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/3BMFSBYL#V-9IyHEij_Yd_ju6eQjsdvkRJMDgaK2Brn8Mll_X-iQ)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|800,7 MB|
 
 ## HOW TO USE
 
@@ -43,6 +43,9 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
 - Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.38.33130
+
+#### Add-on
+
 - Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60910.0 (MSI 10.0.60915)
 - Microsoft Visual Studio Tools for Applications 2019 - 16.0.31110
 
@@ -74,9 +77,9 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.0
-- .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.14
-- .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.25
+- .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.1
+- .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.15
+- .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.26
 
 check with: / verifique con:
 
@@ -88,7 +91,7 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
 
-- WebView2 Runtime Installer x64 - 120.0.2210.61
+- WebView2 Runtime Installer x64 - 120.0.2210.121
 
 ### Legacy Pack for Windows 7
 
@@ -157,8 +160,6 @@ BTC: 3M84UKpz8AwwPADiYGQjT9spPKCvbqm4Bc
 
 [![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-© 2023 [Maravento Studio](https://www.maravento.com)
 
 ## DISCLAIMER
 
