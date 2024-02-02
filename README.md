@@ -14,7 +14,7 @@
 
 |File (mega)|File (pcloud)|OS|Size|
 | :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/3BMFSBYL#V-9IyHEij_Yd_ju6eQjsdvkRJMDgaK2Brn8Mll_X-iQ)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|800,7 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/WVswAKKT#MSbN4t_pVgoEPymWqbcn6e7TYfcJpnYQy-hTIdcjNU0)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|803,8 MB|
 
 ## HOW TO USE
 
@@ -42,11 +42,11 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
 - Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
-- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.38.33130
+- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.38.33135
 
 #### Add-on
 
-- Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60910.0 (MSI 10.0.60915)
+- Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60917
 - Microsoft Visual Studio Tools for Applications 2019 - 16.0.31110
 
 ### .NET Framework Runtime v3.5 SP1
@@ -91,7 +91,7 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
 
-- WebView2 Runtime Installer x64 - 120.0.2210.121
+- WebView2 Runtime Installer x64 - 121.0.2277.98
 
 ### Legacy Pack for Windows 7
 

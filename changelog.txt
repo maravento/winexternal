@@ -1,11 +1,16 @@
 # WinExternal Changelog
 
+2024.02.02
+Update: WebView2 Runtime Installer x64 - 121.0.2277.98
+Update: Visual C++ 2022 Redistributable - 14.38.33135.0
+Update: Visual Studio 2010 Tools for Office Runtime - 10.0.60917
+
 2024.01.10
 Update: WebView2 Runtime Installer x64 - 120.0.2210.121
 Update: .NET 8.0.1 Desktop Runtime x64 Run Desktop Apps (LTS)
 Update: .NET 7.0.15 Desktop Runtime x64 Run Desktop Apps
 Update: .NET 6.0.26 Desktop Runtime x64 Run Desktop Apps (LTS)
-New: Microsoft Visual Studio Tools for Applications 2019 - 16.0.31110
+New: Visual Studio Tools for Applications 2019 - 16.0.31110
 
 2023.11.17
 Update: WebView2 Runtime Installer x64 - 119.0.2151.72
