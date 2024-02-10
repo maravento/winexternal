@@ -12,9 +12,9 @@
 
 ---
 
-|File (mega)|File (pcloud)|OS|Size|
-| :---: | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/WVswAKKT#MSbN4t_pVgoEPymWqbcn6e7TYfcJpnYQy-hTIdcjNU0)|[WinExternal.exe (.zip)](https://u.pcloud.link/publink/show?code=M0J)|Windows 7/8/10/11 x86 x64|803,8 MB|
+|File|OS|Size|
+| :---: | :---: | :---: |
+|[WinExternal.exe (.zip)](https://mega.nz/file/7cUDFRzb#IBwyyOlqLV-RVas2QSiOj42z7eoKTFiwggLbkTHcA2w)|Windows 7/8/10/11 x86 x64|808,6 MB|
 
 ## HOW TO USE
 
@@ -77,9 +77,9 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.1
-- .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.15
-- .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.26
+- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.1
+- Microsoft .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.15
+- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.26
 
 check with: / verifique con:
 
@@ -91,32 +91,26 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
 
-- WebView2 Runtime Installer x64 - 121.0.2277.98
+- Microsoft WebView2 Runtime Installer x64 - 121.0.2277.112
 
-### Legacy Pack for Windows 7
+### Legacy
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-legacy.png)](https://www.maravento.com/p/winexternal.html)
 
-- Directx End-User Runtimes - 9.29.1974.1 (June 2010)
-- .NetFramework Runtime v4.8 - 4.8.4115.0 ENU | 4.8.3761.0 ESN
-- XNA Framework Redistributable v4.0 Refresh - 3.0.5419.0
+- Microsoft Directx End-User Runtimes - 9.29.1974.1 (EOS Jun 2010)
+- Microsoft .NetFramework Runtime v4.8 - 4.8.4115.0 ENU | 4.8.3761.0 ESN
+- Microsoft Visual J# Version 2.0 Redistributable Package - Second Edition (x86 x64) (EOS Jul 2016)
+- Microsoft Visual Studio 2010 F# 2.0 SP1 (EOS Jul 2020)
+- Microsoft XNA Framework Redistributable v4.0 - 4.0.20823.0
 
 ## IMPORTANT
 
 ---
 
-### Shared or Included Packages
-
-- [.NET Framework Runtime v4.8 is included in Windows 10 May 2019 and later / .NET Framework Runtime v4.8 se incluye en Windows 10 Mayo 2019 y posteriores](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
-- [Since Visual Studio 2015 share the same redistributable files / Desde Visual Studio 2015 comparten los mismos archivos redistribuibles](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-
-### End-of-Life (EOL) / End-of-Support (EOS)
-
-The following installers no longer run on WinExternal: / Los siguientes instaladores ya no se ejecutan en WinExternal:
-
-- [Silverlight](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788) (EOS October 12, 2021)
-- [Visual J# Version 2.0 Redistributable Package SE](https://docs.microsoft.com/en-us/lifecycle/products/microsoft-visual-j-version-20-redistributable-package) ([x86](http://web.archive.org/web/20201023224856/https://www.microsoft.com/en-us/download/details.aspx?id=18084) [x64](http://web.archive.org/web/20200812110243/https://www.microsoft.com/en-us/download/details.aspx?id=15468)) (EOS Jul 12, 2016)
-- [Visual Studio 2010 F# 2.0](http://web.archive.org/web/20200721134946/https://www.microsoft.com/en-us/download/details.aspx?id=15834) (EOS Jul 14, 2020)
+- [Microsoft .NET Framework Runtime v4.8 is included in Windows 10 May 2019 and later / .NET Framework Runtime v4.8 se incluye en Windows 10 Mayo 2019 y posteriores](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
+- [Since Microsoft Visual Studio 2015 share the same redistributable files / Desde Visual Studio 2015 comparten los mismos archivos redistribuibles](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+- [Microsoft Silverlight no longer run on WinExternal / ya no se ejecuta en WinExternal (EOS Oct 2021)](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
+- Legacy Pack support only Windows 7, and some packages have: /  Legacy Pack solo admite Windows 7 y algunos paquetes tienen: **End-of-Life (EOL) / End-of-Support (EOS)** status
 
 ## USED TOOLS
 
@@ -130,6 +124,8 @@ The following installers no longer run on WinExternal: / Los siguientes instalad
 - [Microsoft .NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet)
 - [Microsoft NetFramework Runtime](https://dotnet.microsoft.com/download/dotnet-framework)
 - [Microsoft Visual C++ Runtime](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+- [Microsoft Visual J# Redistributable Package 2.0](https://www.microsoft.com/es-es/download/details.aspx?id=4712)
+- [Microsoft Visual Studio 2010 F# 2.0](http://web.archive.org/web/20200721134946/https://www.microsoft.com/en-us/download/details.aspx?id=15834)
 - [Microsoft Visual Studio Tools for Application 2019](https://www.microsoft.com/es-es/download/details.aspx?id=58317)
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
 - [Resource Turner](http://www.restuner.com/)
