@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/7cUDFRzb#IBwyyOlqLV-RVas2QSiOj42z7eoKTFiwggLbkTHcA2w)|Windows 7/8/10/11 x86 x64|808,6 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/nRlnACxQ#lTjnM3Cozox2R3XhWLuFTg2krnq5w_uGhCul23_XYZc)|Windows 7/8/10/11 x86 x64|974 MB|
 
 ## HOW TO USE
 
@@ -77,9 +77,9 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.1
-- Microsoft .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.15
-- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.26
+- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.2
+- Microsoft .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.16
+- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.27
 
 check with: / verifique con:
 
@@ -87,11 +87,12 @@ check with: / verifique con:
 dotnet --info
 ```
 
-### WebView2 Runtime
+### Edge
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-webview2.png)](https://www.maravento.com/p/winexternal.html)
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft WebView2 Runtime Installer x64 - 121.0.2277.112
+- Microsoft Edge Enterprise x64 - 122.0.2365.52
+- Microsoft WebView2 Runtime Installer x64 - 122.0.2365.52
 
 ### Legacy
 
