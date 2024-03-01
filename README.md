@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/nRlnACxQ#lTjnM3Cozox2R3XhWLuFTg2krnq5w_uGhCul23_XYZc)|Windows 7/8/10/11 x86 x64|974 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/mc1iDA7Y#643fxTyvGBB4NkxQLe5bQjDSS3mad2WralMtdNrjfIk)|Windows 7/8/10/11 x86 x64|987,6 MB|
 
 ## HOW TO USE
 
@@ -58,8 +58,8 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 #### Important About .NET Framework Runtime v3.5 SP1
 
 - Backward compatibility with previous versions of Windows 10/11 21H2 or Windows Server versions is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 21H2 o versiones Windows Server
-- Only OS English/Spanish / Solo SO Inglés/Español
 - Installation can fail for many reasons. In this case, unzip `WinExternal.exe` on your operating system drive (e.g.: `c:\`), go to `WinExternal\NET35\alternative` and run the `Install .NET Framework 3.5 via DISM.cmd` script with administrative privileges (ISO image required). For more information see `WinExternal\NET35\alternative\readme.txt` / La instalación puede fallar por muchas causas. En este caso descomprima `WinExternal.exe` en la unidad de su sistema operativo (ej: `c:\`), acceda a `WinExternal\NET35\alternative` y ejecute el script `Install .NET Framework 3.5 via DISM.cmd` con privilegios administrativos (requiere imagen ISO). Para mayor información consulte `WinExternal\NET35\alternative\readme.txt`
+- Only OS English/Spanish / Solo SO Inglés/Español
 
 ### .NET Framework Runtime v4.8.1
 
@@ -69,8 +69,8 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 #### Important About .NET Framework Runtime v4.8.1
 
-- Includes native support for Arm64, Accessible Tooltips, Windows Forms – Accessibility Improvements. For more information, check: / Incluye soporte nativo para Arm64, información sobre herramientas accesible, Windows Forms - Mejoras de accesibilidad. Para mayor información, consulte: [Release Notes](https://github.com/microsoft/dotnet/blob/master/releases/net481/README.md)
 - Backward compatibility with previous versions of Windows 10/11 20H2 is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 20H2
+- Includes native support for Arm64, Accessible Tooltips, Windows Forms – Accessibility Improvements. For more information, check: / Incluye soporte nativo para Arm64, información sobre herramientas accesible, Windows Forms - Mejoras de accesibilidad. Para mayor información, consulte: [Release Notes](https://github.com/microsoft/dotnet/blob/master/releases/net481/README.md)
 - Only use this installer in case traditional methods fail (WSUS, SCCM or similar) / Solo use este instalador en caso de fallo en los métodos tradicionales (WSUS, SCCM o similar)
 
 ### .NET Desktop Runtime
@@ -91,8 +91,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge Enterprise x64 - 122.0.2365.52
-- Microsoft WebView2 Runtime Installer x64 - 122.0.2365.52
+- Microsoft Edge Enterprise x64 - 122.0.2365.59
+- Microsoft WebView2 Runtime Installer x64 - 122.0.2365.59
 
 ### Legacy
 
@@ -108,10 +108,11 @@ dotnet --info
 
 ---
 
+- Legacy only supports Windows 7 or earlier versions, and some packages have: /  Legacy solo admite Windows 7 o versiones anteriores y algunos paquetes tienen: **End-of-Life (EOL) / End-of-Support (EOS)** status
 - [Microsoft .NET Framework Runtime v4.8 is included in Windows 10 May 2019 and later / .NET Framework Runtime v4.8 se incluye en Windows 10 Mayo 2019 y posteriores](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
-- [Since Microsoft Visual Studio 2015 share the same redistributable files / Desde Visual Studio 2015 comparten los mismos archivos redistribuibles](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [Microsoft Silverlight no longer run on WinExternal / ya no se ejecuta en WinExternal (EOS Oct 2021)](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
-- Legacy Pack support only Windows 7, and some packages have: /  Legacy Pack solo admite Windows 7 y algunos paquetes tienen: **End-of-Life (EOL) / End-of-Support (EOS)** status
+- [Microsoft XML Core Services (MSXML) no longer run on WinExternal / ya no se ejecuta en WinExternal (EOS Oct 2021)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-xml-core-services-40)
+- [Since Microsoft Visual Studio 2015 share the same redistributable files / Desde Visual Studio 2015 comparten los mismos archivos redistribuibles](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ## USED TOOLS
 
@@ -121,6 +122,7 @@ dotnet --info
 - [iconarchive](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html)
 - [icon-icons](https://icon-icons.com/icon/dot-net-original-logo/146546)
 - [Microsoft DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+- [Microsoft Edge Enterprise](https://www.microsoft.com/en-us/edge/business/download?form=MA13FJ)
 - [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
 - [Microsoft .NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet)
 - [Microsoft NetFramework Runtime](https://dotnet.microsoft.com/download/dotnet-framework)
