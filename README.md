@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/rIkjRJ7J#lNeaQ6TKbDxQckeQcpEy0yjKxCgowzUpW8bCaFr6EbA)|Windows 7/8/10/11 x86 x64|987,8 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/SV8XgIqa#d1szijIKX-Nqe7ZbDQnAoi4zkVbtZF0p9kUf1132oL8)|Windows 7/8/10/11 x86 x64|988,5 MB|
 
 ## HOW TO USE
 
@@ -42,7 +42,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
 - Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
-- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.40.33617
+- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.40.33721.2
 
 #### Add-on
 
@@ -91,8 +91,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge Enterprise x64 - 122.0.2365.80
-- Microsoft WebView2 Runtime Installer x64 - 122.0.2365.80
+- Microsoft Edge Enterprise x64 - 123.0.2420.65
+- Microsoft WebView2 Runtime Installer x64 - 123.0.2420.65
 
 ### Legacy
 
@@ -151,7 +151,7 @@ We thank all those who contributed to this project / Agradecemos a todos los que
 
 ---
 
-BTC: 3M84UKpz8AwwPADiYGQjT9spPKCvbqm4Bc
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/maravento-paypal.png)](https://paypal.me/maravento)
 
 ## LICENSES
 
