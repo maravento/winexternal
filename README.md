@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/SV8XgIqa#d1szijIKX-Nqe7ZbDQnAoi4zkVbtZF0p9kUf1132oL8)|Windows 7/8/10/11 x86 x64|988,5 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/mcsn1D6T#FhcVsslWv65ikkPI0zfGd29VQ5EdvGHs7XAsa40bI_k)|Windows 7/8/10/11 x86 x64|988 MB|
 
 ## HOW TO USE
 
@@ -42,11 +42,11 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
 - Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
-- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.40.33721.2
+- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.40.33807.0
 
 #### Add-on
 
-- Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60917
+- Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60917.0
 - Microsoft Visual Studio Tools for Applications 2019 - 16.0.31110
 
 ### .NET Framework Runtime v3.5 SP1
@@ -77,9 +77,9 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.3
-- Microsoft .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.17
-- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.28
+- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.4
+- Microsoft .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.18
+- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.29
 
 check with: / verifique con:
 
@@ -91,8 +91,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge Enterprise x64 - 123.0.2420.65
-- Microsoft WebView2 Runtime Installer x64 - 123.0.2420.65
+- Microsoft Edge Enterprise x64 - 123.0.2420.81
+- Microsoft WebView2 Runtime Installer x64 - 123.0.2420.81
 
 ### Legacy
 
