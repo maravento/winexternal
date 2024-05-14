@@ -1,5 +1,11 @@
 # WinExternal Changelog
 
+2024.05.13
+Update: Visual Studio Tools for Applications 2022 - 17.0.33529
+Update: Edge Enterprise x64 - 124.0.2478.97
+Update: WebView2 Runtime Installer x64 for Edge - 124.0.2478.97
+Deprecated: .NET 7.0.18 Desktop Runtime x64 Run Desktop Apps (Standard Term Support - STS)
+
 2024.05.02
 Update: Visual C++ 2022 Redistributable - 14.40.33810.0
 Update: Edge Enterprise x64 - 124.0.2478.67

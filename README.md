@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/iAN3STwA#ygK3YM0vKYfpXfdc8gRuySp4xcjoXH5yGlP0aqYQEhM)|Windows 7/8/10/11 x86 x64|982.2 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/DBkXECiJ#SVY0S5qFLrcG53RGncbjmlbhGf7_9lEOjBHo8KfNLLg)|Windows 7/8/10/11 x86 x64|824 MB|
 
 ## HOW TO USE
 
@@ -47,7 +47,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 #### Add-on
 
 - Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60917.0
-- Microsoft Visual Studio Tools for Applications 2019 - 16.0.31110
+- Microsoft Visual Studio Tools for Applications 2022 - 17.0.33529
 
 ### .NET Framework Runtime v3.5 SP1
 
@@ -78,7 +78,6 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.4
-- Microsoft .NET Desktop Runtime x64 (Standard Term Support - STS) - 7.0.18
 - Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.29
 
 check with: / verifique con:
@@ -91,8 +90,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge Enterprise x64 - 124.0.2478.67
-- Microsoft WebView2 Runtime Installer x64 - 124.0.2478.67
+- Microsoft Edge Enterprise x64 - 124.0.2478.97
+- Microsoft WebView2 Runtime Installer x64 - 124.0.2478.97
 
 ### Legacy
 
@@ -113,6 +112,7 @@ dotnet --info
 - [Microsoft Silverlight no longer run on WinExternal / ya no se ejecuta en WinExternal (EOS Oct 2021)](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
 - [Microsoft XML Core Services (MSXML) no longer run on WinExternal / ya no se ejecuta en WinExternal (EOS Oct 2021)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-xml-core-services-40)
 - [Since Microsoft Visual Studio 2015 share the same redistributable files / Desde Visual Studio 2015 comparten los mismos archivos redistribuibles](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+- [Microsoft Visual Studio Tools for Application 2019 - EOS](https://www.microsoft.com/en-us/download/details.aspx?id=58317)
 
 ## USED TOOLS
 
@@ -129,7 +129,7 @@ dotnet --info
 - [Microsoft Visual C++ Runtime](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [Microsoft Visual J# Redistributable Package 2.0](https://www.microsoft.com/es-es/download/details.aspx?id=4712)
 - [Microsoft Visual Studio 2010 F# 2.0](http://web.archive.org/web/20200721134946/https://www.microsoft.com/en-us/download/details.aspx?id=15834)
-- [Microsoft Visual Studio Tools for Application 2019](https://www.microsoft.com/es-es/download/details.aspx?id=58317)
+- [Microsoft Visual Studio Tools for Application 2022](https://www.microsoft.com/en-us/download/details.aspx?id=105123)
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
 - [Resource Turner](http://www.restuner.com/)
 - [vcredist](https://github.com/abbodi1406/vcredist/releases)
