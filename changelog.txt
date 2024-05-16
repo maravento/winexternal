@@ -1,7 +1,13 @@
 # WinExternal Changelog
 
+2024.05.16
+Update: .NET 8.0.5 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: .NET 6.0.30 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Edge Enterprise x64 - 124.0.2478.105
+Update: WebView2 Runtime Installer x64 for Edge x64 - 124.0.2478.105
+
 2024.05.13
-Update: Visual Studio Tools for Applications 2022 - 17.0.33529
+Update: Visual Studio Tools for Applications 2022 x86 - 17.0.33529
 Update: Edge Enterprise x64 - 124.0.2478.97
 Update: WebView2 Runtime Installer x64 for Edge - 124.0.2478.97
 Deprecated: .NET 7.0.18 Desktop Runtime x64 Run Desktop Apps (Standard Term Support - STS)
