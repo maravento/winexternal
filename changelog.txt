@@ -1,5 +1,11 @@
 # WinExternal Changelog
 
+2024.07.09
+Update: .NET 8.0.7 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: .NET 6.0.32 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Edge Enterprise x64 - 126.0.2592.87
+Update: WebView2 Runtime Installer x64 for Edge x64 - 126.0.2592.87
+
 2024.06.06
 Update: .NET 8.0.6 Desktop Runtime x64 Run Desktop Apps (LTS)
 Update: .NET 6.0.31 Desktop Runtime x64 Run Desktop Apps (LTS)

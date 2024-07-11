@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/LIUDiCaQ#97rvTQwEV4P2jv-gGxMd6YdNScmkyqDlIsT_yDJuowc)|Windows 7/8/10/11 x86 x64|941.1 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/LJUSWa6B#pKqbs4f3Fh194u5VDAGfobvHTsaCiRPJ6BD6uy4qFss)|Windows 7/8/10/11 x86 x64|792,5 MB|
 
 ## HOW TO USE
 
@@ -77,8 +77,8 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.6
-- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.31
+- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.7
+- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.32
 
 check with: / verifique con:
 
@@ -90,8 +90,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge Enterprise x64 - 125.0.2535.85
-- Microsoft WebView2 Runtime Installer x64 - 125.0.2535.92
+- Microsoft Edge Enterprise x64 - 126.0.2592.87
+- Microsoft WebView2 Runtime Installer x64 - 126.0.2592.87
 
 ### Legacy
 
@@ -158,7 +158,7 @@ We thank all those who contributed to this project / Agradecemos a todos los que
 ---
 
 [![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 
 ## DISCLAIMER
 
