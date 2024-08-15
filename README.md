@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/LJUSWa6B#pKqbs4f3Fh194u5VDAGfobvHTsaCiRPJ6BD6uy4qFss)|Windows 7/8/10/11 x86 x64|792,5 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/vBkwmSIK#mrnseijCLCBg14-hyz_7CxyIBD-IaTlYeFsszvMEsnY)|Windows 7/8/10/11 x86 x64|791,6 MB|
 
 ## HOW TO USE
 
@@ -42,7 +42,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
 - Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
-- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.40.33810
+- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.42.34226.3
 
 #### Add-on
 
@@ -77,8 +77,8 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.7
-- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.32
+- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.8
+- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.33
 
 check with: / verifique con:
 
@@ -90,8 +90,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge Enterprise x64 - 126.0.2592.87
-- Microsoft WebView2 Runtime Installer x64 - 126.0.2592.87
+- Microsoft Edge Enterprise x64 - 127.0.2651.98
+- Microsoft WebView2 Runtime Installer x64 - 127.0.2651.98
 
 ### Legacy
 
