@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/vBkwmSIK#mrnseijCLCBg14-hyz_7CxyIBD-IaTlYeFsszvMEsnY)|Windows 7/8/10/11 x86 x64|791,6 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/DNFlFLLA#7BZHDGZ9EhpzuH_ww6s6REZKmcLFR-TMgw6qCDNfnAQ)|Windows 7/8/10/11 x86 x64|934,1 MB|
 
 ## HOW TO USE
 
@@ -90,8 +90,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge Enterprise x64 - 127.0.2651.98
-- Microsoft WebView2 Runtime Installer x64 - 127.0.2651.98
+- Microsoft Edge Enterprise x64 - 128.0.2739.67
+- Microsoft WebView2 Runtime Installer x64 - 128.0.2739.67
 
 ### Legacy
 
