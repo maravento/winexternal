@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/DNFlFLLA#7BZHDGZ9EhpzuH_ww6s6REZKmcLFR-TMgw6qCDNfnAQ)|Windows 7/8/10/11 x86 x64|934,1 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/LJEzwYCZ#ctwGgmHnVj5UFBrod_t-mA60iqe_3Xto8gonwk8iSF0)|Windows 7/8/10/11 x86 x64|934,8 MB|
 
 ## HOW TO USE
 
@@ -32,7 +32,7 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 WinExternal contains standalone packages. Select the one of your preference / WinExternal contiene paquetes independientes. Seleccione el de su preferencia
 
-### Visual C++ Redistributable Runtimes
+### Microsoft Visual C++ Redistributable Runtimes
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-visualc.png)](https://www.maravento.com/p/winexternal.html)
 
@@ -49,36 +49,36 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60917.0
 - Microsoft Visual Studio Tools for Applications 2022 x86 - 17.0.33529
 
-### .NET Framework Runtime v3.5 SP1
+### Microsoft .NET Framework Runtime v3.5 SP1
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net35.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Framework v3.5 SP1 Standalone Installation Package for Windows 10/11 x64 EN/SP 22H2 or Later
+- Microsoft .NET Framework v3.5 SP1 Standalone Installation Package (for Windows 10/11 x64 EN/SP 22H2 or Later)
 
-#### Important About .NET Framework Runtime v3.5 SP1
+#### Important About Microsoft .NET Framework Runtime v3.5 SP1
 
 - Backward compatibility with previous versions of Windows 10/11 21H2 or Windows Server versions is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 21H2 o versiones Windows Server
 - Installation can fail for many reasons. In this case, unzip `WinExternal.exe` on your operating system drive (e.g.: `c:\`), go to `WinExternal\NET35\alternative` and run the `Install .NET Framework 3.5 via DISM.cmd` script with administrative privileges (ISO image required). For more information see `WinExternal\NET35\alternative\readme.txt` / La instalación puede fallar por muchas causas. En este caso descomprima `WinExternal.exe` en la unidad de su sistema operativo (ej: `c:\`), acceda a `WinExternal\NET35\alternative` y ejecute el script `Install .NET Framework 3.5 via DISM.cmd` con privilegios administrativos (requiere imagen ISO). Para mayor información consulte `WinExternal\NET35\alternative\readme.txt`
 - Only OS English/Spanish / Solo SO Inglés/Español
 
-### .NET Framework Runtime v4.8.1
+### Microsoft .NET Framework Runtime v4.8.1
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net481.png)](https://www.maravento.com/p/winexternal.html)
 
-- .NET Framework Runtime 4.8.1 Standalone Installation Package for Windows 10/11 EN/SP for 20H2 or Later - 4.8.9037.6
+- Microsoft .NET Framework Runtime 4.8.1 Standalone Installation Package (for Windows 10/11 EN/SP for 20H2 or Later) - 4.8.9037.6
 
-#### Important About .NET Framework Runtime v4.8.1
+#### Important About Microsoft .NET Framework Runtime v4.8.1
 
 - Backward compatibility with previous versions of Windows 10/11 20H2 is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 20H2
 - Includes native support for Arm64, Accessible Tooltips, Windows Forms – Accessibility Improvements. For more information, check: / Incluye soporte nativo para Arm64, información sobre herramientas accesible, Windows Forms - Mejoras de accesibilidad. Para mayor información, consulte: [Release Notes](https://github.com/microsoft/dotnet/blob/master/releases/net481/README.md)
 - Only use this installer in case traditional methods fail (WSUS, SCCM or similar) / Solo use este instalador en caso de fallo en los métodos tradicionales (WSUS, SCCM o similar)
 
-### .NET Desktop Runtime
+### Microsoft .NET Desktop Runtime
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 8.0.8
-- Microsoft .NET Desktop Runtime x64 (Long Term Support - LTS) - 6.0.33
+- Microsoft .NET Desktop Runtime x64 LTS (Active) - 8.0.10
+- Microsoft .NET Desktop Runtime x64 LTS (Maintenance) - 6.0.35
 
 check with: / verifique con:
 
@@ -86,19 +86,19 @@ check with: / verifique con:
 dotnet --info
 ```
 
-### Edge
+### Microsoft Edge
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge Enterprise x64 - 128.0.2739.67
-- Microsoft WebView2 Runtime Installer x64 - 128.0.2739.67
+- Microsoft Edge for Business x64 - 129.0.2792.79
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 129.0.2792.79
 
-### Legacy
+### Microsoft Legacy
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-legacy.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft Directx End-User Runtimes - 9.29.1974.1 (EOS Jun 2010)
-- Microsoft .NetFramework Runtime v4.8 - 4.8.4115.0 ENU | 4.8.3761.0 ESN
+- Microsoft .NET Framework Runtime v4.8 - 4.8.4115.0 ENU | 4.8.3761.0 ESN
 - Microsoft Visual J# Version 2.0 Redistributable Package - Second Edition (x86 x64) (EOS Jul 2016)
 - Microsoft Visual Studio 2010 F# 2.0 SP1 (EOS Jul 2020)
 - Microsoft XNA Framework Redistributable v4.0 - 4.0.20823.0
