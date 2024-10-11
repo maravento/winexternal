@@ -1,5 +1,10 @@
 # WinExternal Changelog
 
+2024.10.10
+Update: Visual C++ 2022 Redistributable - 14.42.34430
+Update: Microsoft Edge for Business x64 - 129.0.2792.89
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 129.0.2792.89
+
 2024.10.08
 Update: Microsoft .NET Desktop Runtime x64 LTS (Active) - 8.0.10
 Update: Microsoft .NET Desktop Runtime x64 LTS (Maintenance) - 6.0.35

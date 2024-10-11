@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/LJEzwYCZ#ctwGgmHnVj5UFBrod_t-mA60iqe_3Xto8gonwk8iSF0)|Windows 7/8/10/11 x86 x64|934,8 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/GIUlXL7K#ILfebfXyRDRNQVpEBkMWFlx2J6f8iPQjpyBVclzycs8)|Windows 7/8/10/11 x86 x64|934,7 MB|
 
 ## HOW TO USE
 
@@ -42,7 +42,7 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
 - Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
-- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.42.34226.3
+- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.42.34430
 
 #### Add-on
 
@@ -90,8 +90,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 129.0.2792.79
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 129.0.2792.79
+- Microsoft Edge for Business x64 - 129.0.2792.89
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 129.0.2792.89
 
 ### Microsoft Legacy
 
