@@ -14,7 +14,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/GIUlXL7K#ILfebfXyRDRNQVpEBkMWFlx2J6f8iPQjpyBVclzycs8)|Windows 7/8/10/11 x86 x64|934,7 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/3NUSDYZS#rXFikWL27ODBm5YSLqZgwMzgxZfTfVTZQCMFVO3pGJ4)|Windows 7/10/11 x86 x64|936,9 MB|
 
 ## HOW TO USE
 
@@ -30,7 +30,15 @@ Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de s
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-selector.png)](https://www.maravento.com/p/winexternal.html)
 
-WinExternal contains standalone packages. Select the one of your preference / WinExternal contiene paquetes independientes. Seleccione el de su preferencia
+WinExternal contains standalone packages. Select the one of your preference. / WinExternal contiene paquetes independientes. Seleccione el de su preferencia.
+
+### OS
+
+All packages are supported on Windows 10/11 x64 only, except [Legacy](https://github.com/maravento/winexternal#microsoft-legacy), which is supported on Windows 7 x86 only and whose components have reached End-of-Life (EOL) / End-of-Support (EOS). Backward compatibility with previous versions of Windows 10/11 22H2 or Windows Server versions is not guaranteed. If your OS does not support the component you selected, the following window will appear:
+
+Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [Legacy](https://github.com/maravento/winexternal#microsoft-legacy), que es compatible solo con Windows 7 x86 y cuyos componentes han alcanzado el End-of-Life (EOL) / End-of-Support (EOS). No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 22H2 o versiones Windows Server. Si su SO no es compatible con el componente que ha seleccionado, saldrá la siguiente ventana:
+
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-abort.png)](https://www.maravento.com/p/winexternal.html)
 
 ### Microsoft Visual C++ Redistributable Runtimes
 
@@ -42,9 +50,9 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
 - Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
-- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.42.34430
+- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.42.34433
 
-#### Add-on
+#### Add-On
 
 - Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60917.0
 - Microsoft Visual Studio Tools for Applications 2022 x86 - 17.0.33529
@@ -57,7 +65,6 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 #### Important About Microsoft .NET Framework Runtime v3.5 SP1
 
-- Backward compatibility with previous versions of Windows 10/11 21H2 or Windows Server versions is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 21H2 o versiones Windows Server
 - Installation can fail for many reasons. In this case, unzip `WinExternal.exe` on your operating system drive (e.g.: `c:\`), go to `WinExternal\NET35\alternative` and run the `Install .NET Framework 3.5 via DISM.cmd` script with administrative privileges (ISO image required). For more information see `WinExternal\NET35\alternative\readme.txt` / La instalación puede fallar por muchas causas. En este caso descomprima `WinExternal.exe` en la unidad de su sistema operativo (ej: `c:\`), acceda a `WinExternal\NET35\alternative` y ejecute el script `Install .NET Framework 3.5 via DISM.cmd` con privilegios administrativos (requiere imagen ISO). Para mayor información consulte `WinExternal\NET35\alternative\readme.txt`
 - Only OS English/Spanish / Solo SO Inglés/Español
 
@@ -69,7 +76,6 @@ WinExternal contains standalone packages. Select the one of your preference / Wi
 
 #### Important About Microsoft .NET Framework Runtime v4.8.1
 
-- Backward compatibility with previous versions of Windows 10/11 20H2 is not guaranteed / No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 20H2
 - Includes native support for Arm64, Accessible Tooltips, Windows Forms – Accessibility Improvements. For more information, check: / Incluye soporte nativo para Arm64, información sobre herramientas accesible, Windows Forms - Mejoras de accesibilidad. Para mayor información, consulte: [Release Notes](https://github.com/microsoft/dotnet/blob/master/releases/net481/README.md)
 - Only use this installer in case traditional methods fail (WSUS, SCCM or similar) / Solo use este instalador en caso de fallo en los métodos tradicionales (WSUS, SCCM o similar)
 
@@ -90,8 +96,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 129.0.2792.89
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 129.0.2792.89
+- Microsoft Edge for Business x64 - 130.0.2849.68
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 130.0.2849.68
 
 ### Microsoft Legacy
 
@@ -107,7 +113,6 @@ dotnet --info
 
 ---
 
-- Legacy only supports Windows 7 or earlier versions, and some packages have: /  Legacy solo admite Windows 7 o versiones anteriores y algunos paquetes tienen: **End-of-Life (EOL) / End-of-Support (EOS)** status
 - [Microsoft .NET Framework Runtime v4.8 is included in Windows 10 May 2019 and later / .NET Framework Runtime v4.8 se incluye en Windows 10 Mayo 2019 y posteriores](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
 - [Microsoft Silverlight no longer run on WinExternal / ya no se ejecuta en WinExternal (EOS Oct 2021)](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
 - [Microsoft XML Core Services (MSXML) no longer run on WinExternal / ya no se ejecuta en WinExternal (EOS Oct 2021)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-xml-core-services-40)
