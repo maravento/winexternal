@@ -9,12 +9,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <span>English</span> | <a href="README-es.md">Español</a>
+      <a href="README.md">English</a> | <span>Español</span>
     </td>
   </tr>
 </table>
 
-**WinExternal** is a project that compiles several Microsoft offline installers for Windows, into one silent, unattended launcher.
+**WinExternal** es un proyecto que recopila varios instaladores fuera de línea de Microsoft para Windows, en un lanzador desatendido y silencioso.
 
 ## DATA SHEET
 
@@ -28,7 +28,7 @@
 
 ---
 
-Disable your Antivirus, Antimalware, SmartScreen or any other security solution in your Operating System, close all windows and check the date and time of your PC is correct. Download WinExternal.exe (.zip), unzip it to your desktop, execute it with double click (accept privileged execution) and follow the instructions on the screen.
+Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de seguridad en su Sistema Operativo, cierre todas las ventanas y verifique la fecha y hora de su PC sea la correcta. Descargue WinExternal.exe (.zip), descomprimirlo en el escritorio, ejecutarlo con doble clic (acepte la ejecución con privilegios) y siga las instrucciones en pantalla.
 
 ## SELECTOR
 
@@ -36,11 +36,11 @@ Disable your Antivirus, Antimalware, SmartScreen or any other security solution 
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-selector.png)](https://www.maravento.com/p/winexternal.html)
 
-WinExternal contains standalone packages. Select the one of your preference.
+WinExternal contiene paquetes independientes. Seleccione el de su preferencia.
 
 ### OS
 
-All packages are supported on Windows 10/11 x64 only, except [Legacy](https://github.com/maravento/winexternal#microsoft-legacy), which is supported on Windows 7 x86 only and whose components have reached End-of-Life (EOL) / End-of-Support (EOS). Backward compatibility with previous versions of Windows 10/11 22H2 or Windows Server versions is not guaranteed. If your OS does not support the component you selected, the following window will appear:
+Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [Legacy](https://github.com/maravento/winexternal#microsoft-legacy), que es compatible solo con Windows 7 x86 y cuyos componentes han alcanzado el End-of-Life (EOL) / End-of-Support (EOS). No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 22H2 o versiones Windows Server. Si su SO no es compatible con el componente que ha seleccionado, saldrá la siguiente ventana:
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-abort.png)](https://www.maravento.com/p/winexternal.html)
 
@@ -69,8 +69,8 @@ All packages are supported on Windows 10/11 x64 only, except [Legacy](https://gi
 
 #### Important About Microsoft .NET Framework Runtime v3.5 SP1
 
-- Installation can fail for many reasons. In this case, unzip `WinExternal.exe` on your operating system drive (e.g.: `c:\`), go to `WinExternal\NET35\alternative` and run the `Install .NET Framework 3.5 via DISM.cmd` script with administrative privileges (ISO image required). For more information see `WinExternal\NET35\alternative\readme.txt`.
-- Only OS English/Spanish
+- La instalación puede fallar por muchas causas. En este caso descomprima `WinExternal.exe` en la unidad de su sistema operativo (ej: `c:\`), acceda a `WinExternal\NET35\alternative` y ejecute el script `Install .NET Framework 3.5 via DISM.cmd` con privilegios administrativos (requiere imagen ISO). Para mayor información consulte `WinExternal\NET35\alternative\readme.txt`
+- Solo SO Inglés/Español
 
 ### Microsoft .NET Framework Runtime v4.8.1
 
@@ -80,8 +80,8 @@ All packages are supported on Windows 10/11 x64 only, except [Legacy](https://gi
 
 #### Important About Microsoft .NET Framework Runtime v4.8.1
 
-- Includes native support for Arm64, Accessible Tooltips, Windows Forms – Accessibility Improvements. For more information, check: [Release Notes](https://github.com/microsoft/dotnet/blob/master/releases/net481/README.md)
-- Only use this installer in case traditional methods fail (WSUS, SCCM or similar).
+- Incluye soporte nativo para Arm64, información sobre herramientas accesible, Windows Forms - Mejoras de accesibilidad. Para mayor información, consulte: [Release Notes](https://github.com/microsoft/dotnet/blob/master/releases/net481/README.md)
+- Solo use este instalador en caso de fallo en los métodos tradicionales (WSUS, SCCM o similar)
 
 ### Microsoft .NET Desktop Runtime
 
@@ -117,10 +117,10 @@ dotnet --info
 
 ---
 
-- [Microsoft .NET Framework Runtime v4.8 is included in Windows 10 May 2019 and later](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
-- [Microsoft Silverlight no longer run on WinExternal (EOS Oct 2021)](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
-- [Microsoft XML Core Services (MSXML) no longer run on WinExternal (EOS Oct 2021)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-xml-core-services-40)
-- [Since Microsoft Visual Studio 2015 share the same redistributable files](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+- [.NET Framework Runtime v4.8 se incluye en Windows 10 Mayo 2019 y posteriores](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
+- [Microsoft Silverlight ya no se ejecuta en WinExternal (EOS Oct 2021)](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
+- [Microsoft XML Core Services (MSXML) ya no se ejecuta en WinExternal (EOS Oct 2021)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-xml-core-services-40)
+- [Desde Visual Studio 2015 comparten los mismos archivos redistribuibles](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [Microsoft Visual Studio Tools for Application 2019 - EOS](https://www.microsoft.com/en-us/download/details.aspx?id=58317)
 
 ## USED TOOLS
@@ -154,7 +154,7 @@ dotnet --info
 
 ---
 
-We thank all those who contributed to this project.
+Agradecemos a todos los que han contribuido con este proyecto
 
 ## SPONSOR THIS PROJECT
 
@@ -173,4 +173,4 @@ We thank all those who contributed to this project.
 
 ---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE OTRO MODO, QUE SURJA DE, A PARTIR DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS OPERACIONES EN EL SOFTWARE.
