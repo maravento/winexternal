@@ -22,7 +22,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/3NUSDYZS#rXFikWL27ODBm5YSLqZgwMzgxZfTfVTZQCMFVO3pGJ4)|Windows 7/10/11 x86 x64|936,9 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/6VdxzaQL#s24dXNlxdU0Hln4i8vEveNAOx3038W6v2fAinUxaTi0)|Windows 7/10/11 x86 x64|996 MB|
 
 ## HOW TO USE
 
@@ -87,8 +87,9 @@ All packages are supported on Windows 10/11 x64 only, except [Legacy](https://gi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET Desktop Runtime x64 LTS (Active) - 8.0.10
-- Microsoft .NET Desktop Runtime x64 LTS (Maintenance) - 6.0.35
+- Microsoft .NET 9.0.0 Desktop Runtime x64 LTS (Active)
+- Microsoft .NET 8.0.11 Desktop Runtime x64 LTS (Active)
+- Microsoft .NET 6.0.36 Desktop Runtime x64 LTS (End of Support EOS)
 
 check with: / verifique con:
 
@@ -100,8 +101,12 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 130.0.2849.68
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 130.0.2849.68
+- Microsoft Edge for Business x64 - 130.0.2849.80
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 130.0.2849.80
+
+#### Important About Edge
+
+Edge and Edge WebView2 now come pre-installed on most devices running Windows 10 or higher and are automatically updated. Selecting this option from the WinExternal selector menu will only install these components, in case they do not exist on your system. Check [Feedback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780).
 
 ### Microsoft Legacy
 
@@ -112,6 +117,19 @@ dotnet --info
 - Microsoft Visual J# Version 2.0 Redistributable Package - Second Edition (x86 x64) (EOS Jul 2016)
 - Microsoft Visual Studio 2010 F# 2.0 SP1 (EOS Jul 2020)
 - Microsoft XNA Framework Redistributable v4.0 - 4.0.20823.0
+
+### Telemetry
+
+WinExternal sends information to the developer, only for the purpose of verifying that the installation has been completed successfully. This information is used exclusively for statistical purposes and to improve the installer, without collecting personal data or compromising user privacy. Example:
+
+```bash
+Package Installation
+Hostname=DESKTOP-AJ4JSC8
+User=Usuario
+Date=wed. 13/11/2024 Time= 6:44:17,39
+Status=Installed
+Package: WinExternal
+```
 
 ## IMPORTANT
 
@@ -128,6 +146,7 @@ dotnet --info
 ---
 
 - [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/)
+- [curl for Windows](https://curl.se/windows/)
 - [iconarchive](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html)
 - [icon-icons](https://icon-icons.com/icon/dot-net-original-logo/146546)
 - [Microsoft DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=8109)

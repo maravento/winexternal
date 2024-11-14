@@ -1,5 +1,14 @@
 # WinExternal Changelog
 
+2024.11.13
+New: Microsoft .NET 9.0.0 Desktop Runtime x64 STS
+Update: Microsoft .NET 8.0.11 Desktop Runtime x64 LTS
+Final Update: Microsoft .NET 6.0.36 Desktop Runtime x64 EOS
+Update: Microsoft Edge for Business x64 - 130.0.2849.80
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 130.0.2849.80
+New: curl 8.11.0 for Windows
+Fixed: Bugs
+
 2024.11.06
 Update: Visual C++ 2022 Redistributable - 14.42.34433
 Update: Microsoft Edge for Business x64 - 130.0.2849.68
@@ -12,40 +21,40 @@ Update: Microsoft Edge for Business x64 - 129.0.2792.89
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 129.0.2792.89
 
 2024.10.08
-Update: Microsoft .NET Desktop Runtime x64 LTS (Active) - 8.0.10
-Update: Microsoft .NET Desktop Runtime x64 LTS (Maintenance) - 6.0.35
+Update: Microsoft .NET 8.0.10 Desktop Runtime x64 STS
+Update: Microsoft .NET 6.0.35 Desktop Runtime x64 LTS
 Update: Microsoft Edge for Business x64 - 129.0.2792.79
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 129.0.2792.79
 Fixed: Version Name
 
 2024.09.09
-Update: .NET Framework v3.5 SP1
+Update: Microsoft .NET Framework v3.5 SP1
 Update: Edge Enterprise x64 - 128.0.2739.67
 Update: WebView2 Runtime Installer x64 for Edge x64 - 128.0.2739.67
 
 2024.08.14
 Update: Visual C++ 2022 Redistributable - 14.42.34226.3
-Update: .NET 8.0.8 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: .NET 6.0.33 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 8.0.8 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.33 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Edge Enterprise x64 - 127.0.2651.98
 Update: WebView2 Runtime Installer x64 for Edge x64 - 127.0.2651.98
 Fixed: Bugs
 
 2024.07.09
-Update: .NET 8.0.7 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: .NET 6.0.32 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 8.0.7 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.32 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Edge Enterprise x64 - 126.0.2592.87
 Update: WebView2 Runtime Installer x64 for Edge x64 - 126.0.2592.87
 
 2024.06.06
-Update: .NET 8.0.6 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: .NET 6.0.31 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 8.0.6 Desktop Runtime x64 Run Desktop Apps LTS
+Update: Microsoft .NET 6.0.31 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Edge Enterprise x64 - 125.0.2535.85
 Update: WebView2 Runtime Installer x64 for Edge x64 - 125.0.2535.92
 
 2024.05.16
-Update: .NET 8.0.5 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: .NET 6.0.30 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 8.0.5 Desktop Runtime x64 Run Desktop Apps LTS
+Update: Microsoft .NET 6.0.30 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Edge Enterprise x64 - 124.0.2478.105
 Update: WebView2 Runtime Installer x64 for Edge x64 - 124.0.2478.105
 
@@ -53,7 +62,7 @@ Update: WebView2 Runtime Installer x64 for Edge x64 - 124.0.2478.105
 Update: Visual Studio Tools for Applications 2022 x86 - 17.0.33529
 Update: Edge Enterprise x64 - 124.0.2478.97
 Update: WebView2 Runtime Installer x64 for Edge - 124.0.2478.97
-Deprecated: .NET 7.0.18 Desktop Runtime x64 Run Desktop Apps (Standard Term Support - STS)
+Deprecated: .NET 7.0.18 Desktop Runtime x64 Run Desktop Apps STS
 
 2024.05.02
 Update: Visual C++ 2022 Redistributable - 14.40.33810.0
@@ -65,9 +74,9 @@ Update: Visual C++ 2022 Redistributable - 14.40.33807.0
 Update: Visual Studio Tools for Office Runtime - 10.0.60917.0 (MSI 10.0.60922)
 Update: Edge Enterprise x64 - 123.0.2420.81
 Update: WebView2 Runtime Installer x64 for Edge - 123.0.2420.81
-Update: .NET 8.0.4 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: .NET 7.0.18 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.29 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 8.0.4 Desktop Runtime x64 Run Desktop Apps LTS
+Update: Microsoft .NET 7.0.18 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.29 Desktop Runtime x64 Run Desktop Apps LTS
 
 2024.03.29
 Update: Visual C++ 2022 Redistributable - 14.40.33721.2
@@ -76,9 +85,9 @@ Update: WebView2 Runtime Installer x64 for Edge - 123.0.2420.65
 
 2024.03.13
 Update: Visual C++ 2022 Redistributable - 14.40.33617.1
-Update: .NET 8.0.3 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: .NET 7.0.17 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.28 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 8.0.3 Desktop Runtime x64 Run Desktop Apps LTS
+Update: Microsoft .NET 7.0.17 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.28 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Edge Enterprise x64 - 122.0.2365.80
 Update: WebView2 Runtime Installer x64 for Edge - 122.0.2365.80
 
@@ -87,9 +96,9 @@ Update: Edge Enterprise x64 - 122.0.2365.59
 Update: WebView2 Runtime Installer x64 for Edge - 122.0.2365.59
 
 2024.02.24
-Update: .NET 8.0.2 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: .NET 7.0.16 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.27 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 8.0.2 Desktop Runtime x64 Run Desktop Apps LTS
+Update: Microsoft .NET 7.0.16 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.27 Desktop Runtime x64 Run Desktop Apps LTS
 Update: WebView2 Runtime Installer x64 for Edge - 122.0.2365.52
 New: Edge Enterprise x64 - 122.0.2365.52
 
@@ -106,16 +115,16 @@ Update: Visual Studio 2010 Tools for Office Runtime - 10.0.60917
 
 2024.01.10
 Update: WebView2 Runtime Installer x64 - 120.0.2210.121
-Update: .NET 8.0.1 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: .NET 7.0.15 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.26 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 8.0.1 Desktop Runtime x64 Run Desktop Apps LTS
+Update: Microsoft .NET 7.0.15 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.26 Desktop Runtime x64 Run Desktop Apps LTS
 New: Visual Studio Tools for Applications 2019 - 16.0.31110
 
 2023.11.17
 Update: WebView2 Runtime Installer x64 - 119.0.2151.72
-New: .NET 8.0.0 Desktop Runtime x64 Run Desktop Apps (LTS)
-Update: .NET 7.0.14 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.25 Desktop Runtime x64 Run Desktop Apps (LTS)
+New: .NET 8.0.0 Desktop Runtime x64 Run Desktop Apps LTS
+Update: Microsoft .NET 7.0.14 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.25 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.11.13
 Update: WebView2 Runtime Installer x64 - 119.0.2151.58
@@ -123,13 +132,13 @@ Update: Visual C++ 2022 Redistributable - 14.38.33130
 
 2023.10.12
 Update: WebView2 Runtime Installer x64 - 118.0.2088.61
-Update: .NET 7.0.13 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.24 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.13 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.24 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.10.12
 Update: WebView2 Runtime Installer x64 - 117.0.2045.60
-Update: .NET 7.0.12 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.23 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.12 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.23 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.10.04
 Update: Visual C++ 2022 Redistributable - 14.38.33126
@@ -137,29 +146,29 @@ Update: WebView2 Runtime Installer x64 - 117.0.2045.47
 
 2023.09.16
 Update: WebView2 Runtime Installer x64 - 117.0.2045.31
-Update: .NET 7.0.11 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.22 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.11 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.22 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.08.09
 New: Visual Studio Tools for Office Runtime - 10.0.60910.0 (MSI 10.0.60915)
 Update: WebView2 Runtime Installer x64 - 115.0.1901.200
-Update: .NET 7.0.10 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.21 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.10 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.21 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.07.13
 Update: WebView2 Runtime Installer x64 - 114.0.1823.79
-Update: .NET 7.0.9 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.20 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.9 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.20 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.06.29
 Update: WebView2 Runtime Installer x64 - 114.0.1823.67
-Update: .NET 7.0.8 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.19 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.8 Desktop Runtime x64 Run Desktop Apps
+Update: Microsoft .NET 6.0.19 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.06.19
 Update: WebView2 Runtime Installer x64 - 114.0.1823.55
-Update: .NET 7.0.7 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.18 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.7 Desktop Runtime x64 Run Desktop Apps
+Update: Microsoft .NET 6.0.18 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.05.21
 Update: WebView2 Runtime Installer x64 - 113.0.1774.50
@@ -170,14 +179,14 @@ Update: WebView2 Runtime Installer x64 - 113.0.1774.42
 Update: Visual C++ 2022 Redistributable - 14.36.32531.0
 
 2023.04.18
-Update: .NET 7.0.5 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.16 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.5 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.16 Desktop Runtime x64 Run Desktop Apps LTS
 Update: WebView2 Runtime Installer x64 - 112.0.1722.48
 Update: Visual C++ 2022 Redistributable - 14.36.32522.0
 
 2023.03.17
-Update: .NET 7.0.4 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.15 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.4 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft .NET 6.0.15 Desktop Runtime x64 Run Desktop Apps LTS
 Update: WebView2 Runtime Installer x64 - 111.0.1661.44
 Update: Visual C++ 2022 Redistributable - 14.36.32502.0
 Fixed: Bugs Visual C++
@@ -191,8 +200,8 @@ Update: WebView2 Runtime Installer x64 - 110.0.1587.56
 Update: Visual C++ 2022 Redistributable - 14.36.32323.0
 
 2023.02.17
-Update: .NET 7.0.3 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.14 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.3 Desktop Runtime x64 Run Desktop Apps
+Update: Microsoft .NET 6.0.14 Desktop Runtime x64 Run Desktop Apps LTS
 Update: WebView2 Runtime Installer x64 - 110.0.1587.49
 
 2023.02.01
@@ -200,19 +209,19 @@ Update: WebView2 Runtime Installer x64 - 109.0.1518.70
 Update: Visual C++ 2022 Redistributable - 14.34.31938.0
 
 2023.01.17
-Update: .NET 7.0.2 Desktop Runtime x64 Run Desktop Apps
-Update: .NET 6.0.13 Desktop Runtime x64 Run Desktop Apps (LTS)
+Update: Microsoft .NET 7.0.2 Desktop Runtime x64 Run Desktop Apps
+Update: Microsoft .NET 6.0.13 Desktop Runtime x64 Run Desktop Apps LTS
 Update: WebView2 Runtime Installer x64 - 109.0.1518.52
 
 2023.01.03
-Add: .NET 6.0.12 Desktop Runtime x64 Run Desktop Apps (LTS)
+Add: Microsoft .NET 6.0.12 Desktop Runtime x64 Run Desktop Apps LTS
 
 2022.12.15
-Update: .NET 7.0.1 Desktop Runtime x64 Run Desktop Apps
+Update: Microsoft .NET 7.0.1 Desktop Runtime x64 Run Desktop Apps
 Update: WebView2 Runtime Installer x64 - 108.0.1462.46
 
 2022.11.09
-Update: .NET 7.0 Desktop Runtime x86 x64 Run Desktop Apps
+Update: Microsoft .NET 7.0 Desktop Runtime x86 x64 Run Desktop Apps
 Remove: .NET 7.0 Desktop Runtime x86
 Update: WebView2 Runtime Installer x64 - 107.0.1418.35
 Remove: WebView2 Runtime Installer x86
@@ -227,7 +236,7 @@ Update: WebView2 Runtime Installer x86 x64 - 106.0.1370.47
 
 2022.10.11
 Update: WebView2 Runtime Installer x86 x64 - 106.0.1370.42
-Update: .NET 6.0.10 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.10.31726
+Update: Microsoft .NET 6.0.10 Desktop Runtime x86 x64 Run Desktop Apps
 
 2022.10.07
 Update: WebView2 Runtime Installer x86 x64 - 106.0.1370.37
@@ -235,7 +244,7 @@ Update: Visual C++ 2022 Redistributable - 14.34.31921.1
 
 2022.09.23
 Update: WebView2 Runtime Installer x86 x64 - 105.0.1343.50
-Update: .NET 6.0.9 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.9.31620
+Update: Microsoft .NET 6.0.9 Desktop Runtime x86 x64 Run Desktop Apps
 Update: Visual C++ 2022 Redistributable - 14.34.31823.3
 
 2022.09.09
@@ -261,25 +270,25 @@ Fix: Bugs
 
 2022.08.19
 Update:  WebView2 Runtime Installer x86 x64 - 104.0.1263.54
-Update: .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.8.31518
+Update: Microsoft .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.8.31518
 
 2022.07.20
 Update: Oracle Java 8 Update 341 x86 x64 - 8.0.3410.10
 
 2022.07.16
 Update:  WebView2 Runtime Installer x86 x64 - 103.0.1264.62
-Update: .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.7.31442
+Update: Microsoft .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.7.31442
 
 2022.07.07
 Update:  WebView2 Runtime Installer x86 x64 - 103.0.1264.49
 
 2022.06.28
 New:  WebView2 Runtime Installer x86 x64 - 103.0.1264.37
-Update: .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.6
+Update: Microsoft .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.6
 Update: Visual C++ 2022 Redistributable - 14.32.31332.0
 
 2022.06.01
-Update: .NET 6.0 Desktop Runtime x86 x64 - 6.0.5
+Update: Microsoft .NET 6.0 Desktop Runtime x86 x64 - 6.0.5
 
 2021.05.05
 Update: Oracle Java 8 Update 333 x86 x64 - 8.0.3330.2
@@ -576,7 +585,7 @@ Update: Visual C++ 2017 Additional and Minimum Runtime x86 x64 - 14.13.26020
 
 2018.01.25
 Update: Java 8 Update 162 x86 x64 - 8.0.1620.12
-Update: .NET Framework 4.7.1 - 4.7.02558
+Update: Microsoft .NET Framework 4.7.1 - 4.7.02558
 
 2018.01.18
 Update: Java 8 Update 161 x86 x64 - 8.0.1610.12
