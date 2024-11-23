@@ -1,5 +1,11 @@
 # WinExternal Changelog
 
+2024.11.23
+Update: Microsoft Edge for Business x64 - 131.0.2903.63
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 131.0.2903.63
+Update: Microsoft NET 3.5 for Windows 11 24H2
+Fixed: NET35 Bugs
+
 2024.11.13
 New: Microsoft .NET 9.0.0 Desktop Runtime x64 STS
 Update: Microsoft .NET 8.0.11 Desktop Runtime x64 LTS

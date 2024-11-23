@@ -22,7 +22,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/6VdxzaQL#s24dXNlxdU0Hln4i8vEveNAOx3038W6v2fAinUxaTi0)|Windows 7/10/11 x86 x64|996 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/DRUCARwQ#9F8wHvg1R3cE9HlMH3AsTN3X0L0DplnXfjjH8eMaWto)|Windows 7/10/11 x86 x64|997.4 MB|
 
 ## HOW TO USE
 
@@ -65,7 +65,7 @@ All packages are supported on Windows 10/11 x64 only, except [Legacy](https://gi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net35.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET Framework v3.5 SP1 Standalone Installation Package (for Windows 10/11 x64 EN/SP 22H2 or Later)
+- Microsoft .NET Framework v3.5 SP1 Standalone Installation Package (for Windows 10 22H2 x64 and Windows 11 24H2 x64)
 
 #### Important About Microsoft .NET Framework Runtime v3.5 SP1
 
@@ -101,12 +101,13 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 130.0.2849.80
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 130.0.2849.80
+- Microsoft Edge for Business x64 - 131.0.2903.63
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 131.0.2903.63
 
 #### Important About Edge
 
-Edge and Edge WebView2 now come pre-installed on most devices running Windows 10 or higher and are automatically updated. Selecting this option from the WinExternal selector menu will only install these components, in case they do not exist on your system. Check [Feedback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780).
+Edge and WebView2 are now pre-installed on most devices running Windows 10 or higher, are automatically updated, and are integrated as a core component of the operating system, so they do not support uninstallation by traditional methods. Selecting this option from the WinExternal selector menu will only install these components, if they do not exist on your operating system. Check [Feedback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780).
+
 
 ### Microsoft Legacy
 
