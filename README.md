@@ -22,7 +22,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/DRUCARwQ#9F8wHvg1R3cE9HlMH3AsTN3X0L0DplnXfjjH8eMaWto)|Windows 7/10/11 x86 x64|997.4 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/aYUSCKja#nlqm8gCm-Ldzb3jDI0bz7mu8HPczKbbOlVfOGTQnVOY)|Windows 7/10/11 x86 x64|995.9 MB|
 
 ## HOW TO USE
 
@@ -87,8 +87,8 @@ All packages are supported on Windows 10/11 x64 only, except [Legacy](https://gi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET 9.0.0 Desktop Runtime x64 LTS (Active)
-- Microsoft .NET 8.0.11 Desktop Runtime x64 LTS (Active)
+- Microsoft .NET 9.0.1 Desktop Runtime x64 LTS (Active)
+- Microsoft .NET 8.0.12 Desktop Runtime x64 LTS (Active)
 - Microsoft .NET 6.0.36 Desktop Runtime x64 LTS (End of Support EOS)
 
 check with: / verifique con:
@@ -101,8 +101,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 131.0.2903.63
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 131.0.2903.63
+- Microsoft Edge for Business x64 - 131.0.2903.146
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 131.0.2903.146
 
 #### Important About Edge
 
