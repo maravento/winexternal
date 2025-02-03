@@ -22,7 +22,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/aYUSCKja#nlqm8gCm-Ldzb3jDI0bz7mu8HPczKbbOlVfOGTQnVOY)|Windows 7/10/11 x86 x64|995.9 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/mdl0QZpR#Bn755ZY6NJ39quA911qfTZ-wQapcs5LUWVSFHKni354)|Windows 7/10/11 x86 x64|996,7 MB|
 
 ## HOW TO USE
 
@@ -54,7 +54,7 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
 - Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
-- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.42.34433
+- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.42.34438
 
 #### Add-On
 
@@ -101,8 +101,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 131.0.2903.146
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 131.0.2903.146
+- Microsoft Edge for Business x64 - 132.0.2957.140
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 132.0.2957.140
 
 #### Important About Edge
 
@@ -182,7 +182,7 @@ Agradecemos a todos los que han contribuido con este proyecto
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/maravento-paypal.png)](https://paypal.me/maravento)
 
-## LICENSES
+## PROJECT LICENSES
 
 ---
 
