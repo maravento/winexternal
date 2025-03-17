@@ -22,7 +22,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/KZsVnLhZ#BaeVYWoERXXS5pwURt_8XspAdLUArT1brr5mFaQYXdg)|Windows 7/10/11 x86 x64|999,3 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/WI10UabJ#ehJ3lO1p4xD8jCDxCZ9obT0B4JlmZu24ib8pcr9f5tA)|Windows 7/10/11 x86 x64|1001,1 MB|
 
 ## HOW TO USE
 
@@ -87,8 +87,8 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET 9.0.2 Desktop Runtime x64 LTS (Active)
-- Microsoft .NET 8.0.13 Desktop Runtime x64 LTS (Active)
+- Microsoft .NET 9.0.3 Desktop Runtime x64 LTS (Active)
+- Microsoft .NET 8.0.14 Desktop Runtime x64 LTS (Active)
 - Microsoft .NET 6.0.36 Desktop Runtime x64 LTS (End of Support EOS)
 
 check with: / verifique con:
@@ -101,8 +101,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 133.0.3065.92
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 133.0.3065.92
+- Microsoft Edge for Business x64 - 134.0.3124.66
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 134.0.3124.68
 
 #### Important About Edge
 
@@ -131,10 +131,7 @@ Status=Installed
 Package: WinExternal
 ```
 
-
-## IMPORTANT
-
----
+### IMPORTANT
 
 - [.NET Framework Runtime v4.8 se incluye en Windows 10 Mayo 2019 y posteriores](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
 - [Microsoft Silverlight ya no se ejecuta en WinExternal (EOS Oct 2021)](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
@@ -142,9 +139,7 @@ Package: WinExternal
 - [Desde Visual Studio 2015 comparten los mismos archivos redistribuibles](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [Microsoft Visual Studio Tools for Application 2019 - EOS](https://www.microsoft.com/en-us/download/details.aspx?id=58317)
 
-## USED TOOLS
-
----
+### WORKTOOLS
 
 - [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/)
 - [curl for Windows](https://curl.se/windows/)
@@ -163,6 +158,13 @@ Package: WinExternal
 - [Resource Turner](http://www.restuner.com/)
 - [vcredist](https://github.com/abbodi1406/vcredist/releases)
 - [WinZenity](https://github.com/maravento/vault/tree/master/winzenity)
+
+## NOTICE
+
+---
+
+- Este proyecto incluye componentes de terceros.
+- Los cambios deben proponerse mediante Issues. No se aceptan Pull Requests.
 
 ## STARGAZERS
 
