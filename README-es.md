@@ -22,7 +22,7 @@
 
 |File|OS|Size|
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/WI10UabJ#ehJ3lO1p4xD8jCDxCZ9obT0B4JlmZu24ib8pcr9f5tA)|Windows 7/10/11 x86 x64|1001,1 MB|
+|[WinExternal.exe (.zip)](https://mega.nz/file/PBsTADpI#uyLGFA5Q6Ncpy7VKbJ-jcIRExYQf2WIxrc5o-yl8J6E)|Windows 7/10/11 x86 x64|987,6 MB|
 
 ## HOW TO USE
 
@@ -54,7 +54,7 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
 - Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
 - Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
-- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.44.34918
+- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.44.35026
 
 #### Add-On
 
@@ -87,8 +87,8 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET 9.0.3 Desktop Runtime x64 LTS (Active)
-- Microsoft .NET 8.0.14 Desktop Runtime x64 LTS (Active)
+- Microsoft .NET 9.0.4 Desktop Runtime x64 LTS (Active)
+- Microsoft .NET 8.0.15 Desktop Runtime x64 LTS (Active)
 - Microsoft .NET 6.0.36 Desktop Runtime x64 LTS (End of Support EOS)
 
 check with: / verifique con:
@@ -101,8 +101,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 134.0.3124.66
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 134.0.3124.68
+- Microsoft Edge for Business x64 - 135.0.3179.54
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 135.0.3179.54
 
 #### Important About Edge
 
