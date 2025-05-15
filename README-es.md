@@ -4,6 +4,7 @@
 
 [![status-stable](https://img.shields.io/badge/status-stable-green.svg)](https://github.com/winexternal)
 [![last commit](https://img.shields.io/github/last-commit/maravento/winexternal)](https://github.com/maravento/winexternal)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/maravento/winexternal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/maraventostudio.svg?style=social)](https://twitter.com/maraventostudio)
 
 <table align="center">
@@ -20,9 +21,9 @@
 
 ---
 
-|File|OS|Size|
+| File | OS | Size |
 | :---: | :---: | :---: |
-|[WinExternal.exe (.zip)](https://mega.nz/file/yZkVhL7C#toS0hl_-XCbQBeMlbR9k9rpvG_5s8P0_0qGkRO1HI38)|Windows 7/10/11 x86 x64|988 MB|
+| [WinExternal.exe (.zip)](https://mega.nz/file/eUtxgBbJ#uHnzkBabvG0rsrUYmjx36W69BXbIm6E9B-oAa8j4fB4) | Windows 7/10/11 x86 x64 | 988,7 MB |
 
 ## HOW TO USE
 
@@ -58,8 +59,8 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 
 #### Add-On
 
-- Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.60917.0
-- Microsoft Visual Studio Tools for Applications 2022 x86 - 17.0.33529
+- Microsoft Visual Studio Tools for Applications 2022 x64 - 17.0.35906
+- Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.609922
 
 ### Microsoft .NET Framework Runtime v3.5 SP1
 
@@ -87,8 +88,8 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET 9.0.4 Desktop Runtime x64 LTS (Active)
-- Microsoft .NET 8.0.15 Desktop Runtime x64 LTS (Active)
+- Microsoft .NET 9.0.5 Desktop Runtime x64 LTS (Active)
+- Microsoft .NET 8.0.16 Desktop Runtime x64 LTS (Active)
 - Microsoft .NET 6.0.36 Desktop Runtime x64 LTS (End of Support EOS)
 
 check with: / verifique con:
@@ -101,8 +102,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 135.0.3179.85
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 135.0.3179.85
+- Microsoft Edge for Business x64 - 136.0.3240.76
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 136.0.3240.76
 
 #### Important About Edge
 
