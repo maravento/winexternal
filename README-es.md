@@ -23,7 +23,7 @@
 
 | File | OS | Size |
 | :---: | :---: | :---: |
-| [WinExternal.exe (.zip)](https://mega.nz/file/iY8yjAqA#7S2r7PJwB_XGoLXXmWYKknYdTyB4G-CnfkXsynDaxL4) | Windows 7/10/11 x86 x64 | 998,8 MB |
+| [WinExternal.exe (.zip)](https://mega.nz/file/3dcyiJKC#NV8yzWFQmb8dUW3MnL_ParKXAHSY1Edzi1xo6PVvgrk) | Windows 7/10/11 x86 x64 | 1 GB |
 
 ## HOW TO USE
 
@@ -49,24 +49,31 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-visualc.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Visual Basic/C++ Runtime x86 - 1.1.0
-- Microsoft Visual C++ 2005 Redistributable x86 x64 - 8.0.61187
-- Microsoft Visual C++ 2008 Redistributable x86 x64 - 9.30729.7523
-- Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219
-- Microsoft Visual C++ 2012 Redistributable x86 x64 (Additional and Minimum Runtime) - 11.0.61135
-- Microsoft Visual C++ 2013 Redistributable x86 x64 (Additional and Minimum Runtime) - 12.0.40664
-- Microsoft Visual C++ 2022 Redistributable x86 x64 (Additional and Minimum Runtime) - 14.44.35211
+#### VCRedist
 
-#### Add-On
+- Microsoft Visual Basic/C++ Runtime x86 - 1.1.0 (End of Support EOS)
+- Microsoft Visual C++ 2005 Redistributable x86 x64 - 8.0.61187 (End of Support EOS)
+- Microsoft Visual C++ 2008 Redistributable x86 x64 - 9.30729.7523 (End of Support EOS)
+- Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219 (End of Support EOS)
+- Microsoft Visual C++ 2012 Redistributable x86 x64 - 11.0.61135 (End of Support EOS)
+- Microsoft Visual C++ 2013 Redistributable x86 x64 - 12.0.40664 (End of Support EOS)
+- Microsoft Visual C++ 2022 Redistributable x86 x64 - 14.50.35503 (Active Support)
 
-- Microsoft Visual Studio Tools for Applications 2022 x64 - 17.0.35906
-- Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.609922
+#### VSTO
+
+- Microsoft Visual Studio 2010 Tools for Office Runtime x86 x64 - 10.0.609922 (End of Support EOS)
+
+#### VSTA
+
+- Microsoft Visual Studio Tools for Applications 2017 x86 x64 - 15.0.36010 (Active Support)
+- Microsoft Visual Studio Tools for Applications 2019 x86 x64 - 16.0.35907 (Active Support)
+- Microsoft Visual Studio Tools for Applications 2022 x86 x64 - 17.0.35906 (Active Support)
 
 ### Microsoft .NET Framework Runtime v3.5 SP1
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net35.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET Framework v3.5 SP1 Standalone Installation Package (for Windows 10 22H2 x64 and Windows 11 24H2 x64)
+- Microsoft .NET Framework v3.5 SP1 (for Windows 10/11 22H2 or Later) (Active Support)
 
 #### Important About Microsoft .NET Framework Runtime v3.5 SP1
 
@@ -77,7 +84,7 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net481.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET Framework Runtime 4.8.1 Standalone Installation Package (for Windows 10/11 EN/SP for 20H2 or Later) - 4.8.9037.6
+- Microsoft .NET Framework Runtime 4.8.1 - 4.8.9037.6 (for Windows 10/11 20H2 or Later) (Active Support)
 
 #### Important About Microsoft .NET Framework Runtime v4.8.1
 
@@ -88,9 +95,9 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft .NET 9.0.8 Desktop Runtime x64 LTS (Active)
-- Microsoft .NET 8.0.19 Desktop Runtime x64 LTS (Active)
 - Microsoft .NET 6.0.36 Desktop Runtime x64 LTS (End of Support EOS)
+- Microsoft .NET 8.0.20 Desktop Runtime x64 LTS (Active Support)
+- Microsoft .NET 9.0.9 Desktop Runtime x64 LTS (Active Support)
 
 check with: / verifique con:
 
@@ -102,8 +109,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 138.0.3351.121
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 138.0.3351.121
+- Microsoft Edge for Business x64 - 140.0.3485.54 (Active Support)
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 140.0.3485.54 (Active Support)
 
 #### Important About Edge
 
@@ -113,11 +120,11 @@ Edge y WebView2 ahora vienen instalados en la mayoría de los dispositivos con W
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-legacy.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Directx End-User Runtimes - 9.29.1974.1 (EOS Jun 2010)
-- Microsoft .NET Framework Runtime v4.8 - 4.8.4115.0 ENU | 4.8.3761.0 ESN
-- Microsoft Visual J# Version 2.0 Redistributable Package - Second Edition (x86 x64) (EOS Jul 2016)
-- Microsoft Visual Studio 2010 F# 2.0 SP1 (EOS Jul 2020)
-- Microsoft XNA Framework Redistributable v4.0 - 4.0.20823.0
+- Microsoft Directx End-User Runtimes - 9.29.1974.1 (End of Support EOS)
+- Microsoft .NET Framework Runtime v4.8 - 4.8.4115.0 ENU | 4.8.3761.0 ESN (Active Support)
+- Microsoft Visual J# Version 2.0 Redistributable Package - Second Edition (x86 x64) (End of Support EOS)
+- Microsoft Visual Studio 2010 F# 2.0 SP1 (End of Support EOS)
+- Microsoft XNA Framework Redistributable v4.0 - 4.0.20823.0 (End of Support EOS)
 
 ### Telemetry
 
@@ -138,7 +145,6 @@ Package: WinExternal
 - [Microsoft Silverlight ya no se ejecuta en WinExternal (EOS Oct 2021)](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
 - [Microsoft XML Core Services (MSXML) ya no se ejecuta en WinExternal (EOS Oct 2021)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-xml-core-services-40)
 - [Desde Visual Studio 2015 comparten los mismos archivos redistribuibles](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-- [Microsoft Visual Studio Tools for Application 2019 - EOS](https://www.microsoft.com/en-us/download/details.aspx?id=58317)
 
 ### WORKTOOLS
 
@@ -154,6 +160,8 @@ Package: WinExternal
 - [Microsoft Visual C++ Runtime](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - [Microsoft Visual J# Redistributable Package 2.0](https://www.microsoft.com/es-es/download/details.aspx?id=4712)
 - [Microsoft Visual Studio 2010 F# 2.0](http://web.archive.org/web/20200721134946/https://www.microsoft.com/en-us/download/details.aspx?id=15834)
+- [Microsoft Visual Studio Tools for Application 2017](https://www.microsoft.com/en-us/download/details.aspx?id=56046)
+- [Microsoft Visual Studio Tools for Application 2019](https://www.microsoft.com/en-us/download/details.aspx?id=58317)
 - [Microsoft Visual Studio Tools for Application 2022](https://www.microsoft.com/en-us/download/details.aspx?id=105123)
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
 - [Resource Turner](http://www.restuner.com/)
