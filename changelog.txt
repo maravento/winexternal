@@ -1,12 +1,17 @@
 # WinExternal Changelog
 
+2025.09.28
+Update: Microsoft Visual C++ 2022 Redistributable - 14.50.35615.0
+Update: Microsoft Edge for Business x64 - 140.0.3485.94
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 140.0.3485.94
+
 2025.09.11
-Update: Visual C++ 2022 Redistributable - 14.50.35503.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.50.35503.0
 Update: Microsoft .NET 9.0.9 Desktop Runtime x64 STS
 Update: Microsoft .NET 8.0.20 Desktop Runtime x64 LTS
-Update: Microsoft Visual Studio Tools for Applications 2022 - 17.0.35906
-Update: Microsoft Visual Studio Tools for Applications 2019 - 16.0.35907
-Update: Microsoft Visual Studio Tools for Applications 2017 - 15.0.36010
+Update: Microsoft Visual Studio Tools for Applications 2022 x64 (VSTA 2022) - 17.0.35906
+Update: Microsoft Visual Studio Tools for Applications 2019 x64 (VSTA 2019) - 16.0.35907
+Update: Microsoft Visual Studio Tools for Applications 2017 x64 (VSTA 2017) - 15.0.36010
 Update: Microsoft Edge for Business x64 - 140.0.3485.54
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 140.0.3485.54
 Fixed: Bugs
@@ -14,42 +19,42 @@ Fixed: Bugs
 2025.08.06
 Update: Microsoft .NET 9.0.8 Desktop Runtime x64 STS
 Update: Microsoft .NET 8.0.19 Desktop Runtime x64 LTS
-Update: Microsoft Edge for Business - 138.0.3351.121
-Update: Microsoft Edge WebView2 Evergreen Standalone Installer - 138.0.3351.121
+Update: Microsoft Edge for Business x64 - 138.0.3351.121
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 138.0.3351.121
 
 2025.07.12
 Update: Microsoft .NET 9.0.7 Desktop Runtime x64 STS
 Update: Microsoft .NET 8.0.18 Desktop Runtime x64 LTS
-Update: Microsoft Edge for Business - 138.0.3351.83
-Update: Microsoft Edge WebView2 Evergreen Standalone Installer - 138.0.3351.83
+Update: Microsoft Edge for Business x64 - 138.0.3351.83
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 138.0.3351.83
 
 2025.06.18
-Update: Visual C++ 2022 Redistributable - 14.44.35211.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.44.35211.0
 Update: Microsoft .NET 9.0.6 Desktop Runtime x64 STS
 Update: Microsoft .NET 8.0.17 Desktop Runtime x64 LTS
-Update: Microsoft Edge for Business - 137.0.3296.83
-Update: Microsoft Edge WebView2 Evergreen Standalone Installer - 137.0.3296.83
+Update: Microsoft Edge for Business x64 - 137.0.3296.83
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 137.0.3296.83
 
 2025.05.29
-Update: Visual C++ 2022 Redistributable - 14.44.35208
-Update: Microsoft Edge for Business - 137.0.3296.52
-Update: Microsoft Edge WebView2 Evergreen Standalone Installer - 137.0.3296.52
+Update: Microsoft Visual C++ 2022 Redistributable - 14.44.35208
+Update: Microsoft Edge for Business x64 - 137.0.3296.52
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 137.0.3296.52
 
 2025.05.15
 Update: Microsoft .NET 9.0.5 Desktop Runtime x64 STS
 Update: Microsoft .NET 8.0.16 Desktop Runtime x64 LTS
 Update: Microsoft Visual Studio Tools for Applications 2022 x64 - 17.0.35906
 Update: Microsoft Visual Studio 2010 Tools for Office Runtime x64 - 10.0.609922
-Update: Microsoft Edge for Business - 136.0.3240.76
-Update: Microsoft Edge WebView2 Evergreen Standalone Installer - 136.0.3240.76
+Update: Microsoft Edge for Business x64 - 136.0.3240.76
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 136.0.3240.76
 
 2025.04.22
-Update: Visual C++ 2022 Redistributable - 14.44.35112.1
+Update: Microsoft Visual C++ 2022 Redistributable - 14.44.35112.1
 Update: Microsoft Edge for Business x64 - 135.0.3179.85
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 135.0.3179.85
 
 2025.04.08
-Update: Visual C++ 2022 Redistributable - 14.44.35026
+Update: Microsoft Visual C++ 2022 Redistributable - 14.44.35026
 Update: Microsoft .NET 9.0.4 Desktop Runtime x64 STS
 Update: Microsoft .NET 8.0.15 Desktop Runtime x64 LTS
 Update: Microsoft Edge for Business x64 - 135.0.3179.54
@@ -62,7 +67,7 @@ Update: Microsoft Edge for Business x64 - 134.0.3124.66
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 134.0.3124.68
 
 2025.03.05
-Update: Visual C++ 2022 Redistributable - 14.44.34918.1
+Update: Microsoft Visual C++ 2022 Redistributable - 14.44.34918.1
 Update: Microsoft Edge for Business x64 - 133.0.3065.92
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 133.0.3065.92
 
@@ -73,7 +78,7 @@ Update: Microsoft Edge for Business x64 - 133.0.3065.59
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 133.0.3065.59
 
 2025.02.02
-Update: Visual C++ 2022 Redistributable - 14.42.34438
+Update: Microsoft Visual C++ 2022 Redistributable - 14.42.34438
 Update: Microsoft Edge for Business x64 - 132.0.2957.140
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 132.0.2957.140
 
@@ -87,7 +92,7 @@ Update: Microsoft .NET 8.0.12 Desktop Runtime x64 LTS
 Update: Microsoft Edge for Business x64 - 131.0.2903.63
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 131.0.2903.63
 Update: Microsoft NET 3.5 for Windows 11 24H2
-Fixed: NET35 Bugs
+Fixed: Microsoft NET 3.5 Bugs
 
 2024.11.13
 New: Microsoft .NET 9.0.0 Desktop Runtime x64 STS
@@ -99,13 +104,13 @@ New: curl 8.11.0 for Windows
 Fixed: Bugs
 
 2024.11.06
-Update: Visual C++ 2022 Redistributable - 14.42.34433
+Update: Microsoft Visual C++ 2022 Redistributable - 14.42.34433
 Update: Microsoft Edge for Business x64 - 130.0.2849.68
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 130.0.2849.68
 Fixed: Bugs
 
 2024.10.10
-Update: Visual C++ 2022 Redistributable - 14.42.34430
+Update: Microsoft Visual C++ 2022 Redistributable - 14.42.34430
 Update: Microsoft Edge for Business x64 - 129.0.2792.89
 Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 129.0.2792.89
 
@@ -118,263 +123,265 @@ Fixed: Version Name
 
 2024.09.09
 Update: Microsoft .NET Framework v3.5 SP1
-Update: Edge Enterprise x64 - 128.0.2739.67
-Update: WebView2 Runtime Installer x64 for Edge x64 - 128.0.2739.67
+Update: Microsoft Edge Enterprise x64 - 128.0.2739.67
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 128.0.2739.67
 
 2024.08.14
-Update: Visual C++ 2022 Redistributable - 14.42.34226.3
+Update: Microsoft Visual C++ 2022 Redistributable - 14.42.34226.3
 Update: Microsoft .NET 8.0.8 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.33 Desktop Runtime x64 Run Desktop Apps LTS
-Update: Edge Enterprise x64 - 127.0.2651.98
-Update: WebView2 Runtime Installer x64 for Edge x64 - 127.0.2651.98
+Update: Microsoft Edge Enterprise x64 - 127.0.2651.98
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 127.0.2651.98
 Fixed: Bugs
 
 2024.07.09
 Update: Microsoft .NET 8.0.7 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.32 Desktop Runtime x64 Run Desktop Apps LTS
-Update: Edge Enterprise x64 - 126.0.2592.87
-Update: WebView2 Runtime Installer x64 for Edge x64 - 126.0.2592.87
+Update: Microsoft Edge Enterprise x64 - 126.0.2592.87
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 126.0.2592.87
 
 2024.06.06
 Update: Microsoft .NET 8.0.6 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Microsoft .NET 6.0.31 Desktop Runtime x64 Run Desktop Apps LTS
-Update: Edge Enterprise x64 - 125.0.2535.85
-Update: WebView2 Runtime Installer x64 for Edge x64 - 125.0.2535.92
+Update: Microsoft Edge Enterprise x64 - 125.0.2535.85
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 125.0.2535.92
 
 2024.05.16
 Update: Microsoft .NET 8.0.5 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Microsoft .NET 6.0.30 Desktop Runtime x64 Run Desktop Apps LTS
-Update: Edge Enterprise x64 - 124.0.2478.105
-Update: WebView2 Runtime Installer x64 for Edge x64 - 124.0.2478.105
+Update: Microsoft Edge Enterprise x64 - 124.0.2478.105
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 124.0.2478.105
 
 2024.05.13
-Update: Visual Studio Tools for Applications 2022 x86 - 17.0.33529
-Update: Edge Enterprise x64 - 124.0.2478.97
-Update: WebView2 Runtime Installer x64 for Edge - 124.0.2478.97
-Deprecated: .NET 7.0.18 Desktop Runtime x64 Run Desktop Apps STS
+Update: Microsoft Visual Studio Tools for Applications 2022 x86 - 17.0.33529
+Update: Microsoft Edge Enterprise x64 - 124.0.2478.97
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 124.0.2478.97
+Deprecated: Microsoft .NET 7.0.18 Desktop Runtime x64 Run Desktop Apps STS
 
 2024.05.02
-Update: Visual C++ 2022 Redistributable - 14.40.33810.0
-Update: Edge Enterprise x64 - 124.0.2478.67
-Update: WebView2 Runtime Installer x64 for Edge - 124.0.2478.67
+Update: Microsoft Visual C++ 2022 Redistributable - 14.40.33810.0
+Update: Microsoft Edge Enterprise x64 - 124.0.2478.67
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 124.0.2478.67
 
 2024.04.11
-Update: Visual C++ 2022 Redistributable - 14.40.33807.0
-Update: Visual Studio Tools for Office Runtime - 10.0.60917.0 (MSI 10.0.60922)
-Update: Edge Enterprise x64 - 123.0.2420.81
-Update: WebView2 Runtime Installer x64 for Edge - 123.0.2420.81
+Update: Microsoft Visual C++ 2022 Redistributable - 14.40.33807.0
+Update: Microsoft Visual Studio Tools for Office Runtime - 10.0.60917.0 (MSI 10.0.60922)
+Update: Microsoft Edge Enterprise x64 - 123.0.2420.81
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 123.0.2420.81
 Update: Microsoft .NET 8.0.4 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Microsoft .NET 7.0.18 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.29 Desktop Runtime x64 Run Desktop Apps LTS
 
 2024.03.29
-Update: Visual C++ 2022 Redistributable - 14.40.33721.2
-Update: Edge Enterprise x64 - 123.0.2420.65
-Update: WebView2 Runtime Installer x64 for Edge - 123.0.2420.65
+Update: Microsoft Visual C++ 2022 Redistributable - 14.40.33721.2
+Update: Microsoft Edge Enterprise x64 - 123.0.2420.65
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 123.0.2420.65
 
 2024.03.13
-Update: Visual C++ 2022 Redistributable - 14.40.33617.1
+Update: Microsoft Visual C++ 2022 Redistributable - 14.40.33617.1
 Update: Microsoft .NET 8.0.3 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Microsoft .NET 7.0.17 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.28 Desktop Runtime x64 Run Desktop Apps LTS
-Update: Edge Enterprise x64 - 122.0.2365.80
-Update: WebView2 Runtime Installer x64 for Edge - 122.0.2365.80
+Update: Microsoft Edge Enterprise x64 - 122.0.2365.80
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 122.0.2365.80
 
 2024.03.01
-Update: Edge Enterprise x64 - 122.0.2365.59
-Update: WebView2 Runtime Installer x64 for Edge - 122.0.2365.59
+Update: Microsoft Edge Enterprise x64 - 122.0.2365.59
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 122.0.2365.59
 
 2024.02.24
 Update: Microsoft .NET 8.0.2 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Microsoft .NET 7.0.16 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.27 Desktop Runtime x64 Run Desktop Apps LTS
-Update: WebView2 Runtime Installer x64 for Edge - 122.0.2365.52
-New: Edge Enterprise x64 - 122.0.2365.52
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 122.0.2365.52
+New: Microsoft Edge Enterprise x64 - 122.0.2365.52
 
 2024.02.10
-Update: WebView2 Runtime Installer x64 - 121.0.2277.112
-Update: XNA Framework Redistributable v4.0 - 4.0.20823.0
-Add: Visual J# Redistributable Package 2.0, Visual Studio 2010 F# 2.0 to Legacy Pack
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 121.0.2277.112
+Update: Microsoft XNA Framework Redistributable v4.0 - 4.0.20823.0
+Add: Microsoft Visual J# Redistributable Package 2.0, Visual Studio 2010 F# 2.0 to Legacy Pack
 Fixed: Bugs
 
 2024.02.02
-Update: WebView2 Runtime Installer x64 - 121.0.2277.98
-Update: Visual C++ 2022 Redistributable - 14.38.33135.0
-Update: Visual Studio 2010 Tools for Office Runtime - 10.0.60917
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 121.0.2277.98
+Update: Microsoft Visual C++ 2022 Redistributable - 14.38.33135.0
+Update: Microsoft Visual Studio 2010 Tools for Office Runtime - 10.0.60917
 
 2024.01.10
-Update: WebView2 Runtime Installer x64 - 120.0.2210.121
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 120.0.2210.121
 Update: Microsoft .NET 8.0.1 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Microsoft .NET 7.0.15 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.26 Desktop Runtime x64 Run Desktop Apps LTS
-New: Visual Studio Tools for Applications 2019 - 16.0.31110
+New: Microsoft Visual Studio Tools for Applications 2019 - 16.0.31110
 
 2023.11.17
-Update: WebView2 Runtime Installer x64 - 119.0.2151.72
-New: .NET 8.0.0 Desktop Runtime x64 Run Desktop Apps LTS
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 119.0.2151.72
+New: Microsoft .NET 8.0.0 Desktop Runtime x64 Run Desktop Apps LTS
 Update: Microsoft .NET 7.0.14 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.25 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.11.13
-Update: WebView2 Runtime Installer x64 - 119.0.2151.58
-Update: Visual C++ 2022 Redistributable - 14.38.33130
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 119.0.2151.58
+Update: Microsoft Visual C++ 2022 Redistributable - 14.38.33130
 
 2023.10.12
-Update: WebView2 Runtime Installer x64 - 118.0.2088.61
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 118.0.2088.61
 Update: Microsoft .NET 7.0.13 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.24 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.10.12
-Update: WebView2 Runtime Installer x64 - 117.0.2045.60
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 117.0.2045.60
 Update: Microsoft .NET 7.0.12 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.23 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.10.04
-Update: Visual C++ 2022 Redistributable - 14.38.33126
-Update: WebView2 Runtime Installer x64 - 117.0.2045.47
+Update: Microsoft Visual C++ 2022 Redistributable - 14.38.33126
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 117.0.2045.47
 
 2023.09.16
-Update: WebView2 Runtime Installer x64 - 117.0.2045.31
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 117.0.2045.31
 Update: Microsoft .NET 7.0.11 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.22 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.08.09
-New: Visual Studio Tools for Office Runtime - 10.0.60910.0 (MSI 10.0.60915)
-Update: WebView2 Runtime Installer x64 - 115.0.1901.200
+New: Microsoft Visual Studio Tools for Office Runtime - 10.0.60910.0 (MSI 10.0.60915)
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 115.0.1901.200
 Update: Microsoft .NET 7.0.10 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.21 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.07.13
-Update: WebView2 Runtime Installer x64 - 114.0.1823.79
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 114.0.1823.79
 Update: Microsoft .NET 7.0.9 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.20 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.06.29
-Update: WebView2 Runtime Installer x64 - 114.0.1823.67
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 114.0.1823.67
 Update: Microsoft .NET 7.0.8 Desktop Runtime x64 Run Desktop Apps
 Update: Microsoft .NET 6.0.19 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.06.19
-Update: WebView2 Runtime Installer x64 - 114.0.1823.55
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 114.0.1823.55
 Update: Microsoft .NET 7.0.7 Desktop Runtime x64 Run Desktop Apps
 Update: Microsoft .NET 6.0.18 Desktop Runtime x64 Run Desktop Apps LTS
 
 2023.05.21
-Update: WebView2 Runtime Installer x64 - 113.0.1774.50
-Update: Visual C++ 2022 Redistributable - 14.36.32532.0
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 113.0.1774.50
+Update: Microsoft Visual C++ 2022 Redistributable - 14.36.32532.0
 
 2023.05.12
-Update: WebView2 Runtime Installer x64 - 113.0.1774.42
-Update: Visual C++ 2022 Redistributable - 14.36.32531.0
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 113.0.1774.42
+Update: Microsoft Visual C++ 2022 Redistributable - 14.36.32531.0
 
 2023.04.18
 Update: Microsoft .NET 7.0.5 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.16 Desktop Runtime x64 Run Desktop Apps LTS
-Update: WebView2 Runtime Installer x64 - 112.0.1722.48
-Update: Visual C++ 2022 Redistributable - 14.36.32522.0
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 112.0.1722.48
+Update: Microsoft Visual C++ 2022 Redistributable - 14.36.32522.0
 
 2023.03.17
 Update: Microsoft .NET 7.0.4 Desktop Runtime x64 Run Desktop Apps STS
 Update: Microsoft .NET 6.0.15 Desktop Runtime x64 Run Desktop Apps LTS
-Update: WebView2 Runtime Installer x64 - 111.0.1661.44
-Update: Visual C++ 2022 Redistributable - 14.36.32502.0
-Fixed: Bugs Visual C++
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 111.0.1661.44
+Update: Microsoft Visual C++ 2022 Redistributable - 14.36.32502.0
+Fixed: Bugs Microsoft Visual C++
 
 2023.03.06
-Update: WebView2 Runtime Installer x64 - 110.0.1587.63
-Update: Visual C++ 2022 Redistributable - 14.36.32420.0
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 110.0.1587.63
+Update: Microsoft Visual C++ 2022 Redistributable - 14.36.32420.0
 
 2023.02.24
-Update: WebView2 Runtime Installer x64 - 110.0.1587.56
-Update: Visual C++ 2022 Redistributable - 14.36.32323.0
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 110.0.1587.56
+Update: Microsoft Visual C++ 2022 Redistributable - 14.36.32323.0
 
 2023.02.17
 Update: Microsoft .NET 7.0.3 Desktop Runtime x64 Run Desktop Apps
 Update: Microsoft .NET 6.0.14 Desktop Runtime x64 Run Desktop Apps LTS
-Update: WebView2 Runtime Installer x64 - 110.0.1587.49
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 110.0.1587.49
 
 2023.02.01
-Update: WebView2 Runtime Installer x64 - 109.0.1518.70
-Update: Visual C++ 2022 Redistributable - 14.34.31938.0
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 109.0.1518.70
+Update: Microsoft Visual C++ 2022 Redistributable - 14.34.31938.0
 
 2023.01.17
 Update: Microsoft .NET 7.0.2 Desktop Runtime x64 Run Desktop Apps
 Update: Microsoft .NET 6.0.13 Desktop Runtime x64 Run Desktop Apps LTS
-Update: WebView2 Runtime Installer x64 - 109.0.1518.52
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 109.0.1518.52
 
 2023.01.03
 Add: Microsoft .NET 6.0.12 Desktop Runtime x64 Run Desktop Apps LTS
 
 2022.12.15
 Update: Microsoft .NET 7.0.1 Desktop Runtime x64 Run Desktop Apps
-Update: WebView2 Runtime Installer x64 - 108.0.1462.46
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 108.0.1462.46
 
 2022.11.09
 Update: Microsoft .NET 7.0 Desktop Runtime x86 x64 Run Desktop Apps
-Remove: .NET 7.0 Desktop Runtime x86
-Update: WebView2 Runtime Installer x64 - 107.0.1418.35
+Remove: Microsoft .NET 7.0 Desktop Runtime x86
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 107.0.1418.35
 Remove: WebView2 Runtime Installer x86
 
 2022.10.31
-Update: Visual C++ 2022 Redistributable - 14.34.31931.0
-Update: WebView2 Runtime Installer x86 x64 - 107.0.1418.26
+Update: Microsoft Visual C++ 2022 Redistributable - 14.34.31931.0
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 107.0.1418.26
 
 2022.10.19
-Update: NetFramework 3.5 SP1 for Windows 10/11 x64 21H2/22H2 or later
-Update: WebView2 Runtime Installer x86 x64 - 106.0.1370.47
+Update: Microsoft NetFramework 3.5 SP1 for Windows 10/11 x64 21H2/22H2 or later
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 106.0.1370.47
 
 2022.10.11
-Update: WebView2 Runtime Installer x86 x64 - 106.0.1370.42
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 106.0.1370.42
 Update: Microsoft .NET 6.0.10 Desktop Runtime x86 x64 Run Desktop Apps
 
 2022.10.07
-Update: WebView2 Runtime Installer x86 x64 - 106.0.1370.37
-Update: Visual C++ 2022 Redistributable - 14.34.31921.1
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 106.0.1370.37
+Update: Microsoft Visual C++ 2022 Redistributable - 14.34.31921.1
 
 2022.09.23
-Update: WebView2 Runtime Installer x86 x64 - 105.0.1343.50
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 105.0.1343.50
 Update: Microsoft .NET 6.0.9 Desktop Runtime x86 x64 Run Desktop Apps
-Update: Visual C++ 2022 Redistributable - 14.34.31823.3
+Update: Microsoft Visual C++ 2022 Redistributable - 14.34.31823.3
 
 2022.09.09
-Update: WebView2 Runtime Installer x86 x64 - 105.0.1343.33
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 105.0.1343.33
 
 2022.09.05
-Update: WebView2 Runtime Installer x86 x64 - 105.0.1343.27
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 105.0.1343.27
 
 2022.08.30
-Update: WebView2 Runtime Installer x86 x64 - 104.0.1263.70
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 104.0.1263.70
 Update: Legacy Pack for Windows 7
-Fixed:  Bugs
+Fixed: Bugs
 
 2022.08.27
 Fixed: Bugs
 
+# WinExternal - From now on only Microsoft components
+
 2022.08.24
 New: NetFramework 4.8.1 for Win 10/11 - 4.8.9037.6
-Update: WebView2 Runtime Installer x86 x64 - 104.0.1293.63
-Remove: Oracle Java 8 Update 341 x86 x64 - 8.0.3410.10
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 104.0.1293.63
+Remove: Oracle Java 8
 Upgrade: Menu
 Fix: Bugs
 
 2022.08.19
-Update:  WebView2 Runtime Installer x86 x64 - 104.0.1263.54
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 104.0.1263.54
 Update: Microsoft .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.8.31518
 
 2022.07.20
 Update: Oracle Java 8 Update 341 x86 x64 - 8.0.3410.10
 
 2022.07.16
-Update:  WebView2 Runtime Installer x86 x64 - 103.0.1264.62
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 103.0.1264.62
 Update: Microsoft .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.7.31442
 
 2022.07.07
-Update:  WebView2 Runtime Installer x86 x64 - 103.0.1264.49
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 103.0.1264.49
 
 2022.06.28
-New:  WebView2 Runtime Installer x86 x64 - 103.0.1264.37
+New: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 103.0.1264.37
 Update: Microsoft .NET 6.0 Desktop Runtime x86 x64 Run Desktop Apps - 6.0.6
-Update: Visual C++ 2022 Redistributable - 14.32.31332.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.32.31332.0
 
 2022.06.01
 Update: Microsoft .NET 6.0 Desktop Runtime x86 x64 - 6.0.5
@@ -387,22 +394,22 @@ Update: Oracle Java 8 Update 331 x86 x64 - 8.0.3310.9
 
 2022.04.19
 New: .NET 6.0 Desktop Runtime x86 x64 - 6.0.4
-Update: Visual C++ 2022 Redistributable - 14.32.31326.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.32.31326.0
 
 2022.04.09
 Fix: Bugs Standalone Pack NetFramework 3.5 SP1 for Windows 10/11 x64 - 21H2 or later
 
 2022.03.30
-Update: Visual C++ 2022 Redistributable - 14.32.31302.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.32.31302.0
 
 2022.02.24
 Fix: Bugs
 
 2022.02.09
-Update: Visual C++ 2022 Redistributable - 14.31.31103.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.31.31103.0
 
 2022.01.20
-Update: Visual C++ 2022 Redistributable - 14.31.31005.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.31.31005.0
 Update: Oracle Java 8 Update 321 x86 x64 - 8.0.3210.7
 
 2021.12.27
@@ -421,25 +428,25 @@ New: Standalone Pack NetFramework 3.5 SP1 for Windows 10/11 x64 - 21H2 or later
 Fix: Bugs and Links
 
 2021.12.07
-Update: Visual C++ 2022 Redistributable - 14.31.30919.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.31.30919.0
 
 2021.11.09
-Update: Visual C++ 2022 Redistributable - 14.31.30818.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.31.30818.0
 
 2021.08.22
 Update: Oracle Java 8 Update 311 x86 x64 - 8.0.3110.11
 
 2021.10.16
-Update: Visual C++ 2022 Redistributable - 14.30.30704.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.30.30704.0
 
 2021.10.06
 Discontinued: Silverlight - 5.1.50918.0
 
 2021.09.16
-Update: Visual C++ 2022 Redistributable - 14.30.30528.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.30.30528.0
 
 2021.08.20
-Update: Visual C++ 2022 Redistributable - 14.30.30423.0
+Update: Microsoft Visual C++ 2022 Redistributable - 14.30.30423.0
 
 2021.07.22
 Update: Oracle Java 8 Update 301 x86 x64 - 8.0.3010.9
@@ -448,46 +455,46 @@ Update: Oracle Java 8 Update 301 x86 x64 - 8.0.3010.9
 New: Visual C++ 2022 Redistributable - 14.30.30401.0
 
 2021.06.26
-Update: Visual C++ 2019 Redistributable - 14.29.30130.2
+Update: Microsoft Visual C++ 2019 Redistributable - 14.29.30130.2
 
 2021.06.02
-Update: Visual C++ 2019 Redistributable - 14.29.30129.3
+Update: Microsoft Visual C++ 2019 Redistributable - 14.29.30129.3
 
 2021.05.24
-Update: Visual C++ 2019 Redistributable - 14.29.30129.1
+Update: Microsoft Visual C++ 2019 Redistributable - 14.29.30129.1
 
 2021.04.27
-Update: Visual C++ 2019 Redistributable - 14.29.30031.0
+Update: Microsoft Visual C++ 2019 Redistributable - 14.29.30031.0
 
 2021.04.22
 Update: Oracle Java 8 Update 291 x86 x64 - 8.0.2910.10
 
 2021.04.05
-Update: Visual C++ 2019 Redistributable - 14.29.30030.0
+Update: Microsoft Visual C++ 2019 Redistributable - 14.29.30030.0
 Added: Visual C++ detection support for Windows 10 ARM64 - only VC++ x86 will be processed
 
 2021.03.26
 Update: Oracle Java 8 Update 291 x86 x64 - 8.0.2910.0
 
 2021.03.02
-Update: Visual C++ 2019 Redistributable - 14.29.29917.0
+Update: Microsoft Visual C++ 2019 Redistributable - 14.29.29917.0
 
 2021.01.20
 Update: Oracle Java 8 Update 281 x86 x64 - 8.0.2810.9
-Update: Visual C++ 2019 Redistributable - 14.28.29812.0
+Update: Microsoft Visual C++ 2019 Redistributable - 14.28.29812.0
 
 2021.01.07
-Update: Visual C++ 2019 Redistributable - 14.28.29617.0
+Update: Microsoft Visual C++ 2019 Redistributable - 14.28.29617.0
 
 2020.11.17
-Discontinued: Adobe Flash Player ActiveX 32 IE - Adobe EOL
-Discontinued: Adobe Flash Player NPAPI 32 Firefox - Adobe EOL
-Discontinued: Adobe Shockwave Player 12.3 - Adobe EOL
+Remove:  Adobe Flash Player ActiveX 32 IE - Adobe EOL
+Remove:  Adobe Flash Player NPAPI 32 Firefox - Adobe EOL
+Remove:  Adobe Shockwave Player 12.3 - Adobe EOL
 
 2020.11.12
 Update: Adobe Flash Player ActiveX 32 IE - 32.0.0.465
 Update: Adobe Flash Player NPAPI 32 Firefox - 32.0.0.465
-Update: Visual C++ 2019 Redistributable - 14.28.29515.1
+Update: Microsoft Visual C++ 2019 Redistributable - 14.28.29515.1
 
 2020.10.23
 Fixed: BUGS
@@ -498,14 +505,14 @@ Update: Oracle Java 8 Update 271 x86 x64 - 8.0.2710.0
 2020.09.08
 Update: Adobe Flash Player ActiveX 32 IE - 32.0.0.445
 Update: Adobe Flash Player NPAPI 32 Firefox - 32.0.0.445
-Update: Visual C++ 2019 Redistributable - 14.28.29301.0
+Update: Microsoft Visual C++ 2019 Redistributable - 14.28.29301.0
 
 2020.09.08
 Update: Adobe Flash Player ActiveX 32 IE - 32.0.0.433
 Update: Adobe Flash Player NPAPI 32 Firefox - 32.0.0.433
 
 2020.09.07
-Update: Visual C++ 2019 Redistributable - 14.28.29213.0
+Update: Microsoft Visual C++ 2019 Redistributable - 14.28.29213.0
 Fixed: BUGS Adobe parts and MS Silverlight only w7
 
 2020.08.17
@@ -516,14 +523,14 @@ Update: Adobe Flash Player NPAPI 32 Firefox - 32.0.0.414
 Update: Oracle Java 8 Update 261  x86 x64 - 8.0.2610.0
 Update: Adobe Flash Player ActiveX 32 IE - 32.0.0.403
 Update: Adobe Flash Player NPAPI 32 IE - 32.0.0.403
-Update: Visual C++ 2019 Additional and Minimum Runtime x86 x64 - 14.27.29016.0
+Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 - 14.27.29016.0
 
 2020.05.12
 Update: Adobe Flash Player ActiveX 32 IE - 32.0.0.371
 Update: Adobe Flash Player NPAPI 32 IE - 32.0.0.371
 
 2020.04.21
-Update: Visual C++ 2019 Additional and Minimum Runtime x86 x64 - 14.24.28720
+Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 - 14.24.28720
 Fixed: BUGS
 
 2020.04.17
@@ -538,10 +545,10 @@ Update: Adobe Flash Player NPAPI 32 IE - 32.0.0.314
 
 2019.10.16
 Update: Oracle Java 8 Update 231 x86 x64 - 8.0.2310.11
-Update: Visual C++ 2019 Additional and Minimum Runtime x86 x64 - 14.24.28127.4
+Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 - 14.24.28127.4
 
 2019.09.20
-Update: Visual C++ 2019 Additional and Minimum Runtime x86 x64 - 14.22.27821.0
+Update: Microsoft Visual C++ 2019 Additional and Minimum Runtime x86 x64 - 14.22.27821.0
 
 2019.07.17
 Update: Oracle Java 8 Update 221 x86 x64 - 8.0.2210.11
@@ -556,7 +563,7 @@ Update: Adobe Flash Player NPAPI 32 IE - 32.0.0.223
 Fixed: BUGS
 
 2019.06.28
-Update: Visual C++ Redistributable Package
+Update: Microsoft Visual C++ Redistributable Package
 Fixed: BUGS
 
 2019.06.21
@@ -583,8 +590,8 @@ Fixed: BUGS
 2019.05.14
 Update: Adobe Flash Player ActiveX 32 IE - 32.0.0.192
 Update: Adobe Flash Player NPAPI 32 IE - 32.0.0.192
-Update: Visual Basic/C++ Runtime x86
-Update: Visual Basic/C++ Runtime x86
+Update: Microsoft Visual Basic/C++ Runtime x86
+Update: Microsoft Visual Basic/C++ Runtime x86
 Add: Visual C++ 2019 Additional and Minimum Runtime x86 x64 - 14.21.27619
 Fixed: BUGS
 
@@ -670,7 +677,7 @@ Fixed: BUGS
 
 2018.02.22
 Add: Visual Studio 2010 F# Runtime 2.0 SP1 - 10.0.40219
-Update: Visual C++ 2017 Additional and Minimum Runtime x86 x64 - 14.13.26020
+Update: Microsoft Visual C++ 2017 Additional and Minimum Runtime x86 x64 - 14.13.26020
 
 2018.01.25
 Update: Java 8 Update 162 x86 x64 - 8.0.1620.12
@@ -685,7 +692,7 @@ Update: Adobe Flash Player NPAPI 28 - 28.0.0.126
 
 2017.11.21
 Update: Adobe Shockwave Player 12.3 - 12.3.1.201
-Update: Visual C++ Runtime Installer v56
+Update: Microsoft Visual C++ Runtime Installer v56
 
 2017.11.01
 Update: Java 8 Update 151 x86 x64 - 8.0.1510.12
