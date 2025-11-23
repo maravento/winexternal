@@ -23,7 +23,7 @@
 
 | File | OS | Size |
 | :---: | :---: | :---: |
-| [WinExternal.exe (.zip)](https://mega.nz/file/zFs0xDQR#4fLfBCmV5u_tjtfOlNN4DEI4rKKMwzicf7FOu34uJh0) | Windows 7/10/11 x86 x64 | 1,01 GB |
+| [WinExternal.exe (.zip)](https://mega.nz/file/XN8B1ZLY#3JUhRkHpIln95sUcfxeMEFiNhnj0csm4fyervWvpNqY) | Windows 7/10/11 x86 x64 | 1,01 GB |
 
 ## HOW TO USE
 
@@ -96,8 +96,8 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft .NET 6.0.36 Desktop Runtime x64 LTS (EOS)
-- Microsoft .NET 8.0.21 Desktop Runtime x64 LTS (Active Support)
-- Microsoft .NET 9.0.10 Desktop Runtime x64 STS (Active Support)
+- Microsoft .NET 8.0.22 Desktop Runtime x64 LTS (Active Support)
+- Microsoft .NET 10.0.0 Desktop Runtime x64 LTS (Active Support)
 
 check with: / verifique con:
 
@@ -109,8 +109,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 141.0.3537.71 (Active Support)
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 141.0.3537.71 (Active Support)
+- Microsoft Edge for Business x64 - 142.0.3595.94 (Active Support)
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 142.0.3595.94 (Active Support)
 
 #### Important About Edge
 
@@ -147,7 +147,9 @@ Package: WinExternal
 - [Microsoft XML Core Services (MSXML) ya no se ejecuta en WinExternal (End-of-Life (EOL) / End-of-Support (EOS) Oct 2021)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-xml-core-services-40)
 - [Desde Visual Studio 2015 comparten los mismos archivos redistribuibles](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
-### WORKTOOLS
+## PACKAGES AND TOOLS
+
+---
 
 - [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/)
 - [curl for Windows](https://curl.se/windows/)
@@ -165,7 +167,7 @@ Package: WinExternal
 - [Microsoft Visual Studio Tools for Application 2019](https://www.microsoft.com/en-us/download/details.aspx?id=58317)
 - [Microsoft Visual Studio Tools for Application 2022](https://www.microsoft.com/en-us/download/details.aspx?id=105123)
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
-- [Resource Turner](http://www.restuner.com/)
+- [RapidCRC Unicode](https://www.ov2.eu/programs/rapidcrc-unicode)
 - [vcredist](https://github.com/abbodi1406/vcredist/releases)
 - [WinZenity](https://github.com/maravento/vault/tree/master/winzenity)
 

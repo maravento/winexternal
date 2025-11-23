@@ -1,5 +1,12 @@
 # WinExternal Changelog
 
+2025.11.22
+New: Microsoft .NET 10.0.0 Desktop Runtime x64 LTS
+Update: Microsoft .NET 8.0.22 Desktop Runtime x64 LTS
+Deprecated: Microsoft .NET 9.0.11 Desktop Runtime x64 STS
+Update: Microsoft Edge for Business x64 - 142.0.3595.94
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 142.0.3595.94
+
 2025.10.17
 Update: Microsoft Visual C++ 2022 Redistributable - 14.50.35710
 Update: Microsoft .NET 9.0.10 Desktop Runtime x64 STS
