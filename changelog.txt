@@ -1,5 +1,8 @@
 # WinExternal Changelog
 
+2025.12.03
+Update: Visual C++ v14 (2026) Redistributable - 14.50.35719.0
+
 2025.11.22
 New: Microsoft .NET 10.0.0 Desktop Runtime x64 LTS
 Update: Microsoft .NET 8.0.22 Desktop Runtime x64 LTS
