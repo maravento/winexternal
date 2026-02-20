@@ -1,5 +1,11 @@
 # WinExternal Changelog
 
+2026.02.20
+Update: Microsoft .NET 10.0.3 Desktop Runtime x64 LTS
+Update: Microsoft .NET 8.0.24 Desktop Runtime x64 LTS
+Update: Microsoft Edge for Business x64 - 145.0.3800.65
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 145.0.3800.65
+
 2026.01.21
 Update: Microsoft .NET 10.0.2 Desktop Runtime x64 LTS
 Update: Microsoft .NET 8.0.23 Desktop Runtime x64 LTS
