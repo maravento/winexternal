@@ -4,7 +4,6 @@
 
 [![status-maintained](https://img.shields.io/badge/status-maintained-purple.svg)](https://github.com/winexternal)
 [![last commit](https://img.shields.io/github/last-commit/maravento/winexternal)](https://github.com/maravento/winexternal)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/maravento/winexternal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/maraventostudio.svg?style=social)](https://twitter.com/maraventostudio)
 
 <table align="center">
@@ -23,7 +22,7 @@
 
 | File | OS | Size |
 | :---: | :---: | :---: |
-| [WinExternal.exe (.zip)](https://mega.nz/file/eFkjATzb#0nYvh_pUUGAr3Cr4JbLuUPDtQMX5FX1JKb8SL1OeN_8) | Windows 7/10/11 x86 x64 | 1.01 GB |
+| [WinExternal.exe (.zip)](https://mega.nz/file/yUUFETCQ#uF8falGB77ukKwWhe5kzwK3XZF37flxZFe7ms_B-dgo) | Windows 7/10/11 x86 x64 | 1.11 GB |
 
 ## HOW TO USE
 
@@ -109,13 +108,26 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 145.0.3800.65 (Active Support)
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 145.0.3800.65 (Active Support)
+- Microsoft Edge for Business x64 - 145.0.3800.97 (Active Support)
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 145.0.3800.97 (Active Support)
 
 #### Important About Edge
 
 Edge and WebView2 are now pre-installed on most devices running Windows 10 or higher, are automatically updated, and are integrated as a core component of the operating system, so they do not support uninstallation by traditional methods. Selecting this option from the WinExternal selector menu will only install these components, if they do not exist on your operating system. Check [Feedback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780).
 
+### Microsoft Windows App Runtime SDK
+
+[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-sdk.png)](https://www.maravento.com/p/winexternal.html)
+
+- Windows App SDK 1.8 Installer x64 - 1.8.260209005 (Active Support)
+
+#### Important About Windows App Runtime SDK
+
+Check version with:
+
+```powershell
+Get-AppxPackage -AllUsers *WindowsAppRuntime* | Select-Object Name, Version
+```
 
 ### Microsoft Legacy
 
@@ -170,6 +182,7 @@ Package: WinExternal
 - [Microsoft XNA Framework Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=27598)
 - [RapidCRC Unicode](https://www.ov2.eu/programs/rapidcrc-unicode)
 - [vcredist](https://gitlab.com/stdout12/vcredist/-/releases)
+- [Windows App SDK](https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads)
 - [WinZenity](https://github.com/maravento/vault/tree/master/winzenity)
 
 ## NOTICE
