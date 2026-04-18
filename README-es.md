@@ -22,7 +22,7 @@
 
 | File | OS | Size |
 | :---: | :---: | :---: |
-| [WinExternal.exe (.zip)](https://mega.nz/file/OYs2iaiJ#432dljecqsWaRwnlTxJfzDv76-oF0ABV5SuQstWjBeg) | Windows 7/10/11 x86 x64 | 1.12 GB |
+| [WinExternal.exe (.zip)](https://mega.nz/file/SJtx2arA#_ErVO2swE770dBgJj_rXAbwA4jqf9z_KO9ZGiS0s8OQ) | Windows 7/10/11 x86 x64 | 1.11 GB |
 
 ## HOW TO USE
 
@@ -56,7 +56,7 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 - Microsoft Visual C++ 2010 Redistributable x86 x64 - 10.0.40219 (EOS)
 - Microsoft Visual C++ 2012 Redistributable x86 x64 - 11.0.61135 (EOS)
 - Microsoft Visual C++ 2013 Redistributable x86 x64 - 12.0.40664 (EOS)
-- Microsoft Visual C++ 2022 Redistributable x86 x64 - 14.50.35719 (Active Support)
+- Microsoft Visual C++ 2026 Redistributable x86 x64 - 14.51.36231 (Active Support)
 
 #### VSTO
 
@@ -66,7 +66,7 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 
 - Microsoft Visual Studio Tools for Applications 2017 x86 x64 - 15.0.36010 (Active Support)
 - Microsoft Visual Studio Tools for Applications 2019 x86 x64 - 16.0.35907 (Active Support)
-- Microsoft Visual Studio Tools for Applications 2022 x86 x64 - 17.0.35906 (Active Support)
+- Microsoft Visual Studio Tools for Applications 2022 x86 x64 - 17.1.37110 (Active Support)
 
 ### Microsoft .NET Framework Runtime v3.5 SP1
 
@@ -95,8 +95,8 @@ Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto [L
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft .NET 6.0.36 Desktop Runtime x64 LTS (EOS)
-- Microsoft .NET 8.0.25 Desktop Runtime x64 LTS (Active Support)
-- Microsoft .NET 10.0.5 Desktop Runtime x64 LTS (Active Support)
+- Microsoft .NET 8.0.26 Desktop Runtime x64 LTS (Active Support)
+- Microsoft .NET 10.0.6 Desktop Runtime x64 LTS (Active Support)
 
 check with: / verifique con:
 
@@ -108,8 +108,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 146.0.3856.72 (Active Support)
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 146.0.3856.72 (Active Support)
+- Microsoft Edge for Business x64 - 147.0.3912.72 (Active Support)
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 147.0.3912.72 (Active Support)
 
 #### Important About Edge
 
@@ -214,8 +214,12 @@ Agradecemos a todos los que han contribuido con este proyecto
 
 ---
 
-[![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
-[![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
+Este proyecto utiliza un modelo de licencia dual para equilibrar la libertad del software con la protección del contenido:
+
+| Content | Licensed Under |
+|---|---|
+|Scripts, Binaries, Infrastructure|[![GPL-3.0](https://img.shields.io/badge/Open_Core-GPLv3-blue.svg?style=for-the-badge&labelWidth=120&logoWidth=20)](https://www.gnu.org/licenses/gpl.txt)|
+|RAG, Workers, Specialized Modules, Docs|[![CC](https://img.shields.io/badge/Core_Engine-CC_BY--NC--ND_4.0-lightgrey.svg?style=for-the-badge&labelWidth=120&logoWidth=20)](https://creativecommons.org/licenses/by-nc-nd/4.0/)|
 
 ## DISCLAIMER
 
