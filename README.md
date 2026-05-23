@@ -22,7 +22,7 @@
 
 | File | OS | Size |
 | :---: | :---: | :---: |
-| [WinExternal.exe (.zip)](https://mega.nz/file/2I9m3SIS#JOe8W5SUhvgtlhemQ4EC3Ssv4cbrUkb57L_0G8tg20s) | Windows 7/10/11 x86 x64 | 1.12 GB |
+| [WinExternal.exe (.zip)](https://mega.nz/file/bYk1WC5K#vVS2g4TAVCfFKPLmHhBFsEoYsNQNlRnxdKEeNbv73Ic) | Windows 7/10/11 x86 x64 | 1.12 GB |
 
 ## HOW TO USE
 
@@ -108,8 +108,8 @@ dotnet --info
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 148.0.3967.54 (Active Support)
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 148.0.3967.54 (Active Support)
+- Microsoft Edge for Business x64 - 148.0.3967.83 (Active Support)
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 148.0.3967.83 (Active Support)
 
 #### Important About Edge
 
@@ -119,7 +119,7 @@ Edge and WebView2 are now pre-installed on most devices running Windows 10 or hi
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-sdk.png)](https://www.maravento.com/p/winexternal.html)
 
-- Windows App SDK 2.0.1 Installer x64 (Active Support)
+- Windows App SDK 2.1.3 Installer x64 (Active Support)
 
 #### Important About Windows App Runtime SDK
 
