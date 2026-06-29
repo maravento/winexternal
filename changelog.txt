@@ -1,5 +1,12 @@
 # WinExternal Changelog
 
+2026.06.28
+Update: Windows App SDK 2.2.0 Installer x64
+Update: Microsoft .NET 10.0.9 Desktop Runtime x64 LTS
+Update: Microsoft .NET 8.0.28 Desktop Runtime x64 LTS
+Update: Microsoft Edge for Business x64 - 149.0.4022.98
+Update: Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 149.0.4022.98
+
 2026.06.06
 Update: Visual C++ v14 (2026) Redistributable - 14.51.36247.0
 Update: Microsoft Edge for Business x64 - 149.0.4022.52
