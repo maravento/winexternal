@@ -6,15 +6,16 @@
 
 <!-- markdownlint-disable MD033 -->
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center">
-      <span>English</span> | <a href="README-es.md">Español</a>
+    <td style="width: 50%; vertical-align: top;">
+      <b>WinExternal</b> is a project that compiles several Microsoft offline installers for Windows, into one silent, unattended launcher.
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <b>WinExternal</b> es un proyecto que recopila varios instaladores fuera de línea de Microsoft para Windows, en un lanzador desatendido y silencioso.
     </td>
   </tr>
 </table>
-
-**WinExternal** is a project that compiles several Microsoft offline installers for Windows, into one silent, unattended launcher.
 
 ## DATA SHEET
 
@@ -28,7 +29,16 @@
 
 ---
 
-Disable your Antivirus, Antimalware, SmartScreen or any other security solution in your Operating System, close all windows and check the date and time of your PC is correct. Download WinExternal.exe (.zip), unzip it to your desktop, execute it with double click (accept privileged execution) and follow the instructions on the screen.
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      Disable your Antivirus, Antimalware, SmartScreen or any other security solution in your Operating System, close all windows and check the date and time of your PC is correct. Download WinExternal.exe (.zip), unzip it to your desktop, execute it with double click (accept privileged execution) and follow the instructions on the screen.
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      Desactive su Antivirus, Antimalware, SmartScreen o cualquier otra solución de seguridad en su Sistema Operativo, cierre todas las ventanas y verifique que la fecha y hora de su PC sea la correcta. Descargue WinExternal.exe (.zip), descomprímalo en el escritorio, ejecútelo con doble clic (acepte la ejecución con privilegios) y siga las instrucciones en pantalla.
+    </td>
+  </tr>
+</table>
 
 ## SELECTOR
 
@@ -36,11 +46,29 @@ Disable your Antivirus, Antimalware, SmartScreen or any other security solution 
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-selector.png)](https://www.maravento.com/p/winexternal.html)
 
-WinExternal contains standalone packages. Select the one of your preference.
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      WinExternal contains standalone packages. Select the one of your preference.
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      WinExternal contiene paquetes independientes. Seleccione el de su preferencia.
+    </td>
+  </tr>
+</table>
 
 ### OS
 
-All packages are supported on Windows 10/11 x64 only, except [Legacy](https://github.com/maravento/winexternal#microsoft-legacy), which is supported on Windows 7 x86 only and whose components have reached End-of-Life (EOL) / End-of-Support (EOS). Backward compatibility with previous versions of Windows 10/11 22H2 or Windows Server versions is not guaranteed. If your OS does not support the component you selected, the following window will appear:
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      All packages are supported on Windows 10/11 x64 only, except <a href="#microsoft-legacy">Legacy</a>, which is supported on Windows 7 x86 only and whose components have reached End-of-Life (EOL) / End-of-Support (EOS). Backward compatibility with previous versions of Windows 10/11 22H2 or Windows Server versions is not guaranteed. If your OS does not support the component you selected, the following window will appear:
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      Todos los paquetes son compatibles únicamente con Windows 10/11 x64, excepto <a href="#microsoft-legacy">Legacy</a>, que es compatible solo con Windows 7 x86 y cuyos componentes han alcanzado el End-of-Life (EOL) / End-of-Support (EOS). No se garantiza retro-compatibilidad con versiones anteriores de Windows 10/11 22H2 o versiones Windows Server. Si su SO no es compatible con el componente que ha seleccionado, saldrá la siguiente ventana:
+    </td>
+  </tr>
+</table>
 
 [![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-abort.png)](https://www.maravento.com/p/winexternal.html)
 
@@ -76,8 +104,22 @@ All packages are supported on Windows 10/11 x64 only, except [Legacy](https://gi
 
 #### Important About Microsoft .NET Framework Runtime v3.5 SP1
 
-- Installation can fail for many reasons. In this case, unzip `WinExternal.exe` on your operating system drive (e.g.: `c:\`), go to `WinExternal\NET35\alternative` and run the `Install .NET Framework 3.5 via DISM.cmd` script with administrative privileges (ISO image required). For more information see `WinExternal\NET35\alternative\readme.txt`.
-- Only OS English/Spanish
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <ul>
+        <li>Installation can fail for many reasons. In this case, unzip <code>WinExternal.exe</code> on your operating system drive (e.g.: <code>c:\</code>), go to <code>WinExternal\NET35\alternative</code> and run the <code>Install .NET Framework 3.5 via DISM.cmd</code> script with administrative privileges (ISO image required). For more information see <code>WinExternal\NET35\alternative\readme.txt</code>.</li>
+        <li>Only OS English/Spanish</li>
+      </ul>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <ul>
+        <li>La instalación puede fallar por muchas causas. En este caso descomprima <code>WinExternal.exe</code> en la unidad de su sistema operativo (ej: <code>c:\</code>), acceda a <code>WinExternal\NET35\alternative</code> y ejecute el script <code>Install .NET Framework 3.5 via DISM.cmd</code> con privilegios administrativos (requiere imagen ISO). Para mayor información consulte <code>WinExternal\NET35\alternative\readme.txt</code>.</li>
+        <li>Solo SO Inglés/Español</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### Microsoft .NET Framework Runtime v4.8.1
 
@@ -87,8 +129,22 @@ All packages are supported on Windows 10/11 x64 only, except [Legacy](https://gi
 
 #### Important About Microsoft .NET Framework Runtime v4.8.1
 
-- Includes native support for Arm64, Accessible Tooltips, Windows Forms – Accessibility Improvements. For more information, check: [Release Notes](https://github.com/microsoft/dotnet/blob/master/releases/net481/README.md)
-- Only use this installer in case traditional methods fail (WSUS, SCCM or similar).
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <ul>
+        <li>Includes native support for Arm64, Accessible Tooltips, Windows Forms – Accessibility Improvements. For more information, check: <a href="https://github.com/microsoft/dotnet/blob/master/releases/net481/README.md" target="_blank">Release Notes</a></li>
+        <li>Only use this installer in case traditional methods fail (WSUS, SCCM or similar).</li>
+      </ul>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <ul>
+        <li>Incluye soporte nativo para Arm64, información sobre herramientas accesible, Windows Forms - Mejoras de accesibilidad. Para mayor información, consulte: <a href="https://github.com/microsoft/dotnet/blob/master/releases/net481/README.md" target="_blank">Release Notes</a></li>
+        <li>Solo use este instalador en caso de fallo en los métodos tradicionales (WSUS, SCCM o similar).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### Microsoft .NET Desktop Runtime
 
@@ -98,7 +154,7 @@ All packages are supported on Windows 10/11 x64 only, except [Legacy](https://gi
 - Microsoft .NET 8.0.28 Desktop Runtime x64 LTS (Active Support)
 - Microsoft .NET 10.0.9 Desktop Runtime x64 LTS (Active Support)
 
-check with: / verifique con:
+check with / verifique con:
 
 ```bash
 dotnet --info
@@ -113,7 +169,16 @@ dotnet --info
 
 #### Important About Edge
 
-Edge and WebView2 are now pre-installed on most devices running Windows 10 or higher, are automatically updated, and are integrated as a core component of the operating system, so they do not support uninstallation by traditional methods. Selecting this option from the WinExternal selector menu will only install these components, if they do not exist on your operating system. Check [Feedback](https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780).
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      Edge and WebView2 are now pre-installed on most devices running Windows 10 or higher, are automatically updated, and are integrated as a core component of the operating system, so they do not support uninstallation by traditional methods. Selecting this option from the WinExternal selector menu will only install these components, if they do not exist on your operating system. Check <a href="https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780" target="_blank">Feedback</a>.
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      Edge y WebView2 ahora vienen instalados en la mayoría de los dispositivos con Windows 10 o superior, se actualizan automáticamente y se integran como un componente esencial del sistema operativo, por tanto no admiten desinstalación por métodos tradicionales. Si selecciona esta opción en el menú selector de WinExternal, solo instalará estos componentes en caso de que no existan en su sistema operativo. Verifique <a href="https://github.com/MicrosoftEdge/WebView2Feedback/issues/3780" target="_blank">Feedback</a>.
+    </td>
+  </tr>
+</table>
 
 ### Microsoft Windows App Runtime SDK
 
@@ -123,7 +188,16 @@ Edge and WebView2 are now pre-installed on most devices running Windows 10 or hi
 
 #### Important About Windows App Runtime SDK
 
-Check version with:
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      Check version with:
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      Comprobar versión con:
+    </td>
+  </tr>
+</table>
 
 ```powershell
 Get-AppxPackage -AllUsers *WindowsAppRuntime* | Select-Object Name, Version
@@ -141,7 +215,16 @@ Get-AppxPackage -AllUsers *WindowsAppRuntime* | Select-Object Name, Version
 
 ### Telemetry
 
-WinExternal sends information to the developer, only for the purpose of verifying that the installation has been completed successfully. This information is used exclusively for statistical purposes and to improve the installer, without collecting personal data or compromising user privacy. Example:
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      WinExternal sends information to the developer, only for the purpose of verifying that the installation has been completed successfully. This information is used exclusively for statistical purposes and to improve the installer, without collecting personal data or compromising user privacy. Example:
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      WinExternal envía información al desarrollador, únicamente con el propósito de verificar que la instalación se haya completado de manera exitosa. Esta información se utiliza exclusivamente para fines estadísticos y de mejora del instalador, sin recopilar datos personales ni comprometer la privacidad del usuario. Ejemplo:
+    </td>
+  </tr>
+</table>
 
 ```bash
 Package Installation
@@ -154,11 +237,28 @@ Package: WinExternal
 
 ### IMPORTANT
 
-- Some WinExternal components have reached End-of-Life (EOL) / End-of-Support (EOS), however, they will continue to be offered, where indicated, for compatibility with essential applications.
-- [Microsoft .NET Framework Runtime v4.8 is included in Windows 10 May 2019 and later](https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48)
-- [Microsoft Silverlight no longer run on WinExternal (End-of-Life (EOL) / End-of-Support (EOS) Oct 2021)](https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788)
-- [Microsoft XML Core Services (MSXML) no longer run on WinExternal (End-of-Life (EOL) / End-of-Support (EOS) Oct 2021)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-xml-core-services-40)
-- [Since Microsoft Visual Studio 2015 share the same redistributable files](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <ul>
+        <li>Some WinExternal components have reached End-of-Life (EOL) / End-of-Support (EOS), however, they will continue to be offered, where indicated, for compatibility with essential applications.</li>
+        <li><a href="https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48" target="_blank">Microsoft .NET Framework Runtime v4.8 is included in Windows 10 May 2019 and later</a></li>
+        <li><a href="https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788" target="_blank">Microsoft Silverlight no longer runs on WinExternal (End-of-Life (EOL) / End-of-Support (EOS) Oct 2021)</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/lifecycle/products/microsoft-xml-core-services-40" target="_blank">Microsoft XML Core Services (MSXML) no longer runs on WinExternal (End-of-Life (EOL) / End-of-Support (EOS) Oct 2021)</a></li>
+        <li><a href="https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank">Since Microsoft Visual Studio 2015, versions share the same redistributable files</a></li>
+      </ul>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <ul>
+        <li>Algunos componentes de WinExternal han alcanzado End-of-Life (EOL) / End-of-Support (EOS), sin embargo seguirán ofreciéndose, donde se indique, por compatibilidad con aplicaciones esenciales.</li>
+        <li><a href="https://docs.microsoft.com/en-us/dotnet/framework/install/on-windows-10#net-framework-48" target="_blank">.NET Framework Runtime v4.8 se incluye en Windows 10 Mayo 2019 y posteriores</a></li>
+        <li><a href="https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788" target="_blank">Microsoft Silverlight ya no se ejecuta en WinExternal (End-of-Life (EOL) / End-of-Support (EOS) Oct 2021)</a></li>
+        <li><a href="https://learn.microsoft.com/en-us/lifecycle/products/microsoft-xml-core-services-40" target="_blank">Microsoft XML Core Services (MSXML) ya no se ejecuta en WinExternal (End-of-Life (EOL) / End-of-Support (EOS) Oct 2021)</a></li>
+        <li><a href="https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank">Desde Visual Studio 2015 comparten los mismos archivos redistribuibles</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## PACKAGES AND TOOLS
 
@@ -189,8 +289,22 @@ Package: WinExternal
 
 ---
 
-- This project includes third-party components.
-- Changes must be submitted via Issues. Pull requests are not accepted.
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <ul>
+        <li>This project includes third-party components.</li>
+        <li>Changes must be submitted via Issues. Pull requests are not accepted.</li>
+      </ul>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <ul>
+        <li>Este proyecto incluye componentes de terceros.</li>
+        <li>Los cambios deben proponerse mediante Issues. No se aceptan Pull Requests.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## STARGAZERS
 
@@ -202,7 +316,16 @@ Package: WinExternal
 
 ---
 
-We thank all those who contributed to this project.
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      We thank all those who contributed to this project.
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      Agradecemos a todos los que han contribuido con este proyecto.
+    </td>
+  </tr>
+</table>
 
 ## SPONSOR THIS PROJECT
 
@@ -214,7 +337,16 @@ We thank all those who contributed to this project.
 
 ---
 
-This project uses a dual-licensing model to balance software freedom with content protection:
+<table width="100%">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      This project uses a dual-licensing model to balance software freedom with content protection:
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      Este proyecto utiliza un modelo de licencia dual para equilibrar la libertad del software con la protección del contenido:
+    </td>
+  </tr>
+</table>
 
 | Content | Licensed Under |
 |---|---|
