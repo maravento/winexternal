@@ -1,9 +1,10 @@
 # [WinExternal](https://www.maravento.com/p/winexternal.html)
 
-[![status-maintained](https://img.shields.io/badge/status-maintained-purple.svg)](https://github.com/winexternal)
+[![status-maintained](https://img.shields.io/badge/status-maintained-purple.svg)](https://github.com/maravento/winexternal)
 [![last commit](https://img.shields.io/github/last-commit/maravento/winexternal)](https://github.com/maravento/winexternal)
+[![Stargazers](https://img.shields.io/github/stars/maravento/winexternal?label=Stargazers)](https://github.com/maravento/winexternal/stargazers)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/maravento/winexternal)
-[![Twitter Follow](https://img.shields.io/twitter/follow/maraventostudio.svg?style=social)](https://twitter.com/maraventostudio)
+[![Twitter Follow](https://img.shields.io/twitter/follow/maraventostudio.svg)](https://twitter.com/maraventostudio)
 
 <!-- markdownlint-disable MD033 -->
 
@@ -306,12 +307,6 @@ Package: WinExternal
     </td>
   </tr>
 </table>
-
-## STARGAZERS
-
----
-
-[![Stargazers](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=maravento&repo=winexternal)](https://github.com/maravento/winexternal/stargazers)
 
 ## CONTRIBUTIONS
 
