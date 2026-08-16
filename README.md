@@ -3,7 +3,6 @@
 [![status-maintained](https://img.shields.io/badge/status-maintained-purple.svg)](https://github.com/maravento/winexternal)
 [![last commit](https://img.shields.io/github/last-commit/maravento/winexternal)](https://github.com/maravento/winexternal)
 [![Stargazers](https://img.shields.io/github/stars/maravento/winexternal?label=Stargazers)](https://github.com/maravento/winexternal/stargazers)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/maravento/winexternal)
 [![Twitter Follow](https://img.shields.io/twitter/follow/maraventostudio.svg)](https://twitter.com/maraventostudio)
 
 <!-- markdownlint-disable MD033 -->
@@ -335,8 +334,8 @@ Package: WinExternal
 
 | Content | Licensed Under |
 |---|---|
-|Scripts, Binaries, Infrastructure|[![GPL-3.0](https://img.shields.io/badge/Open_Core-GPLv3-blue.svg?style=for-the-badge&labelWidth=120&logoWidth=20)](https://www.gnu.org/licenses/gpl.txt)|
-|RAG, Workers, Specialized Modules, Docs|[![CC](https://img.shields.io/badge/Core_Engine-CC_BY--NC--ND_4.0-lightgrey.svg?style=for-the-badge&labelWidth=120&logoWidth=20)](https://creativecommons.org/licenses/by-nc-nd/4.0/)|
+|Scripts, Binaries, Infrastructure|[![GPL-3.0](https://img.shields.io/badge/Open_Core-GPLv3-blue.svg?style=for-the-badge&labelWidth=120&logoWidth=20)](LICENSE)|
+|RAG, Workers, Specialized Modules, Docs|[![CC](https://img.shields.io/badge/Core_Engine-CC_BY--NC--ND_4.0-lightgrey.svg?style=for-the-badge&labelWidth=120&logoWidth=20)](docs/LICENSE-CC-BY-NC-ND-4.0.md)|
 
 ## DISCLAIMER
 
