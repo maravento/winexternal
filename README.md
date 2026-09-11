@@ -18,17 +18,13 @@
   </tr>
 </table>
 
-### Architecture
-
-📐 [Runtime Architecture Diagram](https://htmlpreview.github.io/?https://raw.githubusercontent.com/maravento/winexternal/master/docs/winexternal-architecture.html) — visual walkthrough of the installer pipeline.
-
 ## DATA SHEET
 
 ---
 
 | File | OS | Size |
 | :---: | :---: | :---: |
-| [WinExternal.exe (.zip)](https://mega.nz/file/LMkghDaA#-0mNhefKPfPSmmBcH88vpQe6Eg3hfcDZfbOnlxFYmnA) | Windows 7/10/11 x86 x64 | 1.12 GB |
+| [WinExternal.exe (.zip)](https://mega.nz/file/XJNABb7Y#5k8aOqXEYSFKhsNmBFiik_Dt7_rkQms7Sy9TE16udTI) | Windows 7/10/11 x86 x64 | 1.15 GB |
 
 ## HOW TO USE
 
@@ -53,7 +49,7 @@
 
 ---
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-selector.png)](https://www.maravento.com/p/winexternal.html)
+[![Image](./img/winexternal-selector.png)](https://www.maravento.com/p/winexternal.html)
 
 <table width="100%">
   <tr>
@@ -79,11 +75,11 @@
   </tr>
 </table>
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-abort.png)](https://www.maravento.com/p/winexternal.html)
+[![Image](./img/winexternal-abort.png)](https://www.maravento.com/p/winexternal.html)
 
 ### Microsoft Visual C++ Redistributable Runtimes
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-visualc.png)](https://www.maravento.com/p/winexternal.html)
+[![Image](./img/winexternal-visualc.png)](https://www.maravento.com/p/winexternal.html)
 
 #### VCRedist
 
@@ -107,7 +103,7 @@
 
 ### Microsoft .NET Framework Runtime v3.5 SP1
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net35.png)](https://www.maravento.com/p/winexternal.html)
+[![Image](./img/winexternal-net35.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft .NET Framework v3.5 SP1 (for Windows 10/11 22H2 or Later) (Active Support)
 
@@ -132,7 +128,7 @@
 
 ### Microsoft .NET Framework Runtime v4.8.1
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-net481.png)](https://www.maravento.com/p/winexternal.html)
+[![Image](./img/winexternal-net481.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft .NET Framework Runtime 4.8.1 - 4.8.9037.6 (for Windows 10/11 20H2 or Later) (Active Support)
 
@@ -157,11 +153,11 @@
 
 ### Microsoft .NET Desktop Runtime
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
+[![Image](./img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft .NET 6.0.36 Desktop Runtime x64 LTS (EOS)
-- Microsoft .NET 8.0.28 Desktop Runtime x64 LTS (Active Support)
-- Microsoft .NET 10.0.9 Desktop Runtime x64 LTS (Active Support)
+- Microsoft .NET 8.0.31 Desktop Runtime x64 LTS (Active Support)
+- Microsoft .NET 10.0.12 Desktop Runtime x64 LTS (Active Support)
 
 check with / verifique con:
 
@@ -171,10 +167,10 @@ dotnet --info
 
 ### Microsoft Edge
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
+[![Image](./img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 149.0.4022.98 (Active Support)
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 149.0.4022.98 (Active Support)
+- Microsoft Edge for Business x64 - 153.0.4234.32 (Active Support)
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 153.0.4234.32 (Active Support)
 
 #### Important About Edge
 
@@ -191,7 +187,7 @@ dotnet --info
 
 ### Microsoft Windows App Runtime SDK
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-sdk.png)](https://www.maravento.com/p/winexternal.html)
+[![Image](./img/winexternal-sdk.png)](https://www.maravento.com/p/winexternal.html)
 
 - Windows App SDK 2.2.0 Installer x64 (Active Support)
 
@@ -214,7 +210,7 @@ Get-AppxPackage -AllUsers *WindowsAppRuntime* | Select-Object Name, Version
 
 ### Microsoft Legacy
 
-[![Image](https://raw.githubusercontent.com/maravento/winexternal/master/img/winexternal-legacy.png)](https://www.maravento.com/p/winexternal.html)
+[![Image](./img/winexternal-legacy.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft Directx End-User Runtimes - 9.29.1974.1 (EOS)
 - Microsoft .NET Framework Runtime v4.8 - 4.8.4115.0 ENU | 4.8.3761.0 ESN (Active Support)
@@ -274,7 +270,6 @@ Package: WinExternal
 ---
 
 - [7zSFX Builder](https://sourceforge.net/projects/s-zipsfxbuilder/)
-- [Archify](https://github.com/tt-a1i/archify)
 - [curl for Windows](https://curl.se/windows/)
 - [iconarchive](http://www.iconarchive.com/show/fs-icons-by-franksouza183/Places-folder-windows-icon.html)
 - [icon-icons](https://icon-icons.com/icon/dot-net-original-logo/146546)
