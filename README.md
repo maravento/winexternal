@@ -24,7 +24,7 @@
 
 | File | OS | Size |
 | :---: | :---: | :---: |
-| [WinExternal.exe (.zip)](https://mega.nz/file/mRkVHR4L#T2arsS8562ZwVbfDK8s4rYVUb1cNi2ZY6gGPjhvQrhE) | Windows 7/10/11 x86 x64 | 1.16 GB |
+| [WinExternal.exe (.zip)](https://mega.nz/file/WMMCjDjA#PwUqiFqcoa9JOa2oH8c5CFlr92l1KCWNow22wAZjkVE) | Windows 7/10/11 x86 x64 | 1.17 GB |
 
 ## HOW TO USE
 
@@ -156,8 +156,8 @@
 [![Image](./img/winexternal-netruntime.png)](https://www.maravento.com/p/winexternal.html)
 
 - Microsoft .NET 6.0.36 Desktop Runtime x64 LTS (EOS)
-- Microsoft .NET 8.0.32 Desktop Runtime x64 LTS (Active Support)
-- Microsoft .NET 10.0.13 Desktop Runtime x64 LTS (Active Support)
+- Microsoft .NET 8.0.33 Desktop Runtime x64 LTS (Active Support)
+- Microsoft .NET 10.0.14 Desktop Runtime x64 LTS (Active Support)
 
 check with / verifique con:
 
@@ -169,8 +169,8 @@ dotnet --info
 
 [![Image](./img/winexternal-edge.png)](https://www.maravento.com/p/winexternal.html)
 
-- Microsoft Edge for Business x64 - 155.0.4283.45 (Active Support)
-- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 155.0.4283.45 (Active Support)
+- Microsoft Edge for Business x64 - 156.0.4314.58 (Active Support)
+- Microsoft Edge WebView2 Evergreen Standalone Installer x64 - 156.0.4314.58 (Active Support)
 
 #### Important About Edge
 
@@ -189,7 +189,7 @@ dotnet --info
 
 [![Image](./img/winexternal-sdk.png)](https://www.maravento.com/p/winexternal.html)
 
-- Windows App SDK 2.5.1 Installer x64 (Active Support)
+- Windows App SDK 2.6.4 Installer x64 (Active Support)
 
 #### Important About Windows App Runtime SDK
 
